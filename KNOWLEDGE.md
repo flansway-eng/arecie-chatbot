@@ -1,6 +1,6 @@
 # KNOWLEDGE.md — Base de Connaissance ARECIE Assistant (Version Finale Unique)
 # Sources : WhatsApp ASMAR G1 · 13 documents ASMAR/WTW/MU2S · Statuts · Règlement Intérieur · Charte
-# Version : 2.0 — 21/05/2026
+# Version : 2.2 — 22/05/2026
 # Usage : Placer à la racine du projet aux côtés de CLAUDE.md
 
 ---
@@ -168,8 +168,8 @@ La plateforme est réservée aux membres régulièrement inscrits. Les administr
 | Couple + 2 enfants (4 pers.) | 232 000 FCFA | 168 000 FCFA | 66 400 FCFA |
 
 **Supplément conjoint âgé**
-- Conjoint 70 à 74 ans → surprime **150 000 FCFA/an** supplémentaire
-- Conjoint 75 ans et plus → **retiré de la couverture**
+- Conjoint de 70 à 75 ans → surprime de **150 000 FCFA/an** supplémentaire (payée en plus de la prime principale de l'assuré, due de 70 à 75 ans)
+- Conjoint dès 75 ans → **retiré de la couverture** (75 ans marque la fin définitive de la couverture du conjoint)
 - Enfant 21 à 24 ans → certificat de scolarité **obligatoire**
 - Enfant 25 ans et plus → **retiré de la couverture**
 
@@ -224,6 +224,22 @@ La plateforme est réservée aux membres régulièrement inscrits. Les administr
 - Hôpitaux publics — **WTW n'a PAS de convention CHU** → utiliser cliniques privées
 - Soins esthétiques
 - Dépassements de plafonds
+
+### 2.5.1 Réglementation et plafonnement des soins de kinésithérapie
+
+Conformément aux directives médicales et administratives du contrat ASMAR/WTW :
+
+1. **Plafond annuel strict** : Les soins de kinésithérapie sont limités à un plafond financier annuel de **100 000 FCFA** par assuré. Ce plafond est global, limitatif et infranchissable : dès qu'il est atteint, le système bloque automatiquement toute nouvelle prise en charge pour l'année en cours (aucune dérogation médicale ou administrative n'est possible).
+2. **Calcul de la prise en charge (Règle des 80/20)** : Le décompte du plafond dépend uniquement de la part réelle payée par la mutuelle (80 %). Le ticket modérateur (20 %) reste à la charge de la patiente et n'affecte pas son plafond annuel.
+   * **Exemple concret pour une séance facturée à 15 000 FCFA par le prestataire** :
+     * **Part Mutuelle (80 %)** : **12 000 FCFA** (seul ce montant est déduit du plafond annuel de 100 000 FCFA).
+     * **Part Patiente / Ticket modérateur (20 %)** : **3 000 FCFA** (à la charge de l'assuré, sans impact sur le plafond).
+     * **Nombre maximum de séances remboursées** : 100 000 / 12 000 = 8,33 séances, soit **8 séances complètes** autorisées sur l'année.
+3. **Cas pratique de suivi (Exemple de Mme YOKOLI)** :
+   * **Décompte des prestations** : Pour cette assurée, 5 séances ont été demandées (enregistrées dans l'application, bien qu'apparemment non encore réglées au prestataire).
+   * **Solde disponible** : À raison de 12 000 FCFA par séance pour la part mutuelle, il lui reste exactement **3 séances** entièrement prises en charge.
+4. **Recommandation du Conseil Médical** :
+   * Le plafond étant contractuel et rigide, le Médecin Conseil recommande vivement, **dès le début de la prise en charge**, de demander au kinésithérapeute d'accompagner l'assuré vers l'**auto-rééducation à domicile** (apprentissage d'exercices, étirements, postures). Cela permet de pérenniser les acquis thérapeutiques sans rupture de soins ni surcoût financier une fois le plafond annuel de 100 000 FCFA épuisé.
 
 ### 2.6 Parcours de soins WTW / MED'INOVA
 
@@ -461,7 +477,7 @@ R : Le délai de 3 mois pour soumettre la demande de remboursement est dépassé
 R : Non. WTW n'a pas de convention avec les hôpitaux publics. Utiliser une clinique privée du réseau ou avancer les frais pour remboursement.
 
 **Q : Mon conjoint a 70 ans, vais-je payer plus ?**
-R : Oui — surprime de 150 000 FCFA/an de 70 à 74 ans. À 75 ans : le conjoint est retiré de la couverture.
+R : Oui — surprime de 150 000 FCFA/an de 70 à 75 ans. À 75 ans : le conjoint est retiré de la couverture (ce qui marque la fin définitive de sa couverture).
 
 **Q : Mon enfant a 21 ans, est-il encore couvert ?**
 R : Oui, jusqu'à 24 ans avec un certificat de scolarité. À 25 ans, il est retiré de la couverture.
@@ -480,6 +496,9 @@ R : Contacter Mme COULIBALY FOLMA (07 88 84 87 26). WTW délivre une attestation
 
 **Q : La maternité est-elle couverte ?**
 R : Seulement si votre contrat ne porte pas la mention "maternité exclue". Vérifier avec ASMAR.
+
+**Q : Comment fonctionne la prise en charge des séances de kinésithérapie ?**
+R : Les soins de kinésithérapie sont limités à un plafond annuel strict de 100 000 FCFA par assuré (blocage automatique et sans dérogation possible une fois atteint). La mutuelle prend en charge 80 % du tarif conventionné (déduits du plafond), et l'assuré paie 20 % de ticket modérateur (sans impact sur le plafond). Par exemple, pour une séance à 15 000 FCFA, la mutuelle paie 12 000 FCFA et l'assuré 3 000 FCFA, ce qui permet de faire 8 séances complètes dans l'année. En cas de soins prolongés, le Médecin Conseil recommande de demander au kinésithérapeute de vous guider vers l'auto-rééducation à domicile dès le départ pour maintenir les acquis sans surcoût une fois le plafond atteint.
 
 ---
 
@@ -519,7 +538,7 @@ R : Seulement si votre contrat ne porte pas la mention "maternité exclue". Vér
 - ⚠️ **CHU/hôpitaux publics** : pas de convention WTW — orienter vers cliniques privées
 - ⚠️ **Délai remboursement** : 3 mois maximum après les soins — passé ce délai = forclos
 - ⚠️ **Réédition carte** : 2 000 FCFA depuis le 01/03/2026 (plus gratuit)
-- ⚠️ **Conjoint 70-74 ans** : +150 000 FCFA — conjoint 75+ : exclu
+- ⚠️ **Conjoint 70-75 ans** : +150 000 FCFA — conjoint 75+ : exclu (fin de couverture à 75 ans)
 - ⚠️ **Enfant 21-24 ans** : certificat de scolarité obligatoire — enfant 25+ : exclu
 - ⚠️ **Ticket modérateur** : ~20% du tarif conventionné — tout montant fixe excessif est anormal
 - ⚠️ **Renouvellement** : passer d'abord par le groupe WhatsApp ASMAR G1
@@ -530,6 +549,6 @@ R : Seulement si votre contrat ne porte pas la mention "maternité exclue". Vér
 
 ---
 
-*KNOWLEDGE.md v2.0 — Base unique et définitive*
+*KNOWLEDGE.md v2.2 — Base unique et définitive*
 *Sources : WhatsApp ASMAR G1 (2022-2026) · 13 documents officiels ASMAR/WTW/MU2S · Statuts ARECIE (27/05/2024) · Règlement Intérieur ARECIE · Charte Plateforme ARECIE*
-*21/05/2026 — À placer à la racine du projet aux côtés de CLAUDE.md*
+*22/05/2026 — À placer à la racine du projet aux côtés de CLAUDE.md*
