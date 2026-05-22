@@ -467,7 +467,7 @@ CONFORMITÉ :
 | Réclamation                        | → Bibliothèque SharePoint "Réclamations"        |
 | Formulaires à télécharger          | → Bibliothèque Formulaires ARECIE               |
 | Contact humain requis              | → arecie@flansway.com                           |
-| Urgence médicale                   | → Rediriger vers le 15 (SAMU) ou services urgence |
+| Urgence médicale                   | → Appeler le 185 (SAMU - Numéro court) ou lignes standards : +225 27 22 44 53 53 / +225 27 22 44 94 09 |
 
 ---
 

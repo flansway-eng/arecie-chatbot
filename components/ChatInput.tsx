@@ -49,7 +49,7 @@ export function ChatInput({
         </div>
       </form>
       <p className="py-1 text-center text-xs text-gray-400">
-        L&apos;Assistant ARECIE est là pour vous guider · Urgence médicale : appelez le 15
+        L&apos;Assistant ARECIE est là pour vous guider · Urgence médicale (SAMU) : appelez le 185 ou +225 27 22 44 53 53 / +225 27 22 44 94 09
       </p>
     </div>
   );

@@ -467,7 +467,7 @@ CONFORMITÉ :
 | Réclamation                        | → Bibliothèque SharePoint "Réclamations"        |
 | Formulaires à télécharger          | → Bibliothèque Formulaires ARECIE               |
 | Contact humain requis              | → arecie@flansway.com                           |
-| Urgence médicale                   | → Rediriger vers le 15 (SAMU) ou services urgence |
+| Urgence médicale                   | → Appeler le 185 (SAMU - Numéro court) ou lignes standards : +225 27 22 44 53 53 / +225 27 22 44 94 09 |
 
 ---
 
@@ -782,6 +782,10 @@ Procédure de dépôt :
 |---------------|--------------------|---------|
 | Roger Flan    | Secrétaire Général | arecie@flansway.com |
 
+### Urgences Médicales (SAMU)
+- **Numéro court** : 185
+- **Lignes standards du SAMU** : +225 27 22 44 53 53 ou +225 27 22 44 94 09
+
 **Adresse WTW :** Plateau, 01 BP 5675 Abidjan 01 — T: +225 27 20 25 26 68
 
 ---
@@ -912,7 +916,7 @@ R : Document annuel prouvant que le retraité est en vie. À déposer à la CNPS
 
 # KNOWLEDGE.md — Base de Connaissance ARECIE Assistant (Version Finale Unique)
 # Sources : WhatsApp ASMAR G1 · 13 documents ASMAR/WTW/MU2S · Statuts · Règlement Intérieur · Charte
-# Version : 2.2 — 22/05/2026
+# Version : 2.3 — 22/05/2026
 # Usage : Placer à la racine du projet aux côtés de CLAUDE.md
 
 ---
@@ -1308,6 +1312,11 @@ Tél. : 27 22 22 38 50 / 05 00 67 14 14 — www.iec-abidjan.com
 | Man | DIABATE LACINE | 0709220116 |
 | Korhogo | TRAORE BONAFOU | 0707709738 |
 | Bouaké | BAMBA NEMASSE | 0709756997 / 0102507062 |
+
+### 5.7 Urgences Médicales (SAMU)
+
+- **Numéro court** : 185
+- **Lignes standards du SAMU** : +225 27 22 44 53 53 ou +225 27 22 44 94 09
 
 ---
 
