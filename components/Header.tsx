@@ -1,6 +1,26 @@
+"use client";
+
+import { IconHome, IconTrash } from "@tabler/icons-react";
 import { Logo } from "./Logo";
 
-export function Header() {
+const headerBtnClass =
+  "inline-flex items-center gap-1.5 rounded-lg border border-white/40 bg-transparent px-3 py-1.5 text-xs text-white transition-colors hover:bg-white/10 focus:outline-none focus-visible:ring-2 focus-visible:ring-white/50";
+
+type HeaderProps = {
+  onClearConversation: () => void;
+};
+
+export function Header({ onClearConversation }: HeaderProps) {
+  const handleHome = () => {
+    window.location.reload();
+  };
+
+  const handleClear = () => {
+    if (window.confirm("Effacer la conversation ?")) {
+      onClearConversation();
+    }
+  };
+
   return (
     <header
       className="h-16 w-full shrink-0 z-20 bg-gradient-to-r from-arecie-green to-arecie-greenDark shadow-header-green"
@@ -22,6 +42,29 @@ export function Header() {
         </div>
 
         <div className="flex items-center gap-3 shrink-0">
+          <div className="flex items-center gap-2">
+            <button
+              type="button"
+              onClick={handleHome}
+              className={headerBtnClass}
+              title="Retour à l'accueil"
+              aria-label="Retour à l'accueil"
+            >
+              <IconHome size={16} stroke={1.75} aria-hidden />
+              <span className="hidden sm:inline">Accueil</span>
+            </button>
+            <button
+              type="button"
+              onClick={handleClear}
+              className={headerBtnClass}
+              title="Effacer la conversation"
+              aria-label="Effacer la conversation"
+            >
+              <IconTrash size={16} stroke={1.75} aria-hidden />
+              <span className="hidden sm:inline">Effacer</span>
+            </button>
+          </div>
+
           <div className="flex items-center gap-2">
             <span
               className="h-2 w-2 shrink-0 rounded-full bg-arecie-yellow animate-pulse-soft"

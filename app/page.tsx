@@ -2,9 +2,10 @@
 
 import { useState, useRef, FormEvent } from 'react';
 import { ChatWindow } from '@/components/ChatWindow';
-import { QuickActions } from '@/components/QuickActions';
 import { ChatInput } from '@/components/ChatInput';
 import { Header } from '@/components/Header';
+import { resolveNearbyPrestataires } from '@/lib/geolocationClient';
+import { shouldTriggerGeolocation } from '@/lib/prestatairesSearch.shared';
 
 interface Message {
   role: 'user' | 'assistant';
@@ -21,6 +22,33 @@ export default function Home() {
     if (!text.trim() || isLoading) return;
 
     const userMsg: Message = { role: 'user', content: text };
+
+    if (shouldTriggerGeolocation(text)) {
+      setMessages((prev) => [...prev, userMsg]);
+      setInput('');
+      setIsLoading(true);
+      try {
+        const { assistantContent } = await resolveNearbyPrestataires(text);
+        setMessages((prev) => [
+          ...prev,
+          { role: 'assistant', content: assistantContent },
+        ]);
+      } catch (error) {
+        console.error('Geolocation flow error:', error);
+        setMessages((prev) => [
+          ...prev,
+          {
+            role: 'assistant',
+            content:
+              "Je n'ai pas pu localiser les prestataires proches. Indiquez votre commune (ex: Cocody, Yopougon…).",
+          },
+        ]);
+      } finally {
+        setIsLoading(false);
+      }
+      return;
+    }
+
     const newMessages = [...messages, userMsg];
 
     setMessages(newMessages);
@@ -70,16 +98,30 @@ export default function Home() {
     sendMessage(input);
   };
 
+  const handleLocalExchange = (userContent: string, assistantContent: string) => {
+    setMessages((prev) => [
+      ...prev,
+      { role: 'user', content: userContent },
+      { role: 'assistant', content: assistantContent },
+    ]);
+  };
+
+  const handleClearConversation = () => {
+    setMessages([]);
+    setInput('');
+  };
+
   return (
     <div className="flex flex-col h-screen bg-arecie-gray50">
-      <Header />
+      <Header onClearConversation={handleClearConversation} />
 
       <main className="flex flex-col flex-1 min-h-0 bg-arecie-white max-w-4xl w-full mx-auto border-x border-arecie-gray100 shadow-sm">
-        <ChatWindow messages={messages} isLoading={isLoading} />
-
-        {messages.length === 0 && (
-          <QuickActions onSelectAction={sendMessage} disabled={isLoading} />
-        )}
+        <ChatWindow
+          messages={messages}
+          isLoading={isLoading}
+          onQuickAction={sendMessage}
+          onLocalExchange={handleLocalExchange}
+        />
 
         <ChatInput
           input={input}

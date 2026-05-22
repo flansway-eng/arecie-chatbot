@@ -1,0 +1,3642 @@
+[
+  {
+    "nom": "A VISION",
+    "type": "OPTIQUE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "AGNEBY ESPACE MEDICAL",
+    "type": "CENTRE DE SOINS",
+    "commune": "AGBOVILLE"
+  },
+  {
+    "nom": "ALAIN AFFLELOU",
+    "type": "OPTIQUE",
+    "commune": "II PLATEAUX"
+  },
+  {
+    "nom": "ALTHEA CENTRE MEDICAL",
+    "type": "CENTRE DE SOINS",
+    "commune": "RIVIERA"
+  },
+  {
+    "nom": "ATLANTIQUE",
+    "type": "OPTIQUE",
+    "commune": "COCODY IRIS"
+  },
+  {
+    "nom": "BAOL OPTIC",
+    "type": "OPTIQUE",
+    "commune": "TREICHVILLE"
+  },
+  {
+    "nom": "BIOMEA",
+    "type": "LABORATOIRE",
+    "commune": "II PLATEAUX"
+  },
+  {
+    "nom": "BLESSING FIELD",
+    "type": "CENTRE DE SOINS",
+    "commune": "BINGERVILLE"
+  },
+  {
+    "nom": "BOUAKE",
+    "type": "OPTIQUE",
+    "commune": "OPTIQUE BOUAKE"
+  },
+  {
+    "nom": "CABINET DE",
+    "type": "CENTRE DE SOINS",
+    "commune": "SAINTE EUNICE"
+  },
+  {
+    "nom": "CABINET DE",
+    "type": "CENTRE DE SOINS",
+    "commune": "HOURYA"
+  },
+  {
+    "nom": "CABINET DE CARDIOLOGIE /DR JACQUES BURDIN",
+    "type": "CENTRE DE SOINS",
+    "commune": "PLATEAU"
+  },
+  {
+    "nom": "CABINET DE KINESITHERAPIE EMMANUEL",
+    "type": "CENTRE DE SOINS",
+    "commune": "RIVIERA"
+  },
+  {
+    "nom": "CABINET DENTAIRE 9E TRANCHE",
+    "type": "CENTRE DE SOINS",
+    "commune": "II PLATEAUX ANGRE"
+  },
+  {
+    "nom": "CABINET DENTAIRE ADOU GEORGES",
+    "type": "CENTRE DE SOINS",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "CABINET DENTAIRE AZUR",
+    "type": "CENTRE DE SOINS",
+    "commune": "COCODY"
+  },
+  {
+    "nom": "CABINET DENTAIRE BEL AIR",
+    "type": "CENTRE DE SOINS",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "CABINET DENTAIRE CHARDY",
+    "type": "CENTRE DE SOINS",
+    "commune": "PLATEAU"
+  },
+  {
+    "nom": "CABINET DENTAIRE CHOUMALI EKRA",
+    "type": "CENTRE DE SOINS",
+    "commune": "COCODY"
+  },
+  {
+    "nom": "CABINET DENTAIRE CHRIST ROI",
+    "type": "CENTRE DE SOINS",
+    "commune": "DALOA"
+  },
+  {
+    "nom": "CABINET DENTAIRE CISSE ALPHA",
+    "type": "CENTRE DE SOINS",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "CABINET DENTAIRE DE LA ZONE 4",
+    "type": "CENTRE DE SOINS",
+    "commune": "MARCORY"
+  },
+  {
+    "nom": "CABINET DENTAIRE DU DOKUI",
+    "type": "CENTRE DE SOINS",
+    "commune": "PLATEAU DOKUI"
+  },
+  {
+    "nom": "CABINET DENTAIRE DU ROND POINT",
+    "type": "CENTRE DE SOINS",
+    "commune": "TREICHVILLE"
+  },
+  {
+    "nom": "CABINET DENTAIRE DU SOURIRE",
+    "type": "CENTRE DE SOINS",
+    "commune": "MARCORY"
+  },
+  {
+    "nom": "CABINET DENTAIRE HORIZON",
+    "type": "CENTRE DE SOINS",
+    "commune": "A RENSEIGNER"
+  },
+  {
+    "nom": "CABINET DENTAIRE L EMMANUEL",
+    "type": "CENTRE DE SOINS",
+    "commune": "II PLATEAUX ANGRE"
+  },
+  {
+    "nom": "CABINET DENTAIRE LA GRACE",
+    "type": "CENTRE DE SOINS",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "CABINET DENTAIRE LA NOUVELLE PERGOLA",
+    "type": "CENTRE DE SOINS",
+    "commune": "TREICHVILLE"
+  },
+  {
+    "nom": "CABINET DENTAIRE LATRILLE",
+    "type": "CENTRE DE SOINS",
+    "commune": "II PLATEAUX ANGRE"
+  },
+  {
+    "nom": "CABINET DENTAIRE LE GRAND CENTRE",
+    "type": "CENTRE DE SOINS",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "CABINET DENTAIRE LE MANGUIER",
+    "type": "CENTRE DE SOINS",
+    "commune": "PLATEAU"
+  },
+  {
+    "nom": "CABINET DENTAIRE LES BLEUETS-VALLON",
+    "type": "CENTRE DE SOINS",
+    "commune": "II PLATEAUX VALLON"
+  },
+  {
+    "nom": "CABINET DENTAIRE LES ORCHIDEES/GRD BASSAM",
+    "type": "CENTRE DE SOINS",
+    "commune": "GRAND-BASSAM"
+  },
+  {
+    "nom": "CABINET DENTAIRE LUMIERE",
+    "type": "CENTRE DE SOINS",
+    "commune": "MARCORY"
+  },
+  {
+    "nom": "CABINET DENTAIRE MARIE-VICTOIRE/COCODY",
+    "type": "CENTRE DE SOINS",
+    "commune": "II PLATEAUX ANGRE"
+  },
+  {
+    "nom": "CABINET DENTAIRE OASIS",
+    "type": "CENTRE DE SOINS",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "CABINET DENTAIRE PHINA",
+    "type": "CENTRE DE SOINS",
+    "commune": "II PLATEAUX"
+  },
+  {
+    "nom": "CABINET DENTAIRE RUE LUMIERE",
+    "type": "CENTRE DE SOINS",
+    "commune": "MARCORY"
+  },
+  {
+    "nom": "CABINET DENTAIRE SAINT JOSEPH SARL",
+    "type": "CENTRE DE SOINS",
+    "commune": "II PLATEAUX ANGRE"
+  },
+  {
+    "nom": "CABINET DENTAIRE SAINTE RITA DE CASCIA",
+    "type": "CENTRE DE SOINS",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "CABINET DENTAIRE SANGARET",
+    "type": "CENTRE DE SOINS",
+    "commune": "PLATEAU"
+  },
+  {
+    "nom": "CABINET DENTAIRE ST JEAN-BOSCO",
+    "type": "CENTRE DE SOINS",
+    "commune": "TREICHVILLE"
+  },
+  {
+    "nom": "CABINET DENTAIRE ST MICHEL 2 PLATEAUX",
+    "type": "CENTRE DE SOINS",
+    "commune": "II PLATEAUX"
+  },
+  {
+    "nom": "CABINET DENTAIRE STE THERESE",
+    "type": "CENTRE DE SOINS",
+    "commune": "MARCORY"
+  },
+  {
+    "nom": "CABINET MEDICAL ANNIE DE DERMATOLOGIE",
+    "type": "CENTRE DE SOINS",
+    "commune": "TREICHVILLE"
+  },
+  {
+    "nom": "CABINET MEDICAL DE KOUMASSI",
+    "type": "CENTRE DE SOINS",
+    "commune": "KOUMASSI"
+  },
+  {
+    "nom": "CABINET MEDICAL FEMINA",
+    "type": "CENTRE DE SOINS",
+    "commune": "II PLATEAUX"
+  },
+  {
+    "nom": "CABINET MEDICAL SUCCAR",
+    "type": "CENTRE DE SOINS",
+    "commune": "PLATEAU"
+  },
+  {
+    "nom": "CABINET MEDICO-CHIRURGICAL SAINTE HENRIETTE",
+    "type": "CENTRE DE SOINS",
+    "commune": "BONOUA"
+  },
+  {
+    "nom": "CE.S.A.M LA DIAGNOSE",
+    "type": "LABORATOIRE",
+    "commune": "II PLATEAUX VALLON"
+  },
+  {
+    "nom": "CENTRAL",
+    "type": "OPTIQUE",
+    "commune": "PHOTO"
+  },
+  {
+    "nom": "CENTRAL PHARMA PDP",
+    "type": "CENTRE DE SOINS",
+    "commune": "TREICHVILLE"
+  },
+  {
+    "nom": "CENTRE",
+    "type": "OPTIQUE",
+    "commune": "MEDICAL CENTRE COMMERCIAL TERRA"
+  },
+  {
+    "nom": "CENTRE",
+    "type": "OPTIQUE",
+    "commune": "PRESTIGE"
+  },
+  {
+    "nom": "CENTRE D EXCELLENCE MEDICAL XMED",
+    "type": "CENTRE DE SOINS",
+    "commune": "BINGERVILLE"
+  },
+  {
+    "nom": "CENTRE D IMAGERIE MEDICALE ABIDJAN",
+    "type": "LABORATOIRE",
+    "commune": "TREICHVILLE"
+  },
+  {
+    "nom": "CENTRE D IMAGERIE MEDICALE ET D ANALYSES DE BOUAKE (CIMAB)",
+    "type": "CENTRE DE SOINS",
+    "commune": "BOUAKE"
+  },
+  {
+    "nom": "CENTRE DE PREVENTION DES CANCERS CUTANES D ABIDJAN",
+    "type": "CENTRE DE SOINS",
+    "commune": "II PLATEAUX"
+  },
+  {
+    "nom": "CENTRE DE SANTE CRS DE DIVO",
+    "type": "CENTRE DE SOINS",
+    "commune": "DIVO"
+  },
+  {
+    "nom": "CENTRE DE SANTE DE LA POLICE DALOA",
+    "type": "CENTRE DE SOINS",
+    "commune": "DALOA"
+  },
+  {
+    "nom": "CENTRE DE SANTE DE LA POLICE NATIONALE DE BONDOUKOU",
+    "type": "CENTRE DE SOINS",
+    "commune": "BONDOUKOU"
+  },
+  {
+    "nom": "CENTRE MEDICAL 8EME TRANCHE",
+    "type": "CENTRE DE SOINS",
+    "commune": "II PLATEAUX ANGRE"
+  },
+  {
+    "nom": "CENTRE MEDICAL ABOBO GARE",
+    "type": "CENTRE DE SOINS",
+    "commune": "ABOBO"
+  },
+  {
+    "nom": "CENTRE MEDICAL ADRIEN GABLA",
+    "type": "CENTRE DE SOINS",
+    "commune": "PLATEAU"
+  },
+  {
+    "nom": "CENTRE MEDICAL AGNEBY-TIASSA",
+    "type": "CENTRE DE SOINS",
+    "commune": "AGBOVILLE"
+  },
+  {
+    "nom": "CENTRE MEDICAL ALIM",
+    "type": "CENTRE DE SOINS",
+    "commune": "II PLATEAUX ANGRE"
+  },
+  {
+    "nom": "CENTRE MEDICAL ANNAELLE",
+    "type": "CENTRE DE SOINS",
+    "commune": "II PLATEAUX ANGRE"
+  },
+  {
+    "nom": "CENTRE MEDICAL ANNE-MATHIAS",
+    "type": "CENTRE DE SOINS",
+    "commune": "GRAND-BASSAM"
+  },
+  {
+    "nom": "CENTRE MEDICAL ASSISTANCE MEDICO-TECHNIQUE",
+    "type": "CENTRE DE SOINS",
+    "commune": "TANDA"
+  },
+  {
+    "nom": "CENTRE MEDICAL BETHEL",
+    "type": "CENTRE DE SOINS",
+    "commune": "BOUAFLE"
+  },
+  {
+    "nom": "CENTRE MEDICAL BRAWE DIVINE GRACE",
+    "type": "CENTRE DE SOINS",
+    "commune": "YOPOUGONCENTRE MEDICAL CHARDY"
+  },
+  {
+    "nom": "CENTRE MEDICAL CARDIO-RESPIRATOIRE LES JARDINS",
+    "type": "CENTRE DE SOINS",
+    "commune": "II PLATEAUX"
+  },
+  {
+    "nom": "CENTRE MEDICAL CHENAL",
+    "type": "CENTRE DE SOINS",
+    "commune": "PLATEAU"
+  },
+  {
+    "nom": "CENTRE MEDICAL CROZET",
+    "type": "CENTRE DE SOINS",
+    "commune": "PLATEAU"
+  },
+  {
+    "nom": "CENTRE MEDICAL CURANTIS",
+    "type": "CENTRE DE SOINS",
+    "commune": "RIVIERA"
+  },
+  {
+    "nom": "CENTRE MEDICAL CŒUR SACRE",
+    "type": "CENTRE DE SOINS",
+    "commune": "COCODY"
+  },
+  {
+    "nom": "CENTRE MEDICAL DES ARTS",
+    "type": "CENTRE DE SOINS",
+    "commune": "RIVIERA"
+  },
+  {
+    "nom": "CENTRE MEDICAL DES CITES",
+    "type": "CENTRE DE SOINS",
+    "commune": "II PLATEAUX ANGRE"
+  },
+  {
+    "nom": "CENTRE MEDICAL DES LAGUNES",
+    "type": "CENTRE DE SOINS",
+    "commune": "KOUMASSI"
+  },
+  {
+    "nom": "CENTRE MEDICAL DU DJIBOUA",
+    "type": "CENTRE DE SOINS",
+    "commune": "DIVO"
+  },
+  {
+    "nom": "CENTRE MEDICAL DU ROND POINT",
+    "type": "CENTRE DE SOINS",
+    "commune": "TREICHVILLE"
+  },
+  {
+    "nom": "CENTRE MEDICAL DU TRIANGLE",
+    "type": "CENTRE DE SOINS",
+    "commune": "ABIDJAN"
+  },
+  {
+    "nom": "CENTRE MEDICAL EDLONA",
+    "type": "CENTRE DE SOINS",
+    "commune": "PLATEAU"
+  },
+  {
+    "nom": "CENTRE MEDICAL ELIANA",
+    "type": "CENTRE DE SOINS",
+    "commune": "RIVIERA"
+  },
+  {
+    "nom": "CENTRE MEDICAL ET DE DIAGNOSTIC SANS FRONTIERE",
+    "type": "CENTRE DE SOINS",
+    "commune": "COCODY"
+  },
+  {
+    "nom": "CENTRE MEDICAL FAVEUR",
+    "type": "CENTRE DE SOINS",
+    "commune": "ABOBO"
+  },
+  {
+    "nom": "CENTRE MEDICAL FIRDAOUSS",
+    "type": "CENTRE DE SOINS",
+    "commune": "MAN"
+  },
+  {
+    "nom": "CENTRE MEDICAL HARMONY",
+    "type": "CENTRE DE SOINS",
+    "commune": "RIVIERA"
+  },
+  {
+    "nom": "CENTRE MEDICAL HOFFMANN",
+    "type": "CENTRE DE SOINS",
+    "commune": "II PLATEAUX ANGRE"
+  },
+  {
+    "nom": "CENTRE MEDICAL HOMEA",
+    "type": "CENTRE DE SOINS",
+    "commune": "RIVIERA"
+  },
+  {
+    "nom": "CENTRE MEDICAL HOPE DE BASSAM",
+    "type": "CENTRE DE SOINS",
+    "commune": "GRAND-BASSAM"
+  },
+  {
+    "nom": "CENTRE MEDICAL INTIMA",
+    "type": "CENTRE DE SOINS",
+    "commune": "RIVIERA"
+  },
+  {
+    "nom": "CENTRE MEDICAL LA MISERICORDE SARL",
+    "type": "CENTRE DE SOINS",
+    "commune": "KOUMASSI"
+  },
+  {
+    "nom": "CENTRE MEDICAL LA PROVIDENCE DE TONKPI",
+    "type": "CENTRE DE SOINS",
+    "commune": "MAN"
+  },
+  {
+    "nom": "CENTRE MEDICAL LA RETINE",
+    "type": "CENTRE DE SOINS",
+    "commune": "RIVIERA"
+  },
+  {
+    "nom": "CENTRE MEDICAL LES ARCHANGES/YOP",
+    "type": "CENTRE DE SOINS",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "CENTRE MEDICAL LES BLEUETS",
+    "type": "CENTRE DE SOINS",
+    "commune": "II PLATEAUX VALLON"
+  },
+  {
+    "nom": "CENTRE MEDICAL LES ROSIERS",
+    "type": "CENTRE DE SOINS",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "CENTRE MEDICAL LIRING",
+    "type": "CENTRE DE SOINS",
+    "commune": "KOUMASSI"
+  },
+  {
+    "nom": "CENTRE MEDICAL LONGCHAMP",
+    "type": "CENTRE DE SOINS",
+    "commune": "PLATEAU"
+  },
+  {
+    "nom": "CENTRE MEDICAL MAYA",
+    "type": "CENTRE DE SOINS",
+    "commune": "II PLATEAUX VALLON"
+  },
+  {
+    "nom": "CENTRE MEDICAL MIENMOH SARL",
+    "type": "CENTRE DE SOINS",
+    "commune": "KORHOGO"
+  },
+  {
+    "nom": "CENTRE MEDICAL NOTRE DAME DE L ESPERANCE DE MAN",
+    "type": "CENTRE DE SOINS",
+    "commune": "MAN"
+  },
+  {
+    "nom": "CENTRE MEDICAL PEDIATRIQUE SOURIRE D ENFANCE",
+    "type": "CENTRE DE SOINS",
+    "commune": "II PLATEAUX"
+  },
+  {
+    "nom": "CENTRE MEDICAL PRIMA",
+    "type": "CENTRE DE SOINS",
+    "commune": "MARCORY"
+  },
+  {
+    "nom": "CENTRE MEDICAL PRIVE CONFESSIONNEL CMR3",
+    "type": "CENTRE DE SOINS",
+    "commune": "RIVIERA"
+  },
+  {
+    "nom": "CENTRE MEDICAL PROSPERITE",
+    "type": "CENTRE DE SOINS",
+    "commune": "ABOBO"
+  },
+  {
+    "nom": "CENTRE MEDICAL RIVIERA AMBASSADE",
+    "type": "CENTRE DE SOINS",
+    "commune": "RIVIERA"
+  },
+  {
+    "nom": "CENTRE MEDICAL SAINT JEAN MARIE-VIANNEY",
+    "type": "CENTRE DE SOINS",
+    "commune": "DIVO"
+  },
+  {
+    "nom": "CENTRE MEDICAL SAINT LOUIS ORIONE",
+    "type": "CENTRE DE SOINS",
+    "commune": "ANYAMA"
+  },
+  {
+    "nom": "CENTRE MEDICAL SAINT PIERRE",
+    "type": "CENTRE DE SOINS",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "CENTRE MEDICAL SAINT RAPHAEL DE HIRE",
+    "type": "CENTRE DE SOINS",
+    "commune": "HIRE"
+  },
+  {
+    "nom": "CENTRE MEDICAL SAINT SAUVEUR",
+    "type": "CENTRE DE SOINS",
+    "commune": "TREICHVILLE"
+  },
+  {
+    "nom": "CENTRE MEDICAL SAINTE HELENE / SINFRA",
+    "type": "CENTRE DE SOINS",
+    "commune": "SINFRA"
+  },
+  {
+    "nom": "CENTRE MEDICAL SAINTE LOUISE",
+    "type": "CENTRE DE SOINS",
+    "commune": "PLATEAU"
+  },
+  {
+    "nom": "CENTRE MEDICAL SAREPTA",
+    "type": "CENTRE DE SOINS",
+    "commune": "DABOU"
+  },
+  {
+    "nom": "CENTRE MEDICAL SILOE",
+    "type": "CENTRE DE SOINS",
+    "commune": "GRAND-BASSAM"
+  },
+  {
+    "nom": "CENTRE MEDICAL SMGL",
+    "type": "CENTRE DE SOINS",
+    "commune": "TREICHVILLE"
+  },
+  {
+    "nom": "CENTRE MEDICAL SPECIALISE KREB S",
+    "type": "CENTRE DE SOINS",
+    "commune": "II PLATEAUX VALLON"
+  },
+  {
+    "nom": "CENTRE MEDICAL ST JOSEPH DE TOUIH",
+    "type": "CENTRE DE SOINS",
+    "commune": "SAN-PEDRO"
+  },
+  {
+    "nom": "CENTRE MEDICAL ST SAUVEUR MISERICORDIEUX",
+    "type": "CENTRE DE SOINS",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "CENTRE MEDICAL STE FAMILLE DE GRAND BASSAM",
+    "type": "CENTRE DE SOINS",
+    "commune": "GRAND-BASSAM"
+  },
+  {
+    "nom": "CENTRE MEDICAL TABITHA",
+    "type": "CENTRE DE SOINS",
+    "commune": "TOUMODI"
+  },
+  {
+    "nom": "CENTRE MEDICAL THEMIS",
+    "type": "CENTRE DE SOINS",
+    "commune": "II PLATEAUX 9E TRANCHE"
+  },
+  {
+    "nom": "CENTRE MEDICO BIOLOGIQUE FLEMING",
+    "type": "LABORATOIRE",
+    "commune": "MARCORY"
+  },
+  {
+    "nom": "CENTRE MEDICO-CHIRURGICAL DE LA CLEMENCE RAHMA",
+    "type": "CENTRE DE SOINS",
+    "commune": "ABOBO"
+  },
+  {
+    "nom": "CENTRE MEDICO-CHIRURGICAL FRANCE-IVOIRE",
+    "type": "CENTRE DE SOINS",
+    "commune": "ZONE 4 BIETRY"
+  },
+  {
+    "nom": "CENTRE MEDICO-CHIRURGICAL LA SAINTE TRINITE",
+    "type": "CENTRE DE SOINS",
+    "commune": "SOUBRE"
+  },
+  {
+    "nom": "CESAM-SA",
+    "type": "LABORATOIRE",
+    "commune": "II PLATEAUX VALLON"
+  },
+  {
+    "nom": "CIRAD - CENTRE D INVESTIGATIONS MEDICALES ET RADIOLOGIE",
+    "type": "LABORATOIRE",
+    "commune": "II PLATEAUX"
+  },
+  {
+    "nom": "CLAIRE VISION",
+    "type": "OPTIQUE",
+    "commune": "PLATEAU"
+  },
+  {
+    "nom": "CLIN D OEIL",
+    "type": "OPTIQUE",
+    "commune": "OPTIQUE RIVIERA"
+  },
+  {
+    "nom": "CLINIQUE ALOES",
+    "type": "CENTRE DE SOINS",
+    "commune": "DABOU"
+  },
+  {
+    "nom": "CLINIQUE CENTRALE DE SAN PEDRO",
+    "type": "CENTRE DE SOINS",
+    "commune": "SAN-PEDRO"
+  },
+  {
+    "nom": "CLINIQUE CMIDA",
+    "type": "CENTRE DE SOINS",
+    "commune": "MARCORY"
+  },
+  {
+    "nom": "CLINIQUE D ANDROLOGIE-D UROLOGIE ET DE SEXOLOGIE CI",
+    "type": "CENTRE DE SOINS",
+    "commune": "II PLATEAUX 7E TRANCHE"
+  },
+  {
+    "nom": "CLINIQUE DE COCODY",
+    "type": "CENTRE DE SOINS",
+    "commune": "COCODY"
+  },
+  {
+    "nom": "CLINIQUE DENTAIRE ROSYL",
+    "type": "CENTRE DE SOINS",
+    "commune": "SAN-PEDRO"
+  },
+  {
+    "nom": "CLINIQUE DU FROMAGER",
+    "type": "CENTRE DE SOINS",
+    "commune": "GAGNOA"
+  },
+  {
+    "nom": "CLINIQUE EMMANUEL / YAMOUSSOUKRO",
+    "type": "CENTRE DE SOINS",
+    "commune": "YAMOUSSOUKROCLINIQUE ESPOIR DE PAILLET"
+  },
+  {
+    "nom": "CLINIQUE HOTEL MEDICAL MARIA",
+    "type": "CENTRE DE SOINS",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "CLINIQUE IRYS",
+    "type": "CENTRE DE SOINS",
+    "commune": "KOUMASSI"
+  },
+  {
+    "nom": "CLINIQUE L ANTILOPE",
+    "type": "CENTRE DE SOINS",
+    "commune": "DALOA"
+  },
+  {
+    "nom": "CLINIQUE LA GUARDIA",
+    "type": "CENTRE DE SOINS",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "CLINIQUE LA PROVIDENCE-SARL",
+    "type": "CENTRE DE SOINS",
+    "commune": "COCODY"
+  },
+  {
+    "nom": "CLINIQUE LA RENAISSANCE",
+    "type": "CENTRE DE SOINS",
+    "commune": "SAN-PEDRO"
+  },
+  {
+    "nom": "CLINIQUE LA ROCHELLE",
+    "type": "CENTRE DE SOINS",
+    "commune": "PLATEAU"
+  },
+  {
+    "nom": "CLINIQUE LE GHERY / GAGNOA",
+    "type": "CENTRE DE SOINS",
+    "commune": "GAGNOA"
+  },
+  {
+    "nom": "CLINIQUE LES ARCADES",
+    "type": "CENTRE DE SOINS",
+    "commune": "ZONE 4 BIETRY"
+  },
+  {
+    "nom": "CLINIQUE MANZAN",
+    "type": "CENTRE DE SOINS",
+    "commune": "RIVIERA"
+  },
+  {
+    "nom": "CLINIQUE MED CARE INTER",
+    "type": "CENTRE DE SOINS",
+    "commune": "A RENSEIGNER"
+  },
+  {
+    "nom": "CLINIQUE MEDICALE ADJAME LIBERTE",
+    "type": "CENTRE DE SOINS",
+    "commune": "ADJAME"
+  },
+  {
+    "nom": "CLINIQUE MEDICALE ANDRE DUPUY",
+    "type": "CENTRE DE SOINS",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "CLINIQUE MEDICALE ANGEALEX SARL",
+    "type": "CENTRE DE SOINS",
+    "commune": "DALOA"
+  },
+  {
+    "nom": "CLINIQUE MEDICALE BEGNANKO SARLU",
+    "type": "CENTRE DE SOINS",
+    "commune": "SAN-PEDRO"
+  },
+  {
+    "nom": "CLINIQUE MEDICALE CARLY",
+    "type": "CENTRE DE SOINS",
+    "commune": "ZONE 4 BIETRY"
+  },
+  {
+    "nom": "CLINIQUE MEDICALE CHAPELET D ABIDJAN",
+    "type": "CENTRE DE SOINS",
+    "commune": "RIVIERA"
+  },
+  {
+    "nom": "CLINIQUE MEDICALE COEUR SACRE",
+    "type": "CENTRE DE SOINS",
+    "commune": "II PLATEAUX 7E TRANCHE"
+  },
+  {
+    "nom": "CLINIQUE MEDICALE D ANGRE",
+    "type": "CENTRE DE SOINS",
+    "commune": "II PLATEAUX ANGRE"
+  },
+  {
+    "nom": "CLINIQUE MEDICALE DANGA",
+    "type": "CENTRE DE SOINS",
+    "commune": "COCODY"
+  },
+  {
+    "nom": "CLINIQUE MEDICALE DE BOUAKE",
+    "type": "CENTRE DE SOINS",
+    "commune": "BOUAKE"
+  },
+  {
+    "nom": "CLINIQUE MEDICALE ELITE",
+    "type": "CENTRE DE SOINS",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "CLINIQUE MEDICALE ENERGY",
+    "type": "CENTRE DE SOINS",
+    "commune": "YAMOUSSOUKRO"
+  },
+  {
+    "nom": "CLINIQUE MEDICALE ESPERANCE TOUMODI SARL",
+    "type": "CENTRE DE SOINS",
+    "commune": "TOUMODI"
+  },
+  {
+    "nom": "CLINIQUE MEDICALE EVE",
+    "type": "CENTRE DE SOINS",
+    "commune": "RIVIERA"
+  },
+  {
+    "nom": "CLINIQUE MEDICALE GABRIEL GARE",
+    "type": "CENTRE DE SOINS",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "CLINIQUE MEDICALE GRACE DIVINE / DALOA",
+    "type": "CENTRE DE SOINS",
+    "commune": "DALOA"
+  },
+  {
+    "nom": "CLINIQUE MEDICALE GYPEMED",
+    "type": "CENTRE DE SOINS",
+    "commune": "II PLATEAUX VALLON"
+  },
+  {
+    "nom": "CLINIQUE MEDICALE JANICK",
+    "type": "CENTRE DE SOINS",
+    "commune": "RIVIERA"
+  },
+  {
+    "nom": "CLINIQUE MEDICALE LA CHRYSALIDE",
+    "type": "CENTRE DE SOINS",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "CLINIQUE MEDICALE LA COLOMBE",
+    "type": "CENTRE DE SOINS",
+    "commune": "II PLATEAUX VALLON"
+  },
+  {
+    "nom": "CLINIQUE MEDICALE LA PAIX DE DAOUKRO",
+    "type": "CENTRE DE SOINS",
+    "commune": "DAOUKRO"
+  },
+  {
+    "nom": "CLINIQUE MEDICALE LA VIERGE DES NOCES",
+    "type": "CENTRE DE SOINS",
+    "commune": "MARCORY"
+  },
+  {
+    "nom": "CLINIQUE MEDICALE LATRILLE",
+    "type": "CENTRE DE SOINS",
+    "commune": "II PLATEAUX"
+  },
+  {
+    "nom": "CLINIQUE MEDICALE LE GRAND CENTRE",
+    "type": "CENTRE DE SOINS",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "CLINIQUE MEDICALE LES JASMINS",
+    "type": "CENTRE DE SOINS",
+    "commune": "COCODY"
+  },
+  {
+    "nom": "CLINIQUE MEDICALE LES OLIVIERS",
+    "type": "CENTRE DE SOINS",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "CLINIQUE MEDICALE LES PERLES",
+    "type": "CENTRE DE SOINS",
+    "commune": "OUME"
+  },
+  {
+    "nom": "CLINIQUE MEDICALE LIFE",
+    "type": "CENTRE DE SOINS",
+    "commune": "II PLATEAUX ANGRE GESTOCI"
+  },
+  {
+    "nom": "CLINIQUE MEDICALE MASSA",
+    "type": "CENTRE DE SOINS",
+    "commune": "ABOBO"
+  },
+  {
+    "nom": "CLINIQUE MEDICALE MEDITEX SARL",
+    "type": "CENTRE DE SOINS",
+    "commune": "MARCORY"
+  },
+  {
+    "nom": "CLINIQUE MEDICALE MONT CARMEL",
+    "type": "CENTRE DE SOINS",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "CLINIQUE MEDICALE NOTRE DAME DE SAN PEDRO",
+    "type": "CENTRE DE SOINS",
+    "commune": "SAN-PEDRO"
+  },
+  {
+    "nom": "CLINIQUE MEDICALE OASIS SANTE",
+    "type": "CENTRE DE SOINS",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "CLINIQUE MEDICALE ROCHE",
+    "type": "CENTRE DE SOINS",
+    "commune": "TREICHVILLE"
+  },
+  {
+    "nom": "CLINIQUE MEDICALE SAINT MATHIEU",
+    "type": "CENTRE DE SOINS",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "CLINIQUE MEDICALE SAINT MOISE",
+    "type": "CENTRE DE SOINS",
+    "commune": "II PLATEAUX 7E TRANCHE"
+  },
+  {
+    "nom": "CLINIQUE MEDICALE SAINT VIATEUR",
+    "type": "CENTRE DE SOINS",
+    "commune": "RIVIERA"
+  },
+  {
+    "nom": "CLINIQUE MEDICALE SAINTE FAMILLE /ABOISSO",
+    "type": "CENTRE DE SOINS",
+    "commune": "ABOISSO"
+  },
+  {
+    "nom": "CLINIQUE MEDICALE SAINTE JUSTINE",
+    "type": "CENTRE DE SOINS",
+    "commune": "II PLATEAUX ANGRE"
+  },
+  {
+    "nom": "CLINIQUE MEDICALE SAINTE MARIE",
+    "type": "CENTRE DE SOINS",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "CLINIQUE MEDICALE SAINTE PHILOMENE",
+    "type": "CENTRE DE SOINS",
+    "commune": "RIVIERA"
+  },
+  {
+    "nom": "CLINIQUE MEDICALE SAINTE TRINITE DE LA VIE",
+    "type": "CENTRE DE SOINS",
+    "commune": "II PLATEAUX ANGRE"
+  },
+  {
+    "nom": "CLINIQUE MEDICALE SAINTES MYRIADES",
+    "type": "CENTRE DE SOINS",
+    "commune": "MARCORY"
+  },
+  {
+    "nom": "CLINIQUE MEDICALE SANITAS-PMA",
+    "type": "CENTRE DE SOINS",
+    "commune": "MARCORY"
+  },
+  {
+    "nom": "CLINIQUE MEDICALE SOLIDARITE / DALOA",
+    "type": "CENTRE DE SOINS",
+    "commune": "DALOA"
+  },
+  {
+    "nom": "CLINIQUE MEDICALE SOURCE DE VIE",
+    "type": "CENTRE DE SOINS",
+    "commune": "ABOISSO"
+  },
+  {
+    "nom": "CLINIQUE MEDICALE SPECIALISEE (CMS)",
+    "type": "CENTRE DE SOINS",
+    "commune": "II PLATEAUX"
+  },
+  {
+    "nom": "CLINIQUE MEDICALE SUNEM",
+    "type": "CENTRE DE SOINS",
+    "commune": "HIRE"
+  },
+  {
+    "nom": "CLINIQUE MEDICALE TRADE CENTER",
+    "type": "CENTRE DE SOINS",
+    "commune": "PLATEAU"
+  },
+  {
+    "nom": "CLINIQUE MEDICO-CHIRURGICALE DU STADE DE BOUAKE",
+    "type": "CENTRE DE SOINS",
+    "commune": "BOUAKE"
+  },
+  {
+    "nom": "CLINIQUE MEDICO-CHIRURGICALE KAKOUMANI",
+    "type": "CENTRE DE SOINS",
+    "commune": "KATIOLA"
+  },
+  {
+    "nom": "CLINIQUE MEDICO-CHIRURGICALE L EMMANUEL",
+    "type": "CENTRE DE SOINS",
+    "commune": "SAN-PEDRO"
+  },
+  {
+    "nom": "CLINIQUE MEDICO-CHIRURGICALE LA GRACE DES LACS",
+    "type": "CENTRE DE SOINS",
+    "commune": "YAMOUSSOUKRO"
+  },
+  {
+    "nom": "CLINIQUE MEDICO-CHIRURGICALE LA SALPETRIERE",
+    "type": "CENTRE DE SOINS",
+    "commune": "II PLATEAUX VALLON"
+  },
+  {
+    "nom": "CLINIQUE MEDICO-CHIRURGICALE NANAN",
+    "type": "CENTRE DE SOINS",
+    "commune": "BOUAKE"
+  },
+  {
+    "nom": "CLINIQUE NOTRE DAME DE L INCARNATION",
+    "type": "CENTRE DE SOINS",
+    "commune": "RIVIERA"
+  },
+  {
+    "nom": "CLINIQUE NOTRE DAME DE LOURDES",
+    "type": "CENTRE DE SOINS",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "CLINIQUE NOTRE DAME DES VICTOIRES D ABATTA",
+    "type": "CENTRE DE SOINS",
+    "commune": "RIVIERA"
+  },
+  {
+    "nom": "CLINIQUE NOUVELLE ESPERANCE",
+    "type": "CENTRE DE SOINS",
+    "commune": "RIVIERA"
+  },
+  {
+    "nom": "CLINIQUE POLYMED",
+    "type": "CENTRE DE SOINS",
+    "commune": "MARCORYCLINIQUE SAINT GABRIEL"
+  },
+  {
+    "nom": "CLINIQUE SAINT GEORGES",
+    "type": "CENTRE DE SOINS",
+    "commune": "II PLATEAUX 7E TRANCHE"
+  },
+  {
+    "nom": "CLINIQUE SAINT JOSEPH D ABIDJAN",
+    "type": "CENTRE DE SOINS",
+    "commune": "RIVIERA"
+  },
+  {
+    "nom": "CLINIQUE SAINT LAURENT/ ADZOPE",
+    "type": "CENTRE DE SOINS",
+    "commune": "ADZOPE"
+  },
+  {
+    "nom": "CLINIQUE SAINT RAPHAEL YOPOUGON MAROC",
+    "type": "CENTRE DE SOINS",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "CLINIQUE SAINTE JANE LEORA",
+    "type": "CENTRE DE SOINS",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "CLINIQUE SAINTE NANCY",
+    "type": "CENTRE DE SOINS",
+    "commune": "MARCORY"
+  },
+  {
+    "nom": "CLINIQUE SAINTE RITA DE CASCIA",
+    "type": "CENTRE DE SOINS",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "CLINIQUE VITALIA SARL",
+    "type": "CENTRE DE SOINS",
+    "commune": "RIVIERA PALMERAIE"
+  },
+  {
+    "nom": "CSF MEDICAL CENTER",
+    "type": "CENTRE DE SOINS",
+    "commune": "II PLATEAUX ANGRE"
+  },
+  {
+    "nom": "DESIGN",
+    "type": "OPTIQUE",
+    "commune": "SARL / SAN-PEDRO"
+  },
+  {
+    "nom": "ELLE & LUI OPTIK",
+    "type": "OPTIQUE",
+    "commune": "A RENSEIGNEREPHPHATHA OPTIC"
+  },
+  {
+    "nom": "ERWIN & KEREN CIE-CM MERE MARIE",
+    "type": "CENTRE DE SOINS",
+    "commune": "II PLATEAUX"
+  },
+  {
+    "nom": "ESPACE MEDICAL ANADOR",
+    "type": "CENTRE DE SOINS",
+    "commune": "ABOBO"
+  },
+  {
+    "nom": "ESPACE MEDICAL JADE",
+    "type": "CENTRE DE SOINS",
+    "commune": "COCODY"
+  },
+  {
+    "nom": "ESPACE MEDICAL KAYAF",
+    "type": "CENTRE DE SOINS",
+    "commune": "ISSIA"
+  },
+  {
+    "nom": "ESPACE MEDICAL LA CITADELLE",
+    "type": "CENTRE DE SOINS",
+    "commune": "COCODY"
+  },
+  {
+    "nom": "ESPACE MEDICAL LE PHENIX",
+    "type": "CENTRE DE SOINS",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "ESPACE MEDICAL LES OLIVIERS SARL DE N ZIANOUA",
+    "type": "CENTRE DE SOINS",
+    "commune": "TIASSALE"
+  },
+  {
+    "nom": "ESPACE MEDICAL LES RUCHES PLUS",
+    "type": "CENTRE DE SOINS",
+    "commune": "KOUMASSI"
+  },
+  {
+    "nom": "ESPACE MEDICAL PASTEUR",
+    "type": "CENTRE DE SOINS",
+    "commune": "SAN-PEDRO"
+  },
+  {
+    "nom": "ESPACE MEDICAL SAINT GEORGES",
+    "type": "CENTRE DE SOINS",
+    "commune": "MEAGUI"
+  },
+  {
+    "nom": "ESPACE MEDICAL SAINT SAUVEUR",
+    "type": "CENTRE DE SOINS",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "ESPACE MEDICAL ST PAUL",
+    "type": "CENTRE DE SOINS",
+    "commune": "PLATEAU"
+  },
+  {
+    "nom": "ESPACE MEDICAL YOPOUGON",
+    "type": "CENTRE DE SOINS",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "ESPACE MEDICO SOCIAL LA PYRAMIDE",
+    "type": "CENTRE DE SOINS",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "ESPACE VERITABLE SANTE SAN-PEDRO",
+    "type": "CENTRE DE SOINS",
+    "commune": "A RENSEIGNER"
+  },
+  {
+    "nom": "ESPACE VISION",
+    "type": "OPTIQUE",
+    "commune": "II PLATEAUX VALLON"
+  },
+  {
+    "nom": "ETS EMV",
+    "type": "LABORATOIRE",
+    "commune": "A RENSEIGNER"
+  },
+  {
+    "nom": "FRANCE",
+    "type": "OPTIQUE",
+    "commune": "OPTIQUE PLATEAU"
+  },
+  {
+    "nom": "GENERAL OPTIC",
+    "type": "OPTIQUE",
+    "commune": "MARCORY"
+  },
+  {
+    "nom": "GRAND CENTRE MEDICAL DE LA ROUTE D AKEIKOI",
+    "type": "CENTRE DE SOINS",
+    "commune": "ABOBO"
+  },
+  {
+    "nom": "GRANDE",
+    "type": "PHARMACIE",
+    "commune": "DE DABOU"
+  },
+  {
+    "nom": "GRANDE",
+    "type": "PHARMACIE",
+    "commune": "DES 2 PLATEAUX"
+  },
+  {
+    "nom": "GRANDE",
+    "type": "PHARMACIE",
+    "commune": "DES ARTS SARL"
+  },
+  {
+    "nom": "GRANDE",
+    "type": "PHARMACIE",
+    "commune": "DES BANQUES"
+  },
+  {
+    "nom": "GRANDE",
+    "type": "PHARMACIE",
+    "commune": "DES GARAGES"
+  },
+  {
+    "nom": "GRANDE",
+    "type": "PHARMACIE",
+    "commune": "DES LACS"
+  },
+  {
+    "nom": "GRANDE",
+    "type": "PHARMACIE",
+    "commune": "DU 16 EME"
+  },
+  {
+    "nom": "GRANDE",
+    "type": "PHARMACIE",
+    "commune": "DU COMMERCE - PLATEAU"
+  },
+  {
+    "nom": "GRANDE",
+    "type": "PHARMACIE",
+    "commune": "DU JUBILE"
+  },
+  {
+    "nom": "GRANDE",
+    "type": "PHARMACIE",
+    "commune": "IROKO"
+  },
+  {
+    "nom": "GRANDE",
+    "type": "PHARMACIE",
+    "commune": "KENEYA"
+  },
+  {
+    "nom": "GRANDE",
+    "type": "PHARMACIE",
+    "commune": "L AMITIE DE YOPOUGON"
+  },
+  {
+    "nom": "GRANDE",
+    "type": "PHARMACIE",
+    "commune": "MARIE ESTHER"
+  },
+  {
+    "nom": "GRANDE",
+    "type": "PHARMACIE",
+    "commune": "MOROFE"
+  },
+  {
+    "nom": "GRANDE",
+    "type": "PHARMACIE",
+    "commune": "TSF DE BOUAKE"
+  },
+  {
+    "nom": "GRANDE",
+    "type": "PHARMACIE",
+    "commune": "DE GREMIAN"
+  },
+  {
+    "nom": "GRANDE CLINIQUE DU DOKUI",
+    "type": "CENTRE DE SOINS",
+    "commune": "PLATEAU DOKUI"
+  },
+  {
+    "nom": "GRANDE CLINIQUE MEDICALE LE SPHINX",
+    "type": "CENTRE DE SOINS",
+    "commune": "ABOBO"
+  },
+  {
+    "nom": "GROUPE CANA OPTIC",
+    "type": "OPTIQUE",
+    "commune": "MARCORY"
+  },
+  {
+    "nom": "GROUPE DR FOFANA",
+    "type": "CENTRE DE SOINS",
+    "commune": "ODIENNE"
+  },
+  {
+    "nom": "GROUPE MEDICAL CONSULTING BOZOUMA",
+    "type": "CENTRE DE SOINS",
+    "commune": "RIVIERA"
+  },
+  {
+    "nom": "GROUPE MEDICAL CÔTE D IVOIRE TECHNO",
+    "type": "CENTRE DE SOINS",
+    "commune": "VRIDI"
+  },
+  {
+    "nom": "GROUPE MEDICAL PROMETHEE",
+    "type": "CENTRE DE SOINS",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "GROUPE MEDICAL SAINT - SAUVEUR / YAMOUSSOUKRO",
+    "type": "CENTRE DE SOINS",
+    "commune": "YAMOUSSOUKRO"
+  },
+  {
+    "nom": "GROUPE MEDICAL SAINTE FAMILLE SARL",
+    "type": "CENTRE DE SOINS",
+    "commune": "DIMBOKRO"
+  },
+  {
+    "nom": "GROUPE MEDICAL SAINTE JEANNE ELEONORE",
+    "type": "CENTRE DE SOINS",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "GROUPE MEDICAL ZOE",
+    "type": "CENTRE DE SOINS",
+    "commune": "RIVIERA"
+  },
+  {
+    "nom": "GROUPE MEDICO-CHIRURGICAL ARCHE DE ZOHE",
+    "type": "CENTRE DE SOINS",
+    "commune": "DIVO"
+  },
+  {
+    "nom": "HOLLYWOOD OPTICAL",
+    "type": "OPTIQUE",
+    "commune": "MARCORY"
+  },
+  {
+    "nom": "HOME MEDICAL SERVICE",
+    "type": "CENTRE DE SOINS",
+    "commune": "PLATEAU"
+  },
+  {
+    "nom": "HOPE MEDICAL CLINIC",
+    "type": "CENTRE DE SOINS",
+    "commune": "MARCORY"
+  },
+  {
+    "nom": "HOPE ROAD HOSPITAL",
+    "type": "CENTRE DE SOINS",
+    "commune": "ADJAME"
+  },
+  {
+    "nom": "HOPITAL BAPTISTE DE FERKESSEDOUGOU",
+    "type": "CENTRE DE SOINS",
+    "commune": "FERKESSEDOUGOU"
+  },
+  {
+    "nom": "HOPITAL CATHOLIQUE SAINT JOSEPH MOSCATI",
+    "type": "CENTRE DE SOINS",
+    "commune": "YAMOUSSOUKRO"
+  },
+  {
+    "nom": "HOPITAL DE L'HUMANITE SARL",
+    "type": "CENTRE DE SOINS",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "HOPITAL MERE ENFANT",
+    "type": "CENTRE DE SOINS",
+    "commune": "BINGERVILLE"
+  },
+  {
+    "nom": "HOPITAL MILITAIRE D ABIDJAN",
+    "type": "CENTRE DE SOINS",
+    "commune": "ABOBO"
+  },
+  {
+    "nom": "HOPITAL SAINT JEAN-BAPTISTE",
+    "type": "CENTRE DE SOINS",
+    "commune": "TIASSALE"
+  },
+  {
+    "nom": "HOTEL DE LA SANTE SAINTE HENRIETTE",
+    "type": "CENTRE DE SOINS",
+    "commune": "II PLATEAUX 8E TRANCHE"
+  },
+  {
+    "nom": "IDEAL OPTIC",
+    "type": "OPTIQUE",
+    "commune": "II PLATEAUX"
+  },
+  {
+    "nom": "IMMACULEE",
+    "type": "OPTIQUE",
+    "commune": "OPTIQUE II PLATEAUX ANGRE"
+  },
+  {
+    "nom": "INDENIE HOLDING NOUVELLE CLINIQUE SOPHIA DE L INDENIE",
+    "type": "CENTRE DE SOINS",
+    "commune": "ABENGOUROU"
+  },
+  {
+    "nom": "INSTITUT COEUR DE GRACE",
+    "type": "CENTRE DE SOINS",
+    "commune": "COCODY"
+  },
+  {
+    "nom": "IVOIRE LUNETTES",
+    "type": "OPTIQUE",
+    "commune": "PLATEAU"
+  },
+  {
+    "nom": "KAPP SANTE CENTRE MEDICAL",
+    "type": "CENTRE DE SOINS",
+    "commune": "RIVIERA GOLF"
+  },
+  {
+    "nom": "KARIS-OPTICAL DISCOUNT",
+    "type": "OPTIQUE",
+    "commune": "TREICHVILLE"
+  },
+  {
+    "nom": "KINE PLUS",
+    "type": "CENTRE DE SOINS",
+    "commune": "II PLATEAUX"
+  },
+  {
+    "nom": "L COM LUNETTE",
+    "type": "OPTIQUE",
+    "commune": "COCODY"
+  },
+  {
+    "nom": "LA GOSPA INTERN MED CENTER",
+    "type": "CENTRE DE SOINS",
+    "commune": "COCODY"
+  },
+  {
+    "nom": "LA GRANDE",
+    "type": "PHARMACIE",
+    "commune": "DU BIEN ETRE"
+  },
+  {
+    "nom": "LA GRANDE",
+    "type": "PHARMACIE",
+    "commune": "DU CHATEAU D EAU"
+  },
+  {
+    "nom": "LA GRANDE",
+    "type": "PHARMACIE",
+    "commune": "GBAGBA"
+  },
+  {
+    "nom": "LABORATOIRE CENTRAL",
+    "type": "LABORATOIRE",
+    "commune": "PLATEAU"
+  },
+  {
+    "nom": "LABORATOIRE D ANALYSES MEDICALE MADOU",
+    "type": "LABORATOIRE",
+    "commune": "SAN-PEDRO"
+  },
+  {
+    "nom": "LABORATOIRE D ANALYSES MEDICALES DES LACS / YAKRO",
+    "type": "LABORATOIRE",
+    "commune": "YAMOUSSOUKRO"
+  },
+  {
+    "nom": "LABORATOIRE MONTAGNIER",
+    "type": "LABORATOIRE",
+    "commune": "PLATEAU"
+  },
+  {
+    "nom": "LABORATOIRE NENE GALLE",
+    "type": "LABORATOIRE",
+    "commune": "II PLATEAUX VALLON"
+  },
+  {
+    "nom": "LES PARACLINIQUES DES OLIVIERS SARL / GAGNOA",
+    "type": "CENTRE DE SOINS",
+    "commune": "GAGNOA"
+  },
+  {
+    "nom": "LUNETTES DE PARIS",
+    "type": "OPTIQUE",
+    "commune": "MARCORY"
+  },
+  {
+    "nom": "LÈ PLUBELL LUNETT",
+    "type": "OPTIQUE",
+    "commune": "II PLATEAUX ANGRE"
+  },
+  {
+    "nom": "MAITRE OPTIC SARLU",
+    "type": "OPTIQUE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "MAJ OPTICIEN",
+    "type": "OPTIQUE",
+    "commune": "YAMOUSSOUKRO"
+  },
+  {
+    "nom": "MIKADE / CENTRE MEDICAL",
+    "type": "CENTRE DE SOINS",
+    "commune": "RIVIERA"
+  },
+  {
+    "nom": "MODERN",
+    "type": "OPTIQUE",
+    "commune": "OPTIQUE PLATEAU"
+  },
+  {
+    "nom": "NET OPTIC",
+    "type": "OPTIQUE",
+    "commune": "TREICHVILLE"
+  },
+  {
+    "nom": "NOUVELLE",
+    "type": "PHARMACIE",
+    "commune": "DU PHARE"
+  },
+  {
+    "nom": "NOUVELLE",
+    "type": "PHARMACIE",
+    "commune": "ABOBO BELLEVILLE"
+  },
+  {
+    "nom": "NOUVELLE",
+    "type": "PHARMACIE",
+    "commune": "AVENUE NOGUES"
+  },
+  {
+    "nom": "NOUVELLE",
+    "type": "PHARMACIE",
+    "commune": "CHRIST ROI"
+  },
+  {
+    "nom": "NOUVELLE",
+    "type": "PHARMACIE",
+    "commune": "DE BONOUMIN"
+  },
+  {
+    "nom": "NOUVELLE",
+    "type": "PHARMACIE",
+    "commune": "DE LA ME"
+  },
+  {
+    "nom": "NOUVELLE",
+    "type": "PHARMACIE",
+    "commune": "DE L ALLIANCE"
+  },
+  {
+    "nom": "NOUVELLE",
+    "type": "PHARMACIE",
+    "commune": "DE L ESPOIR / ADJAME"
+  },
+  {
+    "nom": "NOUVELLE",
+    "type": "PHARMACIE",
+    "commune": "DE N DOUCI"
+  },
+  {
+    "nom": "NOUVELLE",
+    "type": "PHARMACIE",
+    "commune": "DES HIBISCUS"
+  },
+  {
+    "nom": "NOUVELLE",
+    "type": "PHARMACIE",
+    "commune": "DES QUAIS"
+  },
+  {
+    "nom": "NOUVELLE",
+    "type": "PHARMACIE",
+    "commune": "DU MARCHE/ADJAME"
+  },
+  {
+    "nom": "NOUVELLE",
+    "type": "PHARMACIE",
+    "commune": "DU PALAIS DES SPORTS"
+  },
+  {
+    "nom": "NOUVELLE",
+    "type": "PHARMACIE",
+    "commune": "DU PALM-CLUB"
+  },
+  {
+    "nom": "NOUVELLE",
+    "type": "PHARMACIE",
+    "commune": "DUNIA"
+  },
+  {
+    "nom": "NOUVELLE",
+    "type": "PHARMACIE",
+    "commune": "ELIEL"
+  },
+  {
+    "nom": "NOUVELLE",
+    "type": "PHARMACIE",
+    "commune": "MIRIA"
+  },
+  {
+    "nom": "NOUVELLE",
+    "type": "PHARMACIE",
+    "commune": "MONT KORHOGO"
+  },
+  {
+    "nom": "NOUVELLE",
+    "type": "PHARMACIE",
+    "commune": "NANAN YAMOUSSO"
+  },
+  {
+    "nom": "NOUVELLE",
+    "type": "PHARMACIE",
+    "commune": "NISSI"
+  },
+  {
+    "nom": "NOUVELLE",
+    "type": "PHARMACIE",
+    "commune": "NOTRE DAME SARL"
+  },
+  {
+    "nom": "NOUVELLE",
+    "type": "PHARMACIE",
+    "commune": "PORT-BOUET 2 SARL"
+  },
+  {
+    "nom": "NOUVELLE",
+    "type": "PHARMACIE",
+    "commune": "PRINCIPALE / YOPOUGON"
+  },
+  {
+    "nom": "NOUVELLE",
+    "type": "PHARMACIE",
+    "commune": "PRINCIPALE D ABOBOTE"
+  },
+  {
+    "nom": "NOUVELLE",
+    "type": "PHARMACIE",
+    "commune": "ROUTE D ANYAMA"
+  },
+  {
+    "nom": "NOUVELLE",
+    "type": "PHARMACIE",
+    "commune": "SAINT ETIENNE"
+  },
+  {
+    "nom": "NOUVELLE",
+    "type": "PHARMACIE",
+    "commune": "SAINTE BERNADETTE"
+  },
+  {
+    "nom": "NOUVELLE",
+    "type": "PHARMACIE",
+    "commune": "STE CROIX"
+  },
+  {
+    "nom": "NOUVELLE",
+    "type": "PHARMACIE",
+    "commune": "STE ODILE"
+  },
+  {
+    "nom": "NOUVELLE",
+    "type": "PHARMACIE",
+    "commune": "TOIT ROUGE"
+  },
+  {
+    "nom": "NOUVELLE",
+    "type": "PHARMACIE",
+    "commune": "WAKOUBOUE"
+  },
+  {
+    "nom": "NOUVELLE",
+    "type": "PHARMACIE",
+    "commune": "YARAPHA"
+  },
+  {
+    "nom": "NOUVELLE",
+    "type": "PHARMACIE",
+    "commune": "LES HARMONIES OUI PLATEAU"
+  },
+  {
+    "nom": "NOUVELLE",
+    "type": "PHARMACIE",
+    "commune": "CANAAN SARL OUI MARCORY"
+  },
+  {
+    "nom": "NOUVELLE",
+    "type": "PHARMACIE",
+    "commune": "LA GRACE OUI TREICHVILLE"
+  },
+  {
+    "nom": "NOUVELLE CLINIQUE DES ROCHERS",
+    "type": "CENTRE DE SOINS",
+    "commune": "SAN-PEDRO"
+  },
+  {
+    "nom": "NOUVELLE CLINIQUE RHEMA",
+    "type": "CENTRE DE SOINS",
+    "commune": "II PLATEAUX"
+  },
+  {
+    "nom": "NOUVELLE PHARMACIE 220 LGTS",
+    "type": "PHARMACIE",
+    "commune": "ADJAME"
+  },
+  {
+    "nom": "NOUVELLE POLYCLINIQUE LES GRACES",
+    "type": "CENTRE DE SOINS",
+    "commune": "MARCORY"
+  },
+  {
+    "nom": "NOVACAIRE",
+    "type": "CENTRE DE SOINS",
+    "commune": "PLATEAU"
+  },
+  {
+    "nom": "ONO-SARL / TRECH",
+    "type": "CENTRE DE SOINS",
+    "commune": "TREICHVILLE"
+  },
+  {
+    "nom": "OPTI K CARE",
+    "type": "OPTIQUE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "OPTIC CENTER",
+    "type": "CENTRE DE SOINS",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "OPTIC ROC SARL",
+    "type": "CENTRE DE SOINS",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "OPTIC ZONE",
+    "type": "OPTIQUE",
+    "commune": "VRIDI ZONE 4"
+  },
+  {
+    "nom": "OPTICA",
+    "type": "OPTIQUE",
+    "commune": "PLATEAU"
+  },
+  {
+    "nom": "OPTICAL STORE",
+    "type": "OPTIQUE",
+    "commune": "PLATEAU"
+  },
+  {
+    "nom": "OPTICIEN REGARD",
+    "type": "OPTIQUE",
+    "commune": "II PLATEAUX"
+  },
+  {
+    "nom": "OPTIQUE NUCLEAIRE",
+    "type": "OPTIQUE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "OPTIQUE PLUS",
+    "type": "OPTIQUE",
+    "commune": "TREICHVILLE"
+  },
+  {
+    "nom": "PENIEL",
+    "type": "OPTIQUE",
+    "commune": "SHALOM"
+  },
+  {
+    "nom": "PHARMACIE &",
+    "type": "LABORATOIRE",
+    "commune": "NOUVEAU QUARTIER PHARMACIE/LABORATOIRE YOPOUGON"
+  },
+  {
+    "nom": "PHARMACIE 8 EME TRANCHE",
+    "type": "PHARMACIE",
+    "commune": "ANGRE"
+  },
+  {
+    "nom": "PHARMACIE ABOBO GRAND MARCHE",
+    "type": "PHARMACIE",
+    "commune": "ABOBO"
+  },
+  {
+    "nom": "PHARMACIE ABOBO SOGEFIHA",
+    "type": "PHARMACIE",
+    "commune": "ABOBO"
+  },
+  {
+    "nom": "PHARMACIE ABOBO-SANTE",
+    "type": "PHARMACIE",
+    "commune": "ABOBO"
+  },
+  {
+    "nom": "PHARMACIE ABOBOTE",
+    "type": "PHARMACIE",
+    "commune": "ABOBO"
+  },
+  {
+    "nom": "PHARMACIE ABOH",
+    "type": "PHARMACIE",
+    "commune": "YAMOUSSOUKRO"
+  },
+  {
+    "nom": "PHARMACIE ABRAHAM DE DABOU",
+    "type": "PHARMACIE",
+    "commune": "DABOU"
+  },
+  {
+    "nom": "PHARMACIE ABYA",
+    "type": "PHARMACIE",
+    "commune": "KOUMASSI"
+  },
+  {
+    "nom": "PHARMACIE ACTUELLE",
+    "type": "PHARMACIE",
+    "commune": "ABOBO"
+  },
+  {
+    "nom": "PHARMACIE ADJAME LATIN",
+    "type": "PHARMACIE",
+    "commune": "ADJAME"
+  },
+  {
+    "nom": "PHARMACIE ADJAME SANTE NOUVELLE",
+    "type": "PHARMACIE",
+    "commune": "ADJAME"
+  },
+  {
+    "nom": "PHARMACIE AFIA",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "PHARMACIE AKADJOBA",
+    "type": "PHARMACIE",
+    "commune": "A RENSEIGNER"
+  },
+  {
+    "nom": "PHARMACIE AKANDJE SARL U",
+    "type": "PHARMACIE",
+    "commune": "A RENSEIGNER"
+  },
+  {
+    "nom": "PHARMACIE AKRE ALBERT ASSAMOI",
+    "type": "PHARMACIE",
+    "commune": "BINGERVILLE"
+  },
+  {
+    "nom": "PHARMACIE ALICIA",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "PHARMACIE AMARYLLIS",
+    "type": "PHARMACIE",
+    "commune": "A RENSEIGNER"
+  },
+  {
+    "nom": "PHARMACIE ANALYA",
+    "type": "PHARMACIE",
+    "commune": "ANGRE"
+  },
+  {
+    "nom": "PHARMACIE ANEAUD",
+    "type": "PHARMACIE",
+    "commune": "DALOA"
+  },
+  {
+    "nom": "PHARMACIE ANGRE",
+    "type": "PHARMACIE",
+    "commune": "ANGRE"
+  },
+  {
+    "nom": "PHARMACIE ANIAMAN",
+    "type": "PHARMACIE",
+    "commune": "PLATEAU"
+  },
+  {
+    "nom": "PHARMACIE ARC-EN-CIEL",
+    "type": "PHARMACIE",
+    "commune": "II PLATEAUX"
+  },
+  {
+    "nom": "PHARMACIE ARTEMIA",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "PHARMACIE AVENUE 8",
+    "type": "PHARMACIE",
+    "commune": "A RENSEIGNER"
+  },
+  {
+    "nom": "PHARMACIE AVENUE CHARDY",
+    "type": "PHARMACIE",
+    "commune": "PLATEAU"
+  },
+  {
+    "nom": "PHARMACIE AVOCATIER MARCHE",
+    "type": "PHARMACIE",
+    "commune": "ABOBO"
+  },
+  {
+    "nom": "PHARMACIE AZI",
+    "type": "PHARMACIE",
+    "commune": "YAMOUSSOUKRO"
+  },
+  {
+    "nom": "PHARMACIE AZUR",
+    "type": "PHARMACIE",
+    "commune": "ABOBO"
+  },
+  {
+    "nom": "PHARMACIE BEL AIR",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "PHARMACIE BEL HORIZON",
+    "type": "PHARMACIE",
+    "commune": "II PLATEAUX"
+  },
+  {
+    "nom": "PHARMACIE BELLE-VILLE / PORT-BOUET PHARMACIE PORT-BOUËTPHARMACIE BELLEVILLE/TREICHVILLE",
+    "type": "PHARMACIE",
+    "commune": "TREICHVILLE"
+  },
+  {
+    "nom": "PHARMACIE BELLE-VUE ANGRE",
+    "type": "PHARMACIE",
+    "commune": "ANGRE"
+  },
+  {
+    "nom": "PHARMACIE BERACA",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "PHARMACIE BERAKHA SUARL",
+    "type": "PHARMACIE",
+    "commune": "KOUMASSI"
+  },
+  {
+    "nom": "PHARMACIE BEREKYAH",
+    "type": "PHARMACIE",
+    "commune": "COCODY"
+  },
+  {
+    "nom": "PHARMACIE BETHANIE",
+    "type": "PHARMACIE",
+    "commune": "KOUMASSI"
+  },
+  {
+    "nom": "PHARMACIE BETHEL DE BEAGO",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "PHARMACIE BETHEL-ATTOBAN",
+    "type": "PHARMACIE",
+    "commune": "RIVIERA"
+  },
+  {
+    "nom": "PHARMACIE BETHESDA RESIDENTIELLE",
+    "type": "PHARMACIE",
+    "commune": "MARCORY"
+  },
+  {
+    "nom": "PHARMACIE BETHY N DOUCI",
+    "type": "PHARMACIE",
+    "commune": "N'DOUCI"
+  },
+  {
+    "nom": "PHARMACIE BEYNIOUAH",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "PHARMACIE BIABOU MOSQUEE",
+    "type": "PHARMACIE",
+    "commune": "ABOBO"
+  },
+  {
+    "nom": "PHARMACIE BOKOSSO NOUVELLE",
+    "type": "PHARMACIE",
+    "commune": "SINFRA"
+  },
+  {
+    "nom": "PHARMACIE BON PASTEUR",
+    "type": "PHARMACIE",
+    "commune": "COCODY"
+  },
+  {
+    "nom": "PHARMACIE BONNE FORTUNE",
+    "type": "PHARMACIE",
+    "commune": "RIVIERA"
+  },
+  {
+    "nom": "PHARMACIE BSA",
+    "type": "PHARMACIE",
+    "commune": "ABOBO"
+  },
+  {
+    "nom": "PHARMACIE CADUCEE MODERNE",
+    "type": "PHARMACIE",
+    "commune": "RIVIERA PALMERAIE"
+  },
+  {
+    "nom": "PHARMACIE CARREFOUR BOBY",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "PHARMACIE CARREFOUR DIALLO",
+    "type": "PHARMACIE",
+    "commune": "ABOBO"
+  },
+  {
+    "nom": "PHARMACIE CARREFOUR GANDHI SARL",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "PHARMACIE CARREFOUR HMA",
+    "type": "PHARMACIE",
+    "commune": "ADJAME"
+  },
+  {
+    "nom": "PHARMACIE CARREFOUR KOWEIT",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "PHARMACIE CARREFOUR N DOTRE",
+    "type": "PHARMACIE",
+    "commune": "ABOBO"
+  },
+  {
+    "nom": "PHARMACIE CARREFOUR POMPIER",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "PHARMACIE CARREFOUR SANTE / BINGERVILLE",
+    "type": "PHARMACIE",
+    "commune": "RIVIERA"
+  },
+  {
+    "nom": "PHARMACIE CENTRALE / PLATEAU",
+    "type": "PHARMACIE",
+    "commune": "PLATEAU"
+  },
+  {
+    "nom": "PHARMACIE CENTRALE DALOA SARL U.",
+    "type": "PHARMACIE",
+    "commune": "A RENSEIGNER"
+  },
+  {
+    "nom": "PHARMACIE CEPHAS ABATTA",
+    "type": "PHARMACIE",
+    "commune": "RIVIERA"
+  },
+  {
+    "nom": "PHARMACIE CHENAIN",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "PHARMACIE CHIGATA",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "PHARMACIE CHRIST EMILE",
+    "type": "PHARMACIE",
+    "commune": "KOUMASSI"
+  },
+  {
+    "nom": "PHARMACIE CITE CIE",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "PHARMACIE CITE MAROC SARL",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "PHARMACIE CLIMBIE",
+    "type": "PHARMACIE",
+    "commune": "KOUMASSI"
+  },
+  {
+    "nom": "PHARMACIE COLOMBE",
+    "type": "PHARMACIE",
+    "commune": "GRAND-BASSAM"
+  },
+  {
+    "nom": "PHARMACIE COMOE",
+    "type": "PHARMACIE",
+    "commune": "A RENSEIGNER"
+  },
+  {
+    "nom": "PHARMACIE COSMOS SARLU",
+    "type": "PHARMACIE",
+    "commune": "A RENSEIGNER"
+  },
+  {
+    "nom": "PHARMACIE D ABOBO BAOULE",
+    "type": "PHARMACIE",
+    "commune": "ABOBO"
+  },
+  {
+    "nom": "PHARMACIE DE BIETRY",
+    "type": "PHARMACIE",
+    "commune": "MARCORY"
+  },
+  {
+    "nom": "PHARMACIE DE BLOCKHAUSS",
+    "type": "PHARMACIE",
+    "commune": "COCODY"
+  },
+  {
+    "nom": "PHARMACIE DE COCODY",
+    "type": "PHARMACIE",
+    "commune": "COCODY"
+  },
+  {
+    "nom": "PHARMACIE DE DIMBOKRO",
+    "type": "PHARMACIE",
+    "commune": "DIMBOKRO"
+  },
+  {
+    "nom": "PHARMACIE DE FERKE",
+    "type": "PHARMACIE",
+    "commune": "FERKESSEDOUGOU"
+  },
+  {
+    "nom": "PHARMACIE DE KOUMASSI",
+    "type": "PHARMACIE",
+    "commune": "KOUMASSI"
+  },
+  {
+    "nom": "PHARMACIE DE L ANTENNE",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "PHARMACIE DE L AVENUE 21",
+    "type": "PHARMACIE",
+    "commune": "TREICHVILLE"
+  },
+  {
+    "nom": "PHARMACIE DE L ENTENTE",
+    "type": "PHARMACIE",
+    "commune": "TREICHVILLEPHARMACIE DE L ETOILE SARL U"
+  },
+  {
+    "nom": "PHARMACIE DE L IVOIRE",
+    "type": "PHARMACIE",
+    "commune": "COCODY"
+  },
+  {
+    "nom": "PHARMACIE DE LA BAGOE",
+    "type": "PHARMACIE",
+    "commune": "KOUMASSI"
+  },
+  {
+    "nom": "PHARMACIE DE LA CITE D ABOBO",
+    "type": "PHARMACIE",
+    "commune": "ABOBO"
+  },
+  {
+    "nom": "PHARMACIE DE LA CITE ROUGE",
+    "type": "PHARMACIE",
+    "commune": "COCODY"
+  },
+  {
+    "nom": "PHARMACIE DE LA FELICITE",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "PHARMACIE DE LA FONDATION",
+    "type": "PHARMACIE",
+    "commune": "YAMOUSSOUKRO"
+  },
+  {
+    "nom": "PHARMACIE DE LA GARE / SOUBRE",
+    "type": "PHARMACIE",
+    "commune": "SOUBRE"
+  },
+  {
+    "nom": "PHARMACIE DE LA GARE SUD",
+    "type": "PHARMACIE",
+    "commune": "A RENSEIGNER"
+  },
+  {
+    "nom": "PHARMACIE DE LA MAIRIE / ADJAME",
+    "type": "PHARMACIE",
+    "commune": "ADJAME"
+  },
+  {
+    "nom": "PHARMACIE DE LA MAIRIE DE DIVO",
+    "type": "PHARMACIE",
+    "commune": "A RENSEIGNER"
+  },
+  {
+    "nom": "PHARMACIE DE LA MAIRIE DE TREICHVILLE SARL",
+    "type": "PHARMACIE",
+    "commune": "TREICHVILLE"
+  },
+  {
+    "nom": "PHARMACIE DE LA PLAQUE II",
+    "type": "PHARMACIE",
+    "commune": "ABOBO"
+  },
+  {
+    "nom": "PHARMACIE DE LA TENE-SARL.U",
+    "type": "PHARMACIE",
+    "commune": "OUME"
+  },
+  {
+    "nom": "PHARMACIE DE SION",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "PHARMACIE DE SONGON",
+    "type": "PHARMACIE",
+    "commune": "SONGON"
+  },
+  {
+    "nom": "PHARMACIE DE SOPIM",
+    "type": "PHARMACIE",
+    "commune": "KOUMASSI"
+  },
+  {
+    "nom": "PHARMACIE DE TOUMODI",
+    "type": "PHARMACIE",
+    "commune": "TOUMODI"
+  },
+  {
+    "nom": "PHARMACIE DE YAMOUSSOUKRO",
+    "type": "PHARMACIE",
+    "commune": "A RENSEIGNER"
+  },
+  {
+    "nom": "PHARMACIE DE YAOU",
+    "type": "PHARMACIE",
+    "commune": "BONOUA"
+  },
+  {
+    "nom": "PHARMACIE DE ZOUAN-HOUNIEN",
+    "type": "PHARMACIE",
+    "commune": "A RENSEIGNER"
+  },
+  {
+    "nom": "PHARMACIE DES 3 PONTS",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "PHARMACIE DES 4 ETAGES",
+    "type": "PHARMACIE",
+    "commune": "ABOBO"
+  },
+  {
+    "nom": "PHARMACIE DES ALLEES",
+    "type": "PHARMACIE",
+    "commune": "ANGRE"
+  },
+  {
+    "nom": "PHARMACIE DES BRASSEURS",
+    "type": "PHARMACIE",
+    "commune": "TREICHVILLE"
+  },
+  {
+    "nom": "PHARMACIE DES CITES",
+    "type": "PHARMACIE",
+    "commune": "RIVIERA"
+  },
+  {
+    "nom": "PHARMACIE DES CITES SYNACASSCI",
+    "type": "PHARMACIE",
+    "commune": "RIVIERA"
+  },
+  {
+    "nom": "PHARMACIE DES FINANCES",
+    "type": "PHARMACIE",
+    "commune": "PLATEAU"
+  },
+  {
+    "nom": "PHARMACIE DES FORETS",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "PHARMACIE DES FRONTIERES / ODIENNE",
+    "type": "PHARMACIE",
+    "commune": "ODIENNE"
+  },
+  {
+    "nom": "PHARMACIE DES HALLES",
+    "type": "PHARMACIE",
+    "commune": "II PLATEAUX"
+  },
+  {
+    "nom": "PHARMACIE DES LACS / YAKRO",
+    "type": "PHARMACIE",
+    "commune": "YAMOUSSOUKRO"
+  },
+  {
+    "nom": "PHARMACIE DES LAGUNES",
+    "type": "PHARMACIE",
+    "commune": "MARCORY"
+  },
+  {
+    "nom": "PHARMACIE DES LAGUNES SARLU DE DABOU",
+    "type": "PHARMACIE",
+    "commune": "DABOU"
+  },
+  {
+    "nom": "PHARMACIE DES NATIONS",
+    "type": "PHARMACIE",
+    "commune": "II PLATEAUX"
+  },
+  {
+    "nom": "PHARMACIE DES TROIS MOSQUEES",
+    "type": "PHARMACIE",
+    "commune": "TREICHVILLE"
+  },
+  {
+    "nom": "PHARMACIE DIVINE ESPERANCE",
+    "type": "PHARMACIE",
+    "commune": "ABOBO"
+  },
+  {
+    "nom": "PHARMACIE DU BD CARDE ET",
+    "type": "LABORATOIRE",
+    "commune": "OUI"
+  },
+  {
+    "nom": "PHARMACIE DU BONHEUR / RIVIERA",
+    "type": "PHARMACIE",
+    "commune": "RIVIERA"
+  },
+  {
+    "nom": "PHARMACIE DU BOULEVARD DE FRANCE",
+    "type": "PHARMACIE",
+    "commune": "COCODY"
+  },
+  {
+    "nom": "PHARMACIE DU CAMPEMENT",
+    "type": "PHARMACIE",
+    "commune": "KOUMASSI"
+  },
+  {
+    "nom": "PHARMACIE DU CANAL",
+    "type": "PHARMACIE",
+    "commune": "KOUMASSI"
+  },
+  {
+    "nom": "PHARMACIE DU CARREFOUR LABIA",
+    "type": "PHARMACIE",
+    "commune": "DALOA"
+  },
+  {
+    "nom": "PHARMACIE DU CENACLE",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "PHARMACIE DU CHATEAU / ANYAMA",
+    "type": "PHARMACIE",
+    "commune": "ANYAMA"
+  },
+  {
+    "nom": "PHARMACIE DU CHATEAU D EAU ANGRE",
+    "type": "PHARMACIE",
+    "commune": "ANGRE"
+  },
+  {
+    "nom": "PHARMACIE DU CINEMA BOISSY",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "PHARMACIE DU COMMERCE / MAN",
+    "type": "PHARMACIE",
+    "commune": "A RENSEIGNER"
+  },
+  {
+    "nom": "PHARMACIE DU DIALOGUE",
+    "type": "PHARMACIE",
+    "commune": "HIRE"
+  },
+  {
+    "nom": "PHARMACIE DU FORUM",
+    "type": "PHARMACIE",
+    "commune": "ADJAME"
+  },
+  {
+    "nom": "PHARMACIE DU FUTUR",
+    "type": "PHARMACIE",
+    "commune": "RIVIERA"
+  },
+  {
+    "nom": "PHARMACIE DU GBEKE",
+    "type": "PHARMACIE",
+    "commune": "BOUAKE"
+  },
+  {
+    "nom": "PHARMACIE DU LAC SAN-PEDRO",
+    "type": "PHARMACIE",
+    "commune": "SAN-PEDRO"
+  },
+  {
+    "nom": "PHARMACIE DU LAVAGE SARL",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "PHARMACIE DU LYCEE TECHNIQUE",
+    "type": "PHARMACIE",
+    "commune": "COCODY"
+  },
+  {
+    "nom": "PHARMACIE DU MARAIS",
+    "type": "PHARMACIE",
+    "commune": "KOUMASSI"
+  },
+  {
+    "nom": "PHARMACIE DU MARCHE BINGERVILLE",
+    "type": "PHARMACIE",
+    "commune": "RIVIERA"
+  },
+  {
+    "nom": "PHARMACIE DU MARCHE KORHOGO",
+    "type": "PHARMACIE",
+    "commune": "A RENSEIGNER"
+  },
+  {
+    "nom": "PHARMACIE DU MARCHE YOPOUGON",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "PHARMACIE DU MARCHE/DABOU",
+    "type": "PHARMACIE",
+    "commune": "DABOU"
+  },
+  {
+    "nom": "PHARMACIE DU MILLIONNAIRE SARL U",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "PHARMACIE DU MONASTERE",
+    "type": "PHARMACIE",
+    "commune": "ABOBO"
+  },
+  {
+    "nom": "PHARMACIE DU NORD",
+    "type": "PHARMACIE",
+    "commune": "KORHOGO"
+  },
+  {
+    "nom": "PHARMACIE DU PALAIS DE JUSTICE",
+    "type": "PHARMACIE",
+    "commune": "PLATEAU"
+  },
+  {
+    "nom": "PHARMACIE DU PARVIS",
+    "type": "PHARMACIE",
+    "commune": "DALOA"
+  },
+  {
+    "nom": "PHARMACIE DU PROGRES / DALOA",
+    "type": "PHARMACIE",
+    "commune": "DALOA"
+  },
+  {
+    "nom": "PHARMACIE DU ROND - POINT DU CHU",
+    "type": "PHARMACIE",
+    "commune": "TREICHVILLE"
+  },
+  {
+    "nom": "PHARMACIE DU SANWI",
+    "type": "PHARMACIE",
+    "commune": "ABOISSO"
+  },
+  {
+    "nom": "PHARMACIE DU SOLEIL / ABIDJAN",
+    "type": "PHARMACIE",
+    "commune": "KOUMASSI"
+  },
+  {
+    "nom": "PHARMACIE DU VALLON",
+    "type": "PHARMACIE",
+    "commune": "II PLATEAUX"
+  },
+  {
+    "nom": "PHARMACIE DU WHARF",
+    "type": "PHARMACIE",
+    "commune": "GRAND-BASSAM"
+  },
+  {
+    "nom": "PHARMACIE EAU VIVE SARL",
+    "type": "PHARMACIE",
+    "commune": "COCODYPHARMACIE EDEN / YOPOUGON"
+  },
+  {
+    "nom": "PHARMACIE ELIORA DE SONGON KASSEMBLE",
+    "type": "PHARMACIE",
+    "commune": "DABOU"
+  },
+  {
+    "nom": "PHARMACIE ELKANAH",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "PHARMACIE ELOMA DE GONZA",
+    "type": "PHARMACIE",
+    "commune": "GONZAGUEVILLE"
+  },
+  {
+    "nom": "PHARMACIE EMMANUEL",
+    "type": "PHARMACIE",
+    "commune": "ANGRE"
+  },
+  {
+    "nom": "PHARMACIE EPHRATA",
+    "type": "PHARMACIE",
+    "commune": "RIVIERA"
+  },
+  {
+    "nom": "PHARMACIE EPIPHANIE",
+    "type": "PHARMACIE",
+    "commune": "VRIDI"
+  },
+  {
+    "nom": "PHARMACIE ESPACE SANTE",
+    "type": "PHARMACIE",
+    "commune": "II PLATEAUX"
+  },
+  {
+    "nom": "PHARMACIE ET",
+    "type": "LABORATOIRE",
+    "commune": "DU LONGCHAMP PHARMACIE/LABORATOIRE PLATEAU"
+  },
+  {
+    "nom": "PHARMACIE ET",
+    "type": "LABORATOIRE",
+    "commune": "LAFIA SARL PHARMACIE/LABORATOIRE GAGNOA"
+  },
+  {
+    "nom": "PHARMACIE ET",
+    "type": "LABORATOIRE",
+    "commune": "PLACE DE LA REPUBLIQUE PHARMACIE/LABORATOIRE PLATEAU"
+  },
+  {
+    "nom": "PHARMACIE FANNY SARL U",
+    "type": "PHARMACIE",
+    "commune": "KOUMASSI"
+  },
+  {
+    "nom": "PHARMACIE FEZAN",
+    "type": "PHARMACIE",
+    "commune": "DABOU"
+  },
+  {
+    "nom": "PHARMACIE GALILEE",
+    "type": "PHARMACIE",
+    "commune": "KOUMASSI"
+  },
+  {
+    "nom": "PHARMACIE GLORIA",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "PHARMACIE GRAND MARCHE / MARCORY",
+    "type": "PHARMACIE",
+    "commune": "MARCORY"
+  },
+  {
+    "nom": "PHARMACIE HERMES",
+    "type": "PHARMACIE",
+    "commune": "II PLATEAUX"
+  },
+  {
+    "nom": "PHARMACIE IMANN",
+    "type": "PHARMACIE",
+    "commune": "TREICHVILLE"
+  },
+  {
+    "nom": "PHARMACIE JEAN PIERRE",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "PHARMACIE KABOD",
+    "type": "PHARMACIE",
+    "commune": "II PLATEAUX ANGRE"
+  },
+  {
+    "nom": "PHARMACIE KAHIRA",
+    "type": "PHARMACIE",
+    "commune": "KOUMASSI"
+  },
+  {
+    "nom": "PHARMACIE KAMELIA LA GRACE DE DIVO",
+    "type": "PHARMACIE",
+    "commune": "DIVO"
+  },
+  {
+    "nom": "PHARMACIE KAMON N SIO",
+    "type": "PHARMACIE",
+    "commune": "RIVIERA"
+  },
+  {
+    "nom": "PHARMACIE KHIANELLY",
+    "type": "PHARMACIE",
+    "commune": "MAN"
+  },
+  {
+    "nom": "PHARMACIE KOKO / BOUAKE",
+    "type": "PHARMACIE",
+    "commune": "BOUAKE"
+  },
+  {
+    "nom": "PHARMACIE KORALIE",
+    "type": "PHARMACIE",
+    "commune": "PLATEAU"
+  },
+  {
+    "nom": "PHARMACIE KORO",
+    "type": "PHARMACIE",
+    "commune": "ADJAME"
+  },
+  {
+    "nom": "PHARMACIE LA MAISON BLANCHE",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "PHARMACIE LA PAIX",
+    "type": "PHARMACIE",
+    "commune": "ABOBO"
+  },
+  {
+    "nom": "PHARMACIE LA SAVANE / NIAKARA",
+    "type": "PHARMACIE",
+    "commune": "NIAKARA"
+  },
+  {
+    "nom": "PHARMACIE LA VIE",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "PHARMACIE LA VIERGE DU SIGNE",
+    "type": "PHARMACIE",
+    "commune": "ABOBO"
+  },
+  {
+    "nom": "PHARMACIE LAGOMA",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "PHARMACIE LANGEVIN SARL",
+    "type": "PHARMACIE",
+    "commune": "MARCORY"
+  },
+  {
+    "nom": "PHARMACIE LAOULO",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "PHARMACIE LAS PALMAS",
+    "type": "PHARMACIE",
+    "commune": "II PLATEAUX"
+  },
+  {
+    "nom": "PHARMACIE LATRILLE",
+    "type": "PHARMACIE",
+    "commune": "II PLATEAUX"
+  },
+  {
+    "nom": "PHARMACIE LE BELIER / ABIDJAN",
+    "type": "PHARMACIE",
+    "commune": "ADJAME"
+  },
+  {
+    "nom": "PHARMACIE LE JOURDAIN",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "PHARMACIE LE LOTUS",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "PHARMACIE LE REEL",
+    "type": "PHARMACIE",
+    "commune": "GRAND-BASSAM"
+  },
+  {
+    "nom": "PHARMACIE LE TREFLE / GTBANK CI",
+    "type": "PHARMACIE",
+    "commune": "PLATEAU"
+  },
+  {
+    "nom": "PHARMACIE LES 4 SAISONS",
+    "type": "PHARMACIE",
+    "commune": "PLATEAU DOKUI"
+  },
+  {
+    "nom": "PHARMACIE LES 7 COLONNES",
+    "type": "PHARMACIE",
+    "commune": "COCODY"
+  },
+  {
+    "nom": "PHARMACIE LES ARUMS",
+    "type": "PHARMACIE",
+    "commune": "ANGRE"
+  },
+  {
+    "nom": "PHARMACIE LES BEATITUDES / ABIDJAN",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "PHARMACIE LES ECLUSES",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "PHARMACIE LES ELIAS",
+    "type": "PHARMACIE",
+    "commune": "RIVIERA"
+  },
+  {
+    "nom": "PHARMACIE LES ELYSEES",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "PHARMACIE LES HORTENSIAS",
+    "type": "PHARMACIE",
+    "commune": "RIVIERA"
+  },
+  {
+    "nom": "PHARMACIE LES MIMOSAS SARL",
+    "type": "PHARMACIE",
+    "commune": "COCODY"
+  },
+  {
+    "nom": "PHARMACIE LES OLIVIERS",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "PHARMACIE LES PHALENES",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "PHARMACIE LES TULIPES",
+    "type": "PHARMACIE",
+    "commune": "II PLATEAUX"
+  },
+  {
+    "nom": "PHARMACIE LILY MARIE",
+    "type": "PHARMACIE",
+    "commune": "MARCORY"
+  },
+  {
+    "nom": "PHARMACIE LOBIA",
+    "type": "PHARMACIE",
+    "commune": "DALOA"
+  },
+  {
+    "nom": "PHARMACIE LONGCHAMP",
+    "type": "PHARMACIE",
+    "commune": "PLATEAU"
+  },
+  {
+    "nom": "PHARMACIE MAGNIFICAT",
+    "type": "PHARMACIE",
+    "commune": "ABOBO"
+  },
+  {
+    "nom": "PHARMACIE MAGNIFICAT DES II PLATEAUX",
+    "type": "PHARMACIE",
+    "commune": "II PLATEAUX"
+  },
+  {
+    "nom": "PHARMACIE MAIRIE DE YOPOUGON",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "PHARMACIE MAMY ADJOA",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "PHARMACIE MANZAN",
+    "type": "PHARMACIE",
+    "commune": "ABOBO"
+  },
+  {
+    "nom": "PHARMACIE MARCHE LOCODJRO",
+    "type": "PHARMACIE",
+    "commune": "A RENSEIGNER"
+  },
+  {
+    "nom": "PHARMACIE MARINA",
+    "type": "PHARMACIE",
+    "commune": "BINGERVILLEPHARMACIE MATHE"
+  },
+  {
+    "nom": "PHARMACIE MATY",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "PHARMACIE METROPOLE",
+    "type": "PHARMACIE",
+    "commune": "MARCORY"
+  },
+  {
+    "nom": "PHARMACIE MEYDEBA",
+    "type": "PHARMACIE",
+    "commune": "ANYAMA"
+  },
+  {
+    "nom": "PHARMACIE MILIE HEVIE",
+    "type": "PHARMACIE",
+    "commune": "A RENSEIGNER"
+  },
+  {
+    "nom": "PHARMACIE MODERNE DE HIRE",
+    "type": "PHARMACIE",
+    "commune": "HIRE"
+  },
+  {
+    "nom": "PHARMACIE MODERNE DE MEAGUI",
+    "type": "PHARMACIE",
+    "commune": "MEAGUI"
+  },
+  {
+    "nom": "PHARMACIE MODERNE KENNEDY",
+    "type": "PHARMACIE",
+    "commune": "BOUAKE"
+  },
+  {
+    "nom": "PHARMACIE MODERNE MAZUET",
+    "type": "PHARMACIE",
+    "commune": "PLATEAU"
+  },
+  {
+    "nom": "PHARMACIE MONT CARMEL",
+    "type": "PHARMACIE",
+    "commune": "RIVIERA"
+  },
+  {
+    "nom": "PHARMACIE N DOTRE",
+    "type": "PHARMACIE",
+    "commune": "ANYAMA"
+  },
+  {
+    "nom": "PHARMACIE NIACADIE",
+    "type": "PHARMACIE",
+    "commune": "PLATEAU"
+  },
+  {
+    "nom": "PHARMACIE NIANGON LOKOA",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "PHARMACIE NIANGON-NORD",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "PHARMACIE NIENEMA-TENGRELA",
+    "type": "PHARMACIE",
+    "commune": "TENGRELA"
+  },
+  {
+    "nom": "PHARMACIE NIKIBEL",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "PHARMACIE NITORO",
+    "type": "PHARMACIE",
+    "commune": "SAN-PEDRO"
+  },
+  {
+    "nom": "PHARMACIE NOTRE DAME D AFRIQUE",
+    "type": "PHARMACIE",
+    "commune": "MARCORY"
+  },
+  {
+    "nom": "PHARMACIE NOTRE DAME DE FATIMA/ABI",
+    "type": "PHARMACIE",
+    "commune": "PLATEAU DOKUI"
+  },
+  {
+    "nom": "PHARMACIE NOTRE DAME DE FATIMA/YAKR",
+    "type": "PHARMACIE",
+    "commune": "YAMOUSSOUKRO"
+  },
+  {
+    "nom": "PHARMACIE NOTRE DAME DE L IMMACULEE CONCEPTION",
+    "type": "PHARMACIE",
+    "commune": "GAGNOA"
+  },
+  {
+    "nom": "PHARMACIE NOTRE DAME DE L INCARNATION",
+    "type": "PHARMACIE",
+    "commune": "RIVIERA"
+  },
+  {
+    "nom": "PHARMACIE NOTRE DAME DE LA DELIVRANCE/ISSIA",
+    "type": "PHARMACIE",
+    "commune": "ISSIA"
+  },
+  {
+    "nom": "PHARMACIE NOTRE DAME DE LA PAIX BOUAKE",
+    "type": "PHARMACIE",
+    "commune": "BOUAKE"
+  },
+  {
+    "nom": "PHARMACIE NOTRE DAME DE LA PIETE",
+    "type": "PHARMACIE",
+    "commune": "A RENSEIGNER"
+  },
+  {
+    "nom": "PHARMACIE NOTRE DAME DE LA SANTE",
+    "type": "PHARMACIE",
+    "commune": "TOUMODI"
+  },
+  {
+    "nom": "PHARMACIE NOUR / KORHOGO",
+    "type": "PHARMACIE",
+    "commune": "KORHOGO"
+  },
+  {
+    "nom": "PHARMACIE NOUVELLE PERGOLA",
+    "type": "PHARMACIE",
+    "commune": "MARCORY"
+  },
+  {
+    "nom": "PHARMACIE ODELIA",
+    "type": "PHARMACIE",
+    "commune": "A RENSEIGNER"
+  },
+  {
+    "nom": "PHARMACIE OLYMPIQUE",
+    "type": "PHARMACIE",
+    "commune": "ABOBO"
+  },
+  {
+    "nom": "PHARMACIE ORCHID",
+    "type": "PHARMACIE",
+    "commune": "II PLATEAUX"
+  },
+  {
+    "nom": "PHARMACIE PALAIS DE JUSTICE/KGHO",
+    "type": "PHARMACIE",
+    "commune": "KORHOGO"
+  },
+  {
+    "nom": "PHARMACIE PALMERAIE",
+    "type": "PHARMACIE",
+    "commune": "RIVIERA"
+  },
+  {
+    "nom": "PHARMACIE PEFINA",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "PHARMACIE PENIEL SARLU",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "PHARMACIE PETIT MARCHE DU DOKUI",
+    "type": "PHARMACIE",
+    "commune": "PLATEAU DOKUI"
+  },
+  {
+    "nom": "PHARMACIE PRINCIPALE / KORHOGO",
+    "type": "PHARMACIE",
+    "commune": "KORHOGO"
+  },
+  {
+    "nom": "PHARMACIE PROVIDENCE BOUAFLE",
+    "type": "PHARMACIE",
+    "commune": "BOUAFLE"
+  },
+  {
+    "nom": "PHARMACIE PROVIDENCE DE SOUBRE",
+    "type": "PHARMACIE",
+    "commune": "SOUBRE"
+  },
+  {
+    "nom": "PHARMACIE PTT",
+    "type": "PHARMACIE",
+    "commune": "MARCORY"
+  },
+  {
+    "nom": "PHARMACIE QUARTIER DIVO",
+    "type": "PHARMACIE",
+    "commune": "KOUMASSI"
+  },
+  {
+    "nom": "PHARMACIE RAHMAN",
+    "type": "PHARMACIE",
+    "commune": "ABOBO"
+  },
+  {
+    "nom": "PHARMACIE RESIDENTIEL ABOBOTE",
+    "type": "PHARMACIE",
+    "commune": "ABOBOTE"
+  },
+  {
+    "nom": "PHARMACIE RIVIERA III",
+    "type": "PHARMACIE",
+    "commune": "RIVIERA"
+  },
+  {
+    "nom": "PHARMACIE RIVIERANOUVELLE",
+    "type": "PHARMACIE",
+    "commune": "DE LA CITE / SAN PEDRO"
+  },
+  {
+    "nom": "PHARMACIE ROMA D ANOUMABO",
+    "type": "PHARMACIE",
+    "commune": "MARCORY"
+  },
+  {
+    "nom": "PHARMACIE ROUTE D ABATTA",
+    "type": "PHARMACIE",
+    "commune": "A RENSEIGNER"
+  },
+  {
+    "nom": "PHARMACIE ROUTE DE BASSAM",
+    "type": "PHARMACIE",
+    "commune": "GRAND-BASSAM"
+  },
+  {
+    "nom": "PHARMACIE ROXANNE",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "PHARMACIE ROY",
+    "type": "PHARMACIE",
+    "commune": "TREICHVILLE"
+  },
+  {
+    "nom": "PHARMACIE RUE MINISTRE",
+    "type": "PHARMACIE",
+    "commune": "A RENSEIGNER"
+  },
+  {
+    "nom": "PHARMACIE SAFIR",
+    "type": "PHARMACIE",
+    "commune": "ABOBO"
+  },
+  {
+    "nom": "PHARMACIE SAINT ALEXANDRE",
+    "type": "PHARMACIE",
+    "commune": "A RENSEIGNER"
+  },
+  {
+    "nom": "PHARMACIE SAINT AMBROISE",
+    "type": "PHARMACIE",
+    "commune": "ANGRE"
+  },
+  {
+    "nom": "PHARMACIE SAINT ANDRE",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "PHARMACIE SAINT ANGE",
+    "type": "PHARMACIE",
+    "commune": "RIVIERA"
+  },
+  {
+    "nom": "PHARMACIE SAINT BERNARD",
+    "type": "PHARMACIE",
+    "commune": "II PLATEAUX"
+  },
+  {
+    "nom": "PHARMACIE SAINT CHRISTOPHE",
+    "type": "PHARMACIE",
+    "commune": "ANGRE"
+  },
+  {
+    "nom": "PHARMACIE SAINT CLEMENT SARL",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "PHARMACIE SAINT FRANCOIS DE DANGA",
+    "type": "PHARMACIE",
+    "commune": "COCODY"
+  },
+  {
+    "nom": "PHARMACIE SAINT GEORGES",
+    "type": "PHARMACIE",
+    "commune": "KOUMASSI"
+  },
+  {
+    "nom": "PHARMACIE SAINT JEAN-PAUL II",
+    "type": "PHARMACIE",
+    "commune": "RIVIERA"
+  },
+  {
+    "nom": "PHARMACIE SAINT JOSEPH VALLON",
+    "type": "PHARMACIE",
+    "commune": "II PLATEAUXPHARMACIE SAINT LAURENT"
+  },
+  {
+    "nom": "PHARMACIE SAINT LOUIS / KOUMASSI",
+    "type": "PHARMACIE",
+    "commune": "KOUMASSI"
+  },
+  {
+    "nom": "PHARMACIE SAINT LOUIS DE GONZAG",
+    "type": "PHARMACIE",
+    "commune": "GONZAGUEVILLE"
+  },
+  {
+    "nom": "PHARMACIE SAINT MARTIN",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "PHARMACIE SAINT MICHEL / ADJAME",
+    "type": "PHARMACIE",
+    "commune": "ADJAME"
+  },
+  {
+    "nom": "PHARMACIE SAINT PAUL YOP",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "PHARMACIE SAINT RAPHAEL DE M BENGUE",
+    "type": "PHARMACIE",
+    "commune": "A RENSEIGNER"
+  },
+  {
+    "nom": "PHARMACIE SAINT SYLVESTRE",
+    "type": "PHARMACIE",
+    "commune": "BINGERVILLE"
+  },
+  {
+    "nom": "PHARMACIE SAINT-RAPHAEL SARL",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "PHARMACIE SAINTE ADELE",
+    "type": "PHARMACIE",
+    "commune": "TREICHVILLE"
+  },
+  {
+    "nom": "PHARMACIE SAINTE AGATHE / RIVIERA",
+    "type": "PHARMACIE",
+    "commune": "RIVIERA"
+  },
+  {
+    "nom": "PHARMACIE SAINTE ANNE D ABATTA",
+    "type": "PHARMACIE",
+    "commune": "RIVIERA ABATTA"
+  },
+  {
+    "nom": "PHARMACIE SAINTE CECILE DES VALLONS",
+    "type": "PHARMACIE",
+    "commune": "II PLATEAUX"
+  },
+  {
+    "nom": "PHARMACIE SAINTE EUNICE",
+    "type": "PHARMACIE",
+    "commune": "GRAND-BASSAM"
+  },
+  {
+    "nom": "PHARMACIE SAINTE HARMONY",
+    "type": "PHARMACIE",
+    "commune": "ANGRE"
+  },
+  {
+    "nom": "PHARMACIE SAINTE MARIE DE LA CELLE",
+    "type": "PHARMACIE",
+    "commune": "A RENSEIGNER"
+  },
+  {
+    "nom": "PHARMACIE SAINTE MARIE N GATTAKRO",
+    "type": "PHARMACIE",
+    "commune": "BOUAKE"
+  },
+  {
+    "nom": "PHARMACIE SAINTE MARTHE",
+    "type": "PHARMACIE",
+    "commune": "ANGRE"
+  },
+  {
+    "nom": "PHARMACIE SAINTE RITA DE CASCIA",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "PHARMACIE SAINTE RUTH",
+    "type": "PHARMACIE",
+    "commune": "MARCORY"
+  },
+  {
+    "nom": "PHARMACIE SAINTE THERESE SARL",
+    "type": "PHARMACIE",
+    "commune": "MARCORY"
+  },
+  {
+    "nom": "PHARMACIE SAINTE TRINITE SARL",
+    "type": "PHARMACIE",
+    "commune": "A RENSEIGNER"
+  },
+  {
+    "nom": "PHARMACIE SAINTS ANDRE ET MARTHE SARLU",
+    "type": "PHARMACIE",
+    "commune": "A RENSEIGNER"
+  },
+  {
+    "nom": "PHARMACIE SANDRINA",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "PHARMACIE SANTA CATERINA",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "PHARMACIE SARAH/ADJAME 220 LGT",
+    "type": "PHARMACIE",
+    "commune": "ADJAME"
+  },
+  {
+    "nom": "PHARMACIE SCHIBA",
+    "type": "PHARMACIE",
+    "commune": "ADJAME"
+  },
+  {
+    "nom": "PHARMACIE SEGAI",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "PHARMACIE SELMER",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "PHARMACIE SERVIR SARLU",
+    "type": "PHARMACIE",
+    "commune": "ABOBO"
+  },
+  {
+    "nom": "PHARMACIE SHALOM",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "PHARMACIE SIDECI EXTENSION",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "PHARMACIE SIPOREX SARL",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "PHARMACIE SOKOURA / ABOISSO",
+    "type": "PHARMACIE",
+    "commune": "ABOISSO"
+  },
+  {
+    "nom": "PHARMACIE ST AMBROISE PORT BOUET",
+    "type": "PHARMACIE",
+    "commune": "A RENSEIGNER"
+  },
+  {
+    "nom": "PHARMACIE ST EMMANUEL",
+    "type": "PHARMACIE",
+    "commune": "ADJAME"
+  },
+  {
+    "nom": "PHARMACIE ST GABRIEL",
+    "type": "PHARMACIE",
+    "commune": "AGHIEN"
+  },
+  {
+    "nom": "PHARMACIE ST HERMANN",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "PHARMACIE ST JEAN / COCODY",
+    "type": "PHARMACIE",
+    "commune": "COCODY"
+  },
+  {
+    "nom": "PHARMACIE ST LUCIEN",
+    "type": "PHARMACIE",
+    "commune": "KOUMASSI"
+  },
+  {
+    "nom": "PHARMACIE ST PIERRE DES ROSEES",
+    "type": "PHARMACIE",
+    "commune": "COCODY"
+  },
+  {
+    "nom": "PHARMACIE ST URIEL",
+    "type": "PHARMACIE",
+    "commune": "ADJAME"
+  },
+  {
+    "nom": "PHARMACIE STAR 9 D ANGRE",
+    "type": "PHARMACIE",
+    "commune": "ANGRE"
+  },
+  {
+    "nom": "PHARMACIE STE BEATRICE DES ROSIERS",
+    "type": "PHARMACIE",
+    "commune": "RIVIERA"
+  },
+  {
+    "nom": "PHARMACIE STE CLEMENTINE",
+    "type": "PHARMACIE",
+    "commune": "RIVIERA"
+  },
+  {
+    "nom": "PHARMACIE STE MARIE DES BEATITUDES",
+    "type": "PHARMACIE",
+    "commune": "RIVIERA"
+  },
+  {
+    "nom": "PHARMACIE STE MARIE TIASSALE",
+    "type": "PHARMACIE",
+    "commune": "TIASSALE"
+  },
+  {
+    "nom": "PHARMACIE TEREZA",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "PHARMACIE TIZRA",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "PHARMACIE TSF-MARCORY",
+    "type": "PHARMACIE",
+    "commune": "MARCORY"
+  },
+  {
+    "nom": "PHARMACIE VAL D OISE",
+    "type": "PHARMACIE",
+    "commune": "COCODY"
+  },
+  {
+    "nom": "PHARMACIE VRIDI PALM BEACH SARL",
+    "type": "PHARMACIE",
+    "commune": "VRIDI"
+  },
+  {
+    "nom": "PHARMACIE VRIDI SIR",
+    "type": "PHARMACIE",
+    "commune": "VRIDI"
+  },
+  {
+    "nom": "PHARMACIE VRIDI-VILLAGE",
+    "type": "PHARMACIE",
+    "commune": "VRIDI"
+  },
+  {
+    "nom": "PHARMACIE WILLIAM PONTY",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "PHARMACIE YACINE",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "PHARMACIE YANDI",
+    "type": "PHARMACIE",
+    "commune": "ABOBO"
+  },
+  {
+    "nom": "PHARMACIE YOPOUGON ANADOR",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "PHARMACIE ZANON PIERRE",
+    "type": "PHARMACIE",
+    "commune": "ABOBO BAOULE"
+  },
+  {
+    "nom": "PHARMACIE ZEULAYET",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "PHARMACIE ZONE INDUSTRIELLE YOPOUGON SARL-U",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGONPHARMACIE ZONE MICAO"
+  },
+  {
+    "nom": "PHARMACIEN DE LA ZONE 3 SARLU",
+    "type": "PHARMACIE",
+    "commune": "MARCORY"
+  },
+  {
+    "nom": "POLYCLINIQUE AVICENNES",
+    "type": "CENTRE DE SOINS",
+    "commune": "MARCORY"
+  },
+  {
+    "nom": "POLYCLINIQUE CENTRALE ABOBO",
+    "type": "CENTRE DE SOINS",
+    "commune": "ABOBO"
+  },
+  {
+    "nom": "POLYCLINIQUE DES 2 PLATEAUX",
+    "type": "CENTRE DE SOINS",
+    "commune": "II PLATEAUX"
+  },
+  {
+    "nom": "POLYCLINIQUE DIVINES GRACES",
+    "type": "CENTRE DE SOINS",
+    "commune": "RIVIERA"
+  },
+  {
+    "nom": "POLYCLINIQUE FARAH",
+    "type": "CENTRE DE SOINS",
+    "commune": "MARCORY"
+  },
+  {
+    "nom": "POLYCLINIQUE GMP",
+    "type": "CENTRE DE SOINS",
+    "commune": "PLATEAU"
+  },
+  {
+    "nom": "POLYCLINIQUE GMP ESPACE MUTUALISTE PLATEAU",
+    "type": "CENTRE DE SOINS",
+    "commune": "A RENSEIGNER"
+  },
+  {
+    "nom": "POLYCLINIQUE HOTEL DIEU / ABIDJAN",
+    "type": "CENTRE DE SOINS",
+    "commune": "TREICHVILLEPOLYCLINIQUE INTERNATIONALE DE L INDENIE"
+  },
+  {
+    "nom": "POLYCLINIQUE KENNEDY BOUAKE SARL LOCATION GERANCE",
+    "type": "CENTRE DE SOINS",
+    "commune": "BOUAKE"
+  },
+  {
+    "nom": "POLYCLINIQUE LA SISANGUE",
+    "type": "CENTRE DE SOINS",
+    "commune": "KORHOGO"
+  },
+  {
+    "nom": "POLYCLINIQUE LE PANTHEON MEDICAL",
+    "type": "CENTRE DE SOINS",
+    "commune": "RIVIERA"
+  },
+  {
+    "nom": "POLYCLINIQUE SACRE-COEUR ABIDJAN",
+    "type": "CENTRE DE SOINS",
+    "commune": "RIVIERA"
+  },
+  {
+    "nom": "POLYCLINIQUE STE MARIE DE LA NAWA",
+    "type": "CENTRE DE SOINS",
+    "commune": "SOUBRE"
+  },
+  {
+    "nom": "PRECIS",
+    "type": "OPTIQUE",
+    "commune": "II PLATEAUX ANGRE"
+  },
+  {
+    "nom": "PRESTIGE",
+    "type": "OPTIQUE",
+    "commune": "OPTIQUE II PLATEAUX ANGRE"
+  },
+  {
+    "nom": "REEL OPTICAL",
+    "type": "CENTRE DE SOINS",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "REVOLUTION OPTICALE",
+    "type": "OPTIQUE",
+    "commune": "TOUMODI"
+  },
+  {
+    "nom": "S.A.C.M. FATIMA",
+    "type": "CENTRE DE SOINS",
+    "commune": "II PLATEAUX ANGRE"
+  },
+  {
+    "nom": "SARL CLINIQUE MEDICALE SOLIDARITE D'ABIDJAN",
+    "type": "CENTRE DE SOINS",
+    "commune": "GRAND-BASSAM"
+  },
+  {
+    "nom": "SDOL - INTERNATIONAL",
+    "type": "OPTIQUE",
+    "commune": "OPTIQUE PLATEAU"
+  },
+  {
+    "nom": "SOCIETE MEDICALE ESTHER / GRAND-BASSAM",
+    "type": "CENTRE DE SOINS",
+    "commune": "GRAND-BASSAM"
+  },
+  {
+    "nom": "SOCIETE MEDICALE LES PERLES",
+    "type": "CENTRE DE SOINS",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "SOGEMED-PISAM /SIB",
+    "type": "CENTRE DE SOINS",
+    "commune": "COCODY"
+  },
+  {
+    "nom": "SPV CANCEROLOGIE",
+    "type": "CENTRE DE SOINS",
+    "commune": "BINGERVILLE"
+  },
+  {
+    "nom": "ST CHRIST",
+    "type": "OPTIQUE",
+    "commune": "RIVIERA"
+  },
+  {
+    "nom": "SUD OPTIC",
+    "type": "OPTIQUE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "SURFIN",
+    "type": "OPTIQUE",
+    "commune": "OPTIQUE ABOBO"
+  },
+  {
+    "nom": "TENDANCES",
+    "type": "OPTIQUE",
+    "commune": "OPTIQUE II PLATEAUX"
+  },
+  {
+    "nom": "TOP VISION",
+    "type": "OPTIQUE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "UNOPTIQUE",
+    "type": "OPTIQUE",
+    "commune": "PLATEAU"
+  },
+  {
+    "nom": "VICI-LYNX",
+    "type": "OPTIQUE",
+    "commune": "OPTIQUE PLATEAU"
+  },
+  {
+    "nom": "VIE OPTIC",
+    "type": "OPTIQUE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "VISEO CENTRE DE VISION",
+    "type": "OPTIQUE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "VOS BELLES LUNETTES",
+    "type": "OPTIQUE",
+    "commune": "YOPOUGON"
+  }
+]

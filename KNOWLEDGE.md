@@ -46,7 +46,7 @@ L'ARECIE a pour mission de transformer les interactions entre ses membres en rel
 | **Conseil d'Administration (CA)** | 5 membres (1 Président + 4 Administrateurs) | Orientation stratégique |
 | **Bureau Exécutif (BE)** | 21 membres | Gestion courante et mise en œuvre |
 | **Commissariat aux Comptes (CAC)** | 2 commissaires | Contrôle financier |
-| **Conseil de Médiation (CM)** | Membres proposés par le Président | Litiges, régulation plateforme, suivi des fonds |
+| **Conseil / Comité de Médiation (CM)** | 9 membres (proposés par le Président) | Litiges, régulation plateforme, suivi des fonds |
 
 **Bureau Exécutif — postes clés :**
 - Président(e) — élu par AG pour 3 ans, rééligible une seule fois
@@ -54,11 +54,57 @@ L'ARECIE a pour mission de transformer les interactions entre ses membres en rel
 - Secrétaire Général(e) + 2 adjoints
 - Trésorier(e) Général(e) + adjoint
 
-**Secrétaire Général actuel :** Roger Flan
+**Secrétaire Général actuel :** M. FLAN ZRAN ROGER (Roger Flan)
 
 **Intérim du Président :** Le VP chargé des Affaires Sociales assure l'intérim en cas de vacance.
 
 **Informations officielles communiquées par :** Président du CA · Président de l'association · VP Communication · Secrétaire Général (par délégation)
+
+### 1.3.1 Bureau Exécutif — composition actuelle
+
+| Fonction | Titulaire |
+|--------|-----------|
+| **Président** | M. YAO GERAD |
+| **Vice-Présidente chargée des affaires sociales** | Mme TRAORE Blanche |
+| **Vice-Président chargé des projets** | M. BAMBA NEMASSE |
+| **Vice-présidente chargée des finances** | Mme DIABATE HENRIETTE GOVRIL |
+| **Vice-Président chargé des affaires culturelles** | M. KOUASSI BOKRO BERTIN |
+| **Vice-Président chargé de la communication** | M. GBASSI GBASSI EMILE |
+| **Vice-président chargé de l'organisation** | M. AGOBRE KPI JOACHIM |
+| **Secrétaire général** | M. FLAN ZRAN ROGER |
+| **Secrétaire général adjoint** | M. DABIE CHARLES |
+| **Secrétaire générale adjointe** | Mme GNADRO MARIE |
+| **Trésorier général** | M. ABOU NESTOR |
+| **Trésorière générale adjointe** | Mme KATTIE BLYO SIMONE |
+| **Responsable à l'organisation** | M. KOUASSI NGORAN GEORGES |
+| **Adjointe au Responsable à l'organisation** | Mme KOUADIO CLAUDINE |
+| **Adjoint au Responsable à l'organisation** | M. KONE Drissa Toutou |
+| **Responsable des affaires sociales** | Mme KONAN HORTENSE |
+| **Adjointe à la Responsable des affaires sociales** | Mme ZADI Marie-Josée |
+| **Adjointe à la Responsable des affaires sociales** | Mme KOUAME MONIQUE |
+| **Responsable des affaires culturelles** | M. NIANGORAN DELADIER |
+| **Adjointe au Responsable des affaires culturelles** | Mme FINA DEUGOUE HONORINE |
+| **Adjoint au Responsable des affaires culturelles** | M. KOUASSI KONAN DENIS |
+
+*Pour toute question sur l'organisation de l'ARECIE ou pour joindre un responsable : arecie@flansway.com*
+
+### 1.3.2 Comité de Médiation — composition actuelle
+
+Le **Comité de Médiation** (Conseil de Médiation — CM) intervient en cas de litige entre membres, pour la régulation de la plateforme WhatsApp ARECIE et le suivi des fonds.
+
+| Fonction / Membre | Titulaire |
+|-------------------|-----------|
+| **Président du Comité de Médiation** | M. GOULIHI EDGAR |
+| Membre | M. DJEA JEAN |
+| Membre | Mme WILSON ANGELINE |
+| Membre | Mme WOUNE ANGELE |
+| Membre | Mme DJEDJE née YORO MARIE-NOELLE |
+| Membre | Mme AMAN TAGBO AGNES |
+| Membre | Mme NZI ANO Anne-Marie |
+| Membre | M. DIA KOUAKOU |
+| Membre | M. TA BI MOUSSA |
+
+*Pour un différend ou une réclamation interne à l'ARECIE : arecie@flansway.com (le CM peut être saisi via l'association).*
 
 ### 1.4 Membership et cotisations ARECIE
 
@@ -378,6 +424,12 @@ Tél. : 27 22 22 38 50 / 05 00 67 14 14 — www.iec-abidjan.com
 
 ## PARTIE VI — FAQ CONSOLIDÉE
 
+**Q : Qui compose le Bureau Exécutif de l'ARECIE ?**
+R : Le BE compte 21 membres. Président : M. YAO GERAD. Vice-présidences : Mme TRAORE Blanche (affaires sociales), M. BAMBA NEMASSE (projets), Mme DIABATE HENRIETTE GOVRIL (finances), M. KOUASSI BOKRO BERTIN (affaires culturelles), M. GBASSI GBASSI EMILE (communication), M. AGOBRE KPI JOACHIM (organisation). Secrétariat : M. FLAN ZRAN ROGER (SG), M. DABIE CHARLES et Mme GNADRO MARIE (SG adjoints). Trésorerie : M. ABOU NESTOR et Mme KATTIE BLYO SIMONE. Responsables et adjoints : organisation (KOUASSI NGORAN GEORGES, KOUADIO CLAUDINE, KONE Drissa Toutou), affaires sociales (KONAN HORTENSE, ZADI Marie-Josée, KOUAME MONIQUE), affaires culturelles (NIANGORAN DELADIER, FINA DEUGOUE HONORINE, KOUASSI KONAN DENIS). Liste complète en section 1.3.1.
+
+**Q : Qui compose le Comité de Médiation de l'ARECIE ?**
+R : Le CM compte 9 membres, présidé par **M. GOULIHI EDGAR**. Autres membres : M. DJEA JEAN, Mme WILSON ANGELINE, Mme WOUNE ANGELE, Mme DJEDJE née YORO MARIE-NOELLE, Mme AMAN TAGBO AGNES, Mme NZI ANO Anne-Marie, M. DIA KOUAKOU, M. TA BI MOUSSA. Rôle : litiges entre membres, régulation de la plateforme WhatsApp, suivi des fonds. Liste complète en section 1.3.2. Contact : arecie@flansway.com.
+
 **Q : Comment adhérer à l'ARECIE ?**
 R : Payer le droit d'adhésion de 5 000 FCFA (une seule fois) + cotisation mensuelle de 2 000 FCFA. Contacter l'ARECIE : arecie@flansway.com.
 
@@ -456,7 +508,7 @@ R : Seulement si votre contrat ne porte pas la mention "maternité exclue". Vér
 | Forclos | Dossier dont le délai de soumission (3 mois) est dépassé |
 | BE | Bureau Exécutif de l'ARECIE |
 | CA | Conseil d'Administration de l'ARECIE |
-| CM | Conseil de Médiation de l'ARECIE |
+| CM | Comité / Conseil de Médiation de l'ARECIE (9 membres — litiges, plateforme) |
 
 ---
 
