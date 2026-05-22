@@ -1,36 +1,26 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# ARECIE Assistant - Chatbot
 
-## Getting Started
+Application chatbot Next.js développée pour l'ARECIE (Association des Anciens et Retraités de EECI et CIE). Conçue pour offrir une expérience accessible, simple et sécurisée aux seniors.
 
-First, run the development server:
+## Déploiement Vercel (en 3 étapes)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Ce projet est pré-configuré pour un déploiement optimal sur Vercel.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+**Étape 1 : Importer le dépôt**
+Connectez-vous à votre compte Vercel (https://vercel.com) et cliquez sur **Add New > Project**. Importez ce dépôt Git. Vercel détectera automatiquement qu'il s'agit d'un projet Next.js.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+**Étape 2 : Configurer les variables d'environnement**
+Avant de lancer le déploiement, ajoutez la variable suivante dans la section **Environment Variables** :
+- `ANTHROPIC_API_KEY` : `sk-ant-...` (votre clé API Anthropic réelle)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+**Étape 3 : Déployer et configurer le domaine**
+Cliquez sur **Deploy**. Une fois le déploiement terminé, allez dans **Settings > Domains** et ajoutez le domaine personnalisé `arecie-asmar.com`.
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Fonctionnalités
+- Design accessible (min 16px, fort contraste)
+- Actions rapides pour les cas fréquents
+- Interface de chat rassurante
+- API Anthropic sécurisée en backend
+- Aucune donnée stockée
