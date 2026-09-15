@@ -42,7 +42,15 @@ export function communeMatches(
   const d = normalizeCommune(detectedCommune);
   if (!p || !d) return false;
   if (p === d) return true;
-  if (p.includes(d) || d.includes(p)) return true;
+
+  try {
+    const regexD = new RegExp(`\\b${d}\\b`);
+    const regexP = new RegExp(`\\b${p}\\b`);
+    if (regexD.test(p) || regexP.test(d)) return true;
+  } catch {
+    if (p.includes(d) || d.includes(p)) return true;
+  }
+
   const pWords = p.split(" ");
   const dWords = d.split(" ");
   return pWords.some((w) => w.length >= 4 && d.includes(w)) ||
