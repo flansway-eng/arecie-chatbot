@@ -208,7 +208,7 @@ export function formatPrestatairesMessage(
   }
 
   const lines: string[] = [
-    `📍 Prestataires MU2S près de vous (${communeLabel}) :`,
+    `📍 Prestataires de santé agréés MU2S près de vous (${communeLabel}) :`,
     "",
   ];
 
@@ -232,8 +232,8 @@ export function formatPrestatairesMessage(
   }
 
   lines.push("");
-  lines.push("✅ Ces établissements sont agréés MU2S.");
-  lines.push("Présentez votre carte MU2S à la réception.");
+  lines.push("✅ Ces établissements figurent dans le réseau des prestataires agréés MU2S 2026.");
+  lines.push("Présentez votre carte ASMAR à la réception.");
 
   return lines.join("\n");
 }

@@ -102,7 +102,7 @@ export function ChatWindow({
               type="button"
               onClick={handleNearbyProviders}
               disabled={busy}
-              aria-label="Trouver les Prestataires MU2S près de ma position"
+              aria-label="Trouver les prestataires agréés MU2S près de ma position"
               className={clsx(
                 "flex w-full items-center justify-center gap-2 rounded-full border border-arecie-green/20 bg-arecie-greenLight px-4 py-2.5 text-sm font-medium text-arecie-green transition-all duration-200",
                 "hover:border-arecie-green hover:bg-arecie-green hover:text-white",

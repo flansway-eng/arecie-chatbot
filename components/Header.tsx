@@ -79,7 +79,7 @@ export function Header({ onClearConversation }: HeaderProps) {
             aria-hidden="true"
           />
           <span className="hidden sm:block text-xs text-white/50 whitespace-nowrap">
-            arecie-mu2s.com
+            arecie-asmar.com
           </span>
         </div>
       </div>
