@@ -22,6 +22,13 @@ export const PRESTATAIRE_KEYWORDS = [
   "reseau de soins",
   "conventionné",
   "conventionne",
+  "bon",
+  "bons",
+  "prise en charge",
+  "retrait bon",
+  "retrait des bons",
+  "point focal",
+  "points focaux",
 ];
 
 export const MAIN_COMMUNES = [
@@ -82,14 +89,18 @@ export function extractCommuneFromText(
 
   for (const commune of communesIndex) {
     const nc = normalizeCommune(commune);
-    if (nc.length < 4) continue;
-    if (normalizedMessage.includes(nc)) {
+    if (nc.length < 3) continue;
+    if (nc.length < 4) {
+      if (new RegExp(`\\b${nc}\\b`).test(normalizedMessage)) {
+        return commune;
+      }
+    } else if (normalizedMessage.includes(nc)) {
       return commune;
     }
   }
 
   const prepositionMatch = text.match(
-    /\b(?:à|a|en|sur|dans|commune\s+(?:de|d')?)\s+([A-Za-zÀ-ÿ0-9\s\-']{3,40})/i
+    /\b(?:à|a|en|sur|dans|pour|vers|commune\s+(?:de|d')?)\s+([A-Za-zÀ-ÿ0-9\s\-']{3,40})/i
   );
   if (prepositionMatch?.[1]) {
     const candidate = prepositionMatch[1].trim();

@@ -207,6 +207,9 @@ export function formatPointFocalDetails(pf: PointFocal): string {
     lines.push(`  Secteurs : ${pf.secteurs}`);
   }
   lines.push(`  Contact : ${pf.contact}`);
+  lines.push(
+    `  Modalités : Contactez ce point focal afin de connaître les modalités de retrait de votre bon de prise en charge MU2S et de confirmer sa disponibilité avant votre déplacement.`
+  );
   return lines.join("\n");
 }
 

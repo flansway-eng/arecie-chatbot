@@ -106,11 +106,17 @@ export function buildPrestataireInjection(userMessage: string): string | null {
   const communeLabel = commune.toUpperCase();
 
   if (matched.length === 0) {
+    const recommendationBlock = buildInstitutionalRecommendationBlock(commune);
     return [
       `[PRESTATAIRES DISPONIBLES À ${communeLabel}]`,
-      "(Aucun prestataire trouvé dans la base pour cette commune.)",
+      "(Vérifier les prestataires répertoriés dans KNOWLEDGE.md Partie IX pour cette ville.)",
       "[FIN LISTE]",
-      "Orientez vers MediNova → Réseau de soins ou Karidja Doumbia : 07 08 88 05 05.",
+      "",
+      "Consignes obligatoires pour l'assistant :",
+      "1. Si des établissements pour cette ville figurent dans la base ou KNOWLEDGE.md, cite-les avec précision.",
+      "2. OBLIGATOIRE : Ajoute systématiquement à la fin de ta réponse la recommandation institutionnelle et le point focal ci-dessous, au mot près :",
+      "",
+      recommendationBlock,
     ].join("\n");
   }
 
