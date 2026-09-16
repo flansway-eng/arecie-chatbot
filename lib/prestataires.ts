@@ -208,7 +208,7 @@ export function formatPrestatairesMessage(
   }
 
   const lines: string[] = [
-    `📍 Prestataires ASMAR près de vous (${communeLabel}) :`,
+    `📍 Prestataires MU2S près de vous (${communeLabel}) :`,
     "",
   ];
 
@@ -232,8 +232,8 @@ export function formatPrestatairesMessage(
   }
 
   lines.push("");
-  lines.push("✅ Ces établissements sont agréés WTW.");
-  lines.push("Présentez votre carte ASMAR à la réception.");
+  lines.push("✅ Ces établissements sont agréés MU2S.");
+  lines.push("Présentez votre carte MU2S à la réception.");
 
   return lines.join("\n");
 }

@@ -35,11 +35,6 @@
     "commune": "ABOBO"
   },
   {
-    "nom": "PHARMACIE CARREFOUR N'DOTRE",
-    "type": "PHARMACIE",
-    "commune": "ABOBO"
-  },
-  {
     "nom": "PHARMACIE EMS SANTE",
     "type": "PHARMACIE",
     "commune": "ABOBO"
@@ -75,39 +70,34 @@
     "commune": "ABOBO"
   },
   {
-    "nom": "HOPITAL GENERAL ABOBO",
-    "type": "CENTRE DE SOINS",
-    "commune": "ABOBO"
-  },
-  {
     "nom": "HMA / HOPITAL MILITAIRE D'ABIDJAN",
     "type": "CENTRE DE SOINS",
-    "commune": "ABOBO"
+    "commune": "HOPITAL GENERAL ABOBO ABOBO PRES DU MARCHE CENTRAL"
   },
   {
     "nom": "HMA / HOPITAL MILITAIRE D’ABIDJAN",
     "type": "LABORATOIRE",
-    "commune": "ABOBO"
+    "commune": "HOPITAL GENERAL ABOBO ABOBO PRES DU MARCHE CENTRAL"
   },
   {
     "nom": "HMA / HOPITAL MILITAIRE D’ABIDJAN",
-    "type": "IMAGERIE",
-    "commune": "ABOBO"
+    "type": "LABORATOIRE",
+    "commune": "HOPITAL GENERAL ABOBO ABOBO PRES DU MARCHE CENTRAL"
   },
   {
     "nom": "CABINET DENTAIRE DOKUI",
-    "type": "DENTAIRE",
-    "commune": "ABOBO"
+    "type": "CENTRE DE SOINS",
+    "commune": "HOPITAL GENERAL ABOBO ABOBO PRES DU MARCHE CENTRAL"
   },
   {
     "nom": "SOCIAL OPTIQUE SAINT FRANCOIS XAVIER",
     "type": "OPTIQUE",
-    "commune": "ABOBO"
+    "commune": "HOPITAL GENERAL ABOBO ABOBO PRES DU MARCHE CENTRAL"
   },
   {
     "nom": "OPTICIEN VISAGISTE",
     "type": "OPTIQUE",
-    "commune": "ABOBO"
+    "commune": "HOPITAL GENERAL ABOBO ABOBO PRES DU MARCHE CENTRAL"
   },
   {
     "nom": "PHARMACIE SAINT MICHEL",
@@ -136,12 +126,12 @@
   },
   {
     "nom": "CABINET DENTAIRE LIBERTE",
-    "type": "DENTAIRE",
+    "type": "CENTRE DE SOINS",
     "commune": "ADJAME"
   },
   {
     "nom": "CABINET DENTAIRE DELORVIE",
-    "type": "DENTAIRE",
+    "type": "CENTRE DE SOINS",
     "commune": "ADJAME"
   },
   {
@@ -152,342 +142,342 @@
   {
     "nom": "ZOOM OPTIQUE(AGENCE)",
     "type": "OPTIQUE",
-    "commune": "ATTECOUBE"
+    "commune": "OPTICIENS CONTACTS SITUATION GEOGRAPHIQUE"
   },
   {
     "nom": "PHARMACIE SAINT ETIENNE",
     "type": "PHARMACIE",
-    "commune": "ATTECOUBE"
+    "commune": "ABOBODOUME"
   },
   {
     "nom": "PHARMACIE DE L’IVOIRE SARL-U",
     "type": "PHARMACIE",
-    "commune": "COCODY"
+    "commune": "COCODY CENTRE"
   },
   {
     "nom": "PHARMACIE DU LYCEE TECHNIQUE",
     "type": "PHARMACIE",
-    "commune": "COCODY"
+    "commune": "COCODY CENTRE"
   },
   {
     "nom": "PHARMACIE ST FRANCOIS DANGA",
     "type": "PHARMACIE",
-    "commune": "COCODY"
+    "commune": "COCODY CENTRE"
   },
   {
     "nom": "PHARMACIE DE LA CORNICHE",
     "type": "PHARMACIE",
-    "commune": "COCODY"
+    "commune": "COCODY CENTRE"
   },
   {
     "nom": "PHARMACIE DE COCODY",
     "type": "PHARMACIE",
-    "commune": "COCODY"
+    "commune": "COCODY CENTRE"
   },
   {
     "nom": "PHARMACIE DU BLVD DE FRANCE",
     "type": "PHARMACIE",
-    "commune": "COCODY"
+    "commune": "COCODY CENTRE"
   },
   {
     "nom": "PHARMACIE COMOE",
     "type": "PHARMACIE",
-    "commune": "COCODY"
+    "commune": "COCODY CENTRE"
   },
   {
     "nom": "PHARMACIE SAINT ANGE",
     "type": "PHARMACIE",
-    "commune": "COCODY"
+    "commune": "COCODY CENTRE"
   },
   {
     "nom": "PHARMACIE LES JARDINS D'EDEN",
     "type": "PHARMACIE",
-    "commune": "COCODY"
+    "commune": "COCODY CENTRE"
   },
   {
     "nom": "PHARMACIE LATRILLE",
     "type": "PHARMACIE",
-    "commune": "COCODY"
+    "commune": "COCODY CENTRE"
   },
   {
     "nom": "PHARMACIE LES 4 SAISONS",
     "type": "PHARMACIE",
-    "commune": "COCODY"
+    "commune": "COCODY CENTRE"
   },
   {
     "nom": "PISAM",
     "type": "CENTRE DE SOINS",
-    "commune": "COCODY"
+    "commune": "COCODY CENTRE"
   },
   {
     "nom": "CLINIQUE LA PROVIDENCE",
     "type": "CENTRE DE SOINS",
-    "commune": "COCODY"
+    "commune": "COCODY CENTRE"
   },
   {
     "nom": "CENTRE DE PEDIATRIE DE COCODY",
     "type": "CENTRE DE SOINS",
-    "commune": "COCODY"
+    "commune": "COCODY CENTRE"
   },
   {
     "nom": "C. MEDICAL INTERNATIONAL LA GOSPA",
     "type": "CENTRE DE SOINS",
-    "commune": "COCODY"
+    "commune": "COCODY CENTRE"
   },
   {
     "nom": "CTRE MED ST JOSEH CŒUR ET VAISSEAUX",
     "type": "CENTRE DE SOINS",
-    "commune": "COCODY"
+    "commune": "COCODY CENTRE"
+  },
+  {
+    "nom": "CTRE MED ST JOSEH CŒUR ET VAISSEAUX",
+    "type": "CENTRE DE SOINS",
+    "commune": "COCODY CENTRE"
   },
   {
     "nom": "PISAM",
     "type": "LABORATOIRE",
-    "commune": "COCODY"
+    "commune": "COCODY CENTRE"
   },
   {
     "nom": "PISAM",
-    "type": "IMAGERIE",
-    "commune": "COCODY"
+    "type": "LABORATOIRE",
+    "commune": "COCODY CENTRE"
   },
   {
     "nom": "PISAM",
-    "type": "DENTAIRE",
-    "commune": "COCODY"
+    "type": "CENTRE DE SOINS",
+    "commune": "COCODY CENTRE"
   },
   {
     "nom": "CABINET DENTAIRE BOISSY",
-    "type": "DENTAIRE",
-    "commune": "COCODY"
+    "type": "CENTRE DE SOINS",
+    "commune": "COCODY CENTRE"
   },
   {
     "nom": "EQUILIBRE SANTE",
-    "type": "KINESITHERAPIE",
-    "commune": "COCODY"
+    "type": "CENTRE DE SOINS",
+    "commune": "COCODY CENTRE"
   },
   {
     "nom": "CABINET KINESITHERAPIE SAINTE FELICITE",
-    "type": "KINESITHERAPIE",
-    "commune": "COCODY"
+    "type": "CENTRE DE SOINS",
+    "commune": "COCODY CENTRE"
   },
   {
     "nom": "INSTITUT CŒUR DE GRACE",
-    "type": "KINESITHERAPIE",
-    "commune": "COCODY"
+    "type": "CENTRE DE SOINS",
+    "commune": "COCODY CENTRE"
   },
   {
     "nom": "GRANDE PHARMACIE DES II PLATEAUX",
     "type": "PHARMACIE",
-    "commune": "COCODY"
+    "commune": "II PLATEAUX"
   },
   {
     "nom": "PHARMACIE LES HALLES",
     "type": "PHARMACIE",
-    "commune": "COCODY"
+    "commune": "II PLATEAUX"
   },
   {
     "nom": "PHARMACIE D’ANGRE",
     "type": "PHARMACIE",
-    "commune": "COCODY"
+    "commune": "II PLATEAUX"
   },
   {
     "nom": "PHARMACIE ANALYA",
     "type": "PHARMACIE",
-    "commune": "COCODY"
+    "commune": "II PLATEAUX"
   },
   {
     "nom": "PHARMACIE LES TULIPES",
     "type": "PHARMACIE",
-    "commune": "COCODY"
+    "commune": "II PLATEAUX"
   },
   {
     "nom": "PHARMACIE ARC EN CIEL",
     "type": "PHARMACIE",
-    "commune": "COCODY"
+    "commune": "II PLATEAUX"
   },
   {
     "nom": "PHARMACIE SAINTE CECILE DES VALLONS",
     "type": "PHARMACIE",
-    "commune": "COCODY"
+    "commune": "II PLATEAUX"
   },
   {
     "nom": "PHARMACIE DU CHÂTEAU D'EAU D'ANGRE",
     "type": "PHARMACIE",
-    "commune": "COCODY"
+    "commune": "II PLATEAUX"
   },
   {
     "nom": "PHARMACIE DU BIEN ETRE",
     "type": "PHARMACIE",
-    "commune": "COCODY"
+    "commune": "II PLATEAUX"
   },
   {
     "nom": "POLYCLINIQUE DES II PLATEAUX",
     "type": "CENTRE DE SOINS",
-    "commune": "COCODY"
+    "commune": "II PLATEAUX"
   },
   {
     "nom": "CLINIQUE MEDICAL SPECIALISEE",
     "type": "CENTRE DE SOINS",
-    "commune": "COCODY"
+    "commune": "II PLATEAUX"
   },
   {
     "nom": "CLINIQUE SACM FATIMA / GYNECO",
     "type": "CENTRE DE SOINS",
-    "commune": "COCODY"
+    "commune": "II PLATEAUX"
   },
   {
-    "nom": "CENTRE DE SANTE & D'ANALYSES MEDICALES",
+    "nom": "MEDICALES",
     "type": "CENTRE DE SOINS",
-    "commune": "COCODY"
+    "commune": "CENTRE DE SANTE & D'ANALYSES"
   },
   {
-    "nom": "CENTRE MEDICALE PEDIATRIQUE SOURIRE D'ENFANCE",
+    "nom": "CENTRE MEDICALE PEDIATRIQUE",
     "type": "CENTRE DE SOINS",
-    "commune": "COCODY"
+    "commune": "CENTRE DE SANTE & D'ANALYSES"
   },
   {
-    "nom": "CHU D'ANGRE PROFESSEUR Flore AMON TANOH DICK",
+    "nom": "SOURIRE D'ENFANCE",
     "type": "CENTRE DE SOINS",
-    "commune": "COCODY"
+    "commune": "CENTRE DE SANTE & D'ANALYSES"
+  },
+  {
+    "nom": "PROFESSEUR Flore AMON TANOH DICK",
+    "type": "CENTRE DE SOINS",
+    "commune": "CHU D'ANGRE"
   },
   {
     "nom": "CENTRE MEDICAL LES BLEUETS",
-    "type": "KINESITHERAPIE",
-    "commune": "COCODY"
+    "type": "CENTRE DE SOINS",
+    "commune": "CHU D'ANGRE"
   },
   {
     "nom": "CAB DERMTO ABIDJAN CI / DERMATO",
-    "type": "KINESITHERAPIE",
-    "commune": "COCODY"
+    "type": "CENTRE DE SOINS",
+    "commune": "CHU D'ANGRE"
   },
   {
     "nom": "CENTRE KINE MEDICAL",
-    "type": "KINESITHERAPIE",
-    "commune": "COCODY"
+    "type": "CENTRE DE SOINS",
+    "commune": "CHU D'ANGRE"
   },
   {
     "nom": "CABINET MEDICAL FEMINA",
-    "type": "KINESITHERAPIE",
-    "commune": "COCODY"
+    "type": "CENTRE DE SOINS",
+    "commune": "CHU D'ANGRE"
   },
   {
     "nom": "CENTRE MEDICAL DANAN/DR NEAN CAEL",
-    "type": "KINESITHERAPIE",
-    "commune": "COCODY"
+    "type": "CENTRE DE SOINS",
+    "commune": "CHU D'ANGRE"
   },
   {
     "nom": "CENTRE MEDICAL DANAN / OPHTALMO",
-    "type": "KINESITHERAPIE",
-    "commune": "COCODY"
+    "type": "CENTRE DE SOINS",
+    "commune": "II PLATEAUX"
   },
   {
     "nom": "CENTRE DE PEDIATRIE 2 PLATEAUX",
-    "type": "KINESITHERAPIE",
-    "commune": "COCODY"
+    "type": "CENTRE DE SOINS",
+    "commune": "II PLATEAUX"
   },
   {
     "nom": "C. M. CARDIO-RESPIRATOIRE \"LES JARDINS\"",
-    "type": "KINESITHERAPIE",
-    "commune": "COCODY"
+    "type": "CENTRE DE SOINS",
+    "commune": "II PLATEAUX"
   },
   {
     "nom": "CENTRE MEDICAL LE NOUVEAU LOTUS",
-    "type": "KINESITHERAPIE",
-    "commune": "COCODY"
+    "type": "CENTRE DE SOINS",
+    "commune": "II PLATEAUX"
   },
   {
     "nom": "CENTRE D'INVESTIGAT° MÉD ET RADIO (CIRAD)",
-    "type": "IMAGERIE",
-    "commune": "COCODY"
+    "type": "CENTRE DE SOINS",
+    "commune": "RADIO - SCANNER CONTACTS SITUATION GEOGRAPHIQUE"
   },
   {
-    "nom": "CTRE DE DIAGNOSTIC MÉD ET RADIOLOGIQUE (CDR) ETRADIOLIGIE (CIRAD)",
-    "type": "IMAGERIE",
-    "commune": "COCODY"
+    "nom": "CTRE DE DIAGNOSTIC MÉD ET RADIOLOGIQUE (CDR)",
+    "type": "CENTRE DE SOINS",
+    "commune": "RADIO - SCANNER CONTACTS SITUATION GEOGRAPHIQUE"
   },
   {
     "nom": "CABINET DENTAIRE MARIE VICTOIRE",
-    "type": "DENTAIRE",
-    "commune": "COCODY"
+    "type": "CENTRE DE SOINS",
+    "commune": "ETRADIOLIGIE (CIRAD)"
   },
   {
     "nom": "CABINET DENTAIRE POLYCLINIQUE II PLATEAUX",
-    "type": "DENTAIRE",
-    "commune": "COCODY"
+    "type": "CENTRE DE SOINS",
+    "commune": "ETRADIOLIGIE (CIRAD)"
   },
   {
     "nom": "CABINET DENTAIRE LES BLEUETS VALLONS",
-    "type": "DENTAIRE",
-    "commune": "COCODY"
-  },
-  {
-    "nom": "CABINET OXIGEN DENTAL CLINIC/ DR Eric KONAN",
-    "type": "DENTAIRE",
-    "commune": "COCODY"
+    "type": "CENTRE DE SOINS",
+    "commune": "ETRADIOLIGIE (CIRAD)"
   },
   {
     "nom": "ALAIN AFFLELOU",
     "type": "OPTIQUE",
-    "commune": "COCODY"
+    "commune": "CABINET OXIGEN DENTAL CLINIC"
   },
   {
     "nom": "CLAIRE VISION",
     "type": "OPTIQUE",
-    "commune": "COCODY"
+    "commune": "CABINET OXIGEN DENTAL CLINIC"
   },
   {
     "nom": "CLIN D'ŒIL OPTIQUE (AGENCE)",
     "type": "OPTIQUE",
-    "commune": "COCODY"
+    "commune": "CABINET OXIGEN DENTAL CLINIC"
   },
   {
     "nom": "ST CHRIST OPTIQUE",
     "type": "OPTIQUE",
-    "commune": "COCODY"
+    "commune": "CABINET OXIGEN DENTAL CLINIC"
   },
   {
     "nom": "MODERN OPTIQUE (AGENCE)",
     "type": "OPTIQUE",
-    "commune": "COCODY"
+    "commune": "CABINET OXIGEN DENTAL CLINIC"
   },
   {
     "nom": "OPTICIEN REGARD",
     "type": "OPTIQUE",
-    "commune": "COCODY"
-  },
-  {
-    "nom": "ONO SARL",
-    "type": "OPTIQUE",
-    "commune": "COCODY"
+    "commune": "CABINET OXIGEN DENTAL CLINIC"
   },
   {
     "nom": "IDEAL'OPTIC",
     "type": "OPTIQUE",
-    "commune": "COCODY"
+    "commune": "ONO SARL II PLATEAUX"
   },
   {
     "nom": "OPTICIEN VISAGISTE",
     "type": "OPTIQUE",
-    "commune": "COCODY"
+    "commune": "ONO SARL II PLATEAUX"
   },
   {
     "nom": "HUGSLEY OPTICAL",
     "type": "OPTIQUE",
-    "commune": "COCODY"
+    "commune": "ONO SARL II PLATEAUX"
   },
   {
     "nom": "STYL'OPTIQUE",
     "type": "OPTIQUE",
-    "commune": "COCODY"
+    "commune": "ONO SARL II PLATEAUX"
   },
   {
     "nom": "SELECT OPTIQUE",
     "type": "OPTIQUE",
-    "commune": "COCODY"
+    "commune": "ONO SARL II PLATEAUX"
   },
   {
     "nom": "SHERYL M OPTIQUE",
     "type": "OPTIQUE",
-    "commune": "COCODY"
+    "commune": "ONO SARL II PLATEAUX"
   },
   {
     "nom": "GRANDE PHARMACIE MARIE ESTHER",
@@ -495,279 +485,214 @@
     "commune": "COCODY"
   },
   {
-    "nom": "GRANDE PHCIE DU JUBILE",
-    "type": "PHARMACIE",
-    "commune": "COCODY"
-  },
-  {
     "nom": "PHARMACIE DE L'ALLIANCE",
     "type": "PHARMACIE",
-    "commune": "COCODY"
+    "commune": "GRANDE PHCIE DU JUBILE ANGRE CAFEIERS 2"
   },
   {
     "nom": "PHARMACIE STAR 9 D'ANGRE",
     "type": "PHARMACIE",
-    "commune": "COCODY"
-  },
-  {
-    "nom": "PHARMACIE VAL D'OISE",
-    "type": "PHARMACIE",
-    "commune": "COCODY"
-  },
-  {
-    "nom": "NOUVELLE PHARMACIE STE MARIE",
-    "type": "PHARMACIE",
-    "commune": "COCODY"
-  },
-  {
-    "nom": "PHARMACIE STE CLEMENTINE",
-    "type": "PHARMACIE",
-    "commune": "COCODY"
+    "commune": "GRANDE PHCIE DU JUBILE ANGRE CAFEIERS 2"
   },
   {
     "nom": "PHARMACIE EBENA",
     "type": "PHARMACIE",
-    "commune": "COCODY"
+    "commune": "GRANDE PHCIE DU JUBILE ANGRE CAFEIERS 2"
   },
   {
     "nom": "PHARMACIE EMERAUDE",
     "type": "PHARMACIE",
-    "commune": "COCODY"
+    "commune": "GRANDE PHCIE DU JUBILE ANGRE CAFEIERS 2"
   },
   {
     "nom": "PHARMACIE ORCHID SARL",
     "type": "PHARMACIE",
-    "commune": "COCODY"
+    "commune": "GRANDE PHCIE DU JUBILE ANGRE CAFEIERS 2"
   },
   {
     "nom": "PHARMACIE DES NATIONS",
     "type": "PHARMACIE",
-    "commune": "COCODY"
+    "commune": "GRANDE PHCIE DU JUBILE ANGRE CAFEIERS 2"
   },
   {
     "nom": "PHARMACIE STE DOROTHEE",
     "type": "PHARMACIE",
-    "commune": "COCODY"
-  },
-  {
-    "nom": "PHARMACIE BETHEL ATTOBAN",
-    "type": "PHARMACIE",
-    "commune": "COCODY"
+    "commune": "GRANDE PHCIE DU JUBILE ANGRE CAFEIERS 2"
   },
   {
     "nom": "PHARMACIE ARC EN CIEL",
     "type": "PHARMACIE",
-    "commune": "COCODY"
-  },
-  {
-    "nom": "PHARMACIE ACTUELLE",
-    "type": "PHARMACIE",
-    "commune": "COCODY"
-  },
-  {
-    "nom": "PHARMACIE DU PALM CLUB",
-    "type": "PHARMACIE",
-    "commune": "COCODY"
-  },
-  {
-    "nom": "PHARMACIE SAINT ANGE",
-    "type": "PHARMACIE",
-    "commune": "COCODY"
-  },
-  {
-    "nom": "PHARMACIE EPHRATA",
-    "type": "PHARMACIE",
-    "commune": "COCODY"
+    "commune": "GRANDE PHCIE DU JUBILE ANGRE CAFEIERS 2"
   },
   {
     "nom": "PHARMACIE AVE MARIA",
     "type": "PHARMACIE",
-    "commune": "COCODY"
-  },
-  {
-    "nom": "PHARMACIE METROPOLE",
-    "type": "PHARMACIE",
-    "commune": "COCODY"
-  },
-  {
-    "nom": "CENTRE KINEDEN HEALTH",
-    "type": "KINESITHERAPIE",
-    "commune": "COCODY"
-  },
-  {
-    "nom": "CABINET D'ORTHOPHONIE LES PETITS ANGES DE DIEU",
-    "type": "CENTRE DE SOINS",
-    "commune": "COCODY"
+    "commune": "GRANDE PHCIE DU JUBILE ANGRE CAFEIERS 2"
   },
   {
     "nom": "CENTRE MEDICAL RIVIERA AMBASSADE",
-    "type": "CENTRE DE SOINS",
-    "commune": "COCODY"
+    "type": "PHARMACIE",
+    "commune": "ANGES DE DIEU"
   },
   {
-    "nom": "CENTRE D'OPTALMOLOGIE SILOAM",
-    "type": "OPHTALMOLOGIE",
-    "commune": "COCODY"
-  },
-  {
-    "nom": "CENTRE NATIONAL D'ONCOLOGIE MEDICALE ET RADIOTHE AO",
-    "type": "IMAGERIE",
-    "commune": "COCODY"
+    "nom": "MEDICALE ET RADIOTHE AO",
+    "type": "PHARMACIE",
+    "commune": "CENTRE NATIONAL D'ONCOLOGIE"
   },
   {
     "nom": "PHARMACIE LES ROSIERS",
     "type": "PHARMACIE",
-    "commune": "COCODY"
+    "commune": "RIVIERA 1,2,3"
   },
   {
     "nom": "PHARMACIE SAINTE AGATHE",
     "type": "PHARMACIE",
-    "commune": "COCODY"
+    "commune": "RIVIERA 1,2,3"
   },
   {
     "nom": "PHARMACIE ST PIERRE DES ROSIERS",
     "type": "PHARMACIE",
-    "commune": "COCODY"
+    "commune": "RIVIERA 1,2,3"
   },
   {
     "nom": "PHARMACIE MARIE ESTHER",
     "type": "PHARMACIE",
-    "commune": "COCODY"
+    "commune": "RIVIERA 1,2,3"
   },
   {
     "nom": "PHARMACIE SAINTE FAMILLE",
     "type": "PHARMACIE",
-    "commune": "COCODY"
+    "commune": "RIVIERA 1,2,3"
   },
   {
     "nom": "PHARMACIE DU BONHEUR",
     "type": "PHARMACIE",
-    "commune": "COCODY"
+    "commune": "RIVIERA 1,2,3"
   },
   {
     "nom": "PHARMACIE LES CATLEYAS",
     "type": "PHARMACIE",
-    "commune": "COCODY"
+    "commune": "RIVIERA 1,2,3"
   },
   {
     "nom": "PHARMACIE M'POUTO",
     "type": "PHARMACIE",
-    "commune": "COCODY"
+    "commune": "RIVIERA 1,2,3"
   },
   {
     "nom": "PHARMACIE PALMERAIE",
     "type": "PHARMACIE",
-    "commune": "COCODY"
+    "commune": "RIVIERA 1,2,3"
   },
   {
     "nom": "PHARMACIE SAINT PIERRE D'ANONO",
     "type": "PHARMACIE",
-    "commune": "COCODY"
+    "commune": "RIVIERA 1,2,3"
   },
   {
     "nom": "PHARMACIE SAINT ATHANASE",
     "type": "PHARMACIE",
-    "commune": "COCODY"
+    "commune": "RIVIERA 1,2,3"
   },
   {
     "nom": "PHARMACIE EAU VIVE",
     "type": "PHARMACIE",
-    "commune": "COCODY"
-  },
-  {
-    "nom": "PHARMACIE LE ROCHER/ DR SERY AMBROISE",
-    "type": "PHARMACIE",
-    "commune": "COCODY"
+    "commune": "RIVIERA 1,2,3"
   },
   {
     "nom": "POLYCLINIQUE SACRE CŒUR D'ABIDJAN",
     "type": "CENTRE DE SOINS",
-    "commune": "COCODY"
+    "commune": "DR SERY AMBROISE"
   },
   {
     "nom": "CLINIQUE DIVINES GRACES DE LA PALMERAIE",
     "type": "CENTRE DE SOINS",
-    "commune": "COCODY"
+    "commune": "DR SERY AMBROISE"
   },
   {
     "nom": "PROCREA",
     "type": "CENTRE DE SOINS",
-    "commune": "COCODY"
+    "commune": "DR SERY AMBROISE"
   },
   {
     "nom": "CLINIQUE SAINT ALBERT",
     "type": "CENTRE DE SOINS",
-    "commune": "COCODY"
+    "commune": "DR SERY AMBROISE"
   },
   {
     "nom": "CABINET MEDICAL NOTRE DAME DE LA PAIX",
     "type": "CENTRE DE SOINS",
-    "commune": "COCODY"
+    "commune": "DR SERY AMBROISE"
   },
   {
     "nom": "CENTRE MEDICAL PALMERAIE",
     "type": "CENTRE DE SOINS",
-    "commune": "COCODY"
+    "commune": "DR SERY AMBROISE"
   },
   {
     "nom": "GROUPE MEDICAL DE L'AMITIE/DR AISSY",
     "type": "CENTRE DE SOINS",
-    "commune": "COCODY"
+    "commune": "DR SERY AMBROISE"
   },
   {
-    "nom": "CENTRE MEDICAL EKAS/ BEUGRE ALLOH JEANNE OURAGA",
+    "nom": "CENTRE MEDICAL EKAS/",
     "type": "CENTRE DE SOINS",
-    "commune": "COCODY"
+    "commune": "DR SERY AMBROISE"
+  },
+  {
+    "nom": "BEUGRE ALLOH JEANNE OURAGA",
+    "type": "CENTRE DE SOINS",
+    "commune": "DR SERY AMBROISE"
   },
   {
     "nom": "CENTRE D'IMAGERIE MEDICALE DE LA RIVIERA",
-    "type": "IMAGERIE",
-    "commune": "COCODY"
+    "type": "LABORATOIRE",
+    "commune": "DR SERY AMBROISE"
   },
   {
     "nom": "CABINET DENTAIRE MODERN’ORTHO",
-    "type": "DENTAIRE",
-    "commune": "COCODY"
+    "type": "CENTRE DE SOINS",
+    "commune": "RIVIERA 1,2,3"
   },
   {
     "nom": "CABINET DENTAIRE LORKA/N'ZI- BOA TANIA",
-    "type": "DENTAIRE",
-    "commune": "COCODY"
+    "type": "CENTRE DE SOINS",
+    "commune": "RIVIERA 1,2,3"
   },
   {
     "nom": "CABINET DENTAIRE SAINTE FAMILLE",
-    "type": "DENTAIRE",
-    "commune": "COCODY"
+    "type": "CENTRE DE SOINS",
+    "commune": "RIVIERA 1,2,3"
   },
   {
     "nom": "CABINET DENTAIRE LES LILAS",
-    "type": "DENTAIRE",
-    "commune": "COCODY"
+    "type": "CENTRE DE SOINS",
+    "commune": "RIVIERA 1,2,3"
   },
   {
     "nom": "VERT OPTIQUE",
     "type": "OPTIQUE",
-    "commune": "COCODY"
+    "commune": "RIVIERA 1,2,3"
   },
   {
     "nom": "SAINT CHRIST OPTIQUE",
     "type": "OPTIQUE",
-    "commune": "COCODY"
+    "commune": "RIVIERA 1,2,3"
   },
   {
-    "nom": "OPTIC 2000",
+    "nom": "OPTIC 20",
     "type": "OPTIQUE",
-    "commune": "COCODY"
+    "commune": "RIVIERA 1,2,3"
   },
   {
     "nom": "ANOPTIC GROUPE SAS SIEGE",
     "type": "OPTIQUE",
-    "commune": "COCODY"
+    "commune": "RIVIERA 1,2,3"
   },
   {
     "nom": "OPTICIEN VISAGISTE",
     "type": "OPTIQUE",
-    "commune": "COCODY"
+    "commune": "RIVIERA 1,2,3"
   },
   {
     "nom": "PHARMACIE NISSI",
@@ -795,19 +720,19 @@
     "commune": "BINGERVILLE"
   },
   {
-    "nom": "PHARMACIE NOTRE DAME DE LA NATIVITE DR ROGER DJAMA",
+    "nom": "PHARMACIE NOTRE DAME DE LA NATIVITE",
     "type": "PHARMACIE",
     "commune": "BINGERVILLE"
   },
   {
     "nom": "HOPITAL MERE-ENFANT DOMINIQUE OUATTARA",
     "type": "CENTRE DE SOINS",
-    "commune": "BINGERVILLE"
+    "commune": "DR ROGER DJAMA"
   },
   {
-    "nom": "INSTITUT EUROPEEN DE CANCEROLOGIE/ Alexandre ROQUETTE",
-    "type": "CENTRE DE SOINS",
-    "commune": "BINGERVILLE"
+    "nom": "HOPITAL MERE-ENFANT DOMINIQUE OUATTARA",
+    "type": "LABORATOIRE",
+    "commune": "INSTITUT EUROPEEN DE CANCEROLOGIE"
   },
   {
     "nom": "HOPITAL MERE-ENFANT DOMINIQUE OUATTARA",
@@ -816,17 +741,7 @@
   },
   {
     "nom": "HOPITAL MERE-ENFANT DOMINIQUE OUATTARA",
-    "type": "IMAGERIE",
-    "commune": "BINGERVILLE"
-  },
-  {
-    "nom": "HOPITAL MERE-ENFANT DOMINIQUE OUATTARA",
-    "type": "DENTAIRE",
-    "commune": "BINGERVILLE"
-  },
-  {
-    "nom": "KESSE OPTIQUE",
-    "type": "OPTIQUE",
+    "type": "CENTRE DE SOINS",
     "commune": "BINGERVILLE"
   },
   {
@@ -855,7 +770,12 @@
     "commune": "PLATEAU"
   },
   {
-    "nom": "NOUVELLE PHARMACIE LES HARMONIES/DR ESTHER CAMARA",
+    "nom": "NOUVELLE PHARMACIE",
+    "type": "PHARMACIE",
+    "commune": "PLATEAU"
+  },
+  {
+    "nom": "LES HARMONIES/DR ESTHER CAMARA",
     "type": "PHARMACIE",
     "commune": "PLATEAU"
   },
@@ -870,39 +790,39 @@
     "commune": "PLATEAU"
   },
   {
-    "nom": "POLYCLINIQUE GMP (GROUPE MÉDICAL DU PLATEAU)",
+    "nom": "POLYCLINIQUE GMP",
     "type": "CENTRE DE SOINS",
     "commune": "PLATEAU"
   },
   {
     "nom": "NOVA CARE",
     "type": "CENTRE DE SOINS",
-    "commune": "PLATEAU"
+    "commune": "(GROUPE MÉDICAL DU PLATEAU)"
   },
   {
     "nom": "CLINIQUE MEDICALE FRANCHET D'ESPEREY",
     "type": "CENTRE DE SOINS",
-    "commune": "PLATEAU"
+    "commune": "(GROUPE MÉDICAL DU PLATEAU)"
   },
   {
     "nom": "CABINET MEDICAL LONGCHAMPS /HEMATO",
     "type": "CENTRE DE SOINS",
-    "commune": "PLATEAU"
+    "commune": "(GROUPE MÉDICAL DU PLATEAU)"
   },
   {
     "nom": "ESPACE MEDICAL SAINT PAUL",
     "type": "CENTRE DE SOINS",
-    "commune": "PLATEAU"
+    "commune": "(GROUPE MÉDICAL DU PLATEAU)"
   },
   {
     "nom": "CABINET MEDICAL CHARDY/GYNECO",
     "type": "CENTRE DE SOINS",
-    "commune": "PLATEAU"
+    "commune": "(GROUPE MÉDICAL DU PLATEAU)"
   },
   {
     "nom": "CABINET MEDICAL HOME MEDICAL SERVICE",
     "type": "CENTRE DE SOINS",
-    "commune": "PLATEAU"
+    "commune": "(GROUPE MÉDICAL DU PLATEAU)"
   },
   {
     "nom": "CABINET MEDICAL SAINTE LOUISE / CARDIO",
@@ -945,78 +865,73 @@
     "commune": "PLATEAU"
   },
   {
-    "nom": "CENTRE MEDICAL CROZET",
-    "type": "CENTRE DE SOINS",
-    "commune": "PLATEAU"
-  },
-  {
     "nom": "CABINET ICARE CONSEILS/DR ATTEY",
     "type": "CENTRE DE SOINS",
-    "commune": "PLATEAU"
+    "commune": "CENTRE MEDICAL CROZET PLATEAU"
   },
   {
     "nom": "LABORATOIRE PIERRE MONTAGNIER",
-    "type": "LABORATOIRE",
-    "commune": "PLATEAU"
+    "type": "CENTRE DE SOINS",
+    "commune": "LABORATOIRES CONTACST SITUATIONS GEOGRAPHIQUES"
   },
   {
     "nom": "LABORATOIRE PRINCIPAL",
-    "type": "LABORATOIRE",
-    "commune": "PLATEAU"
+    "type": "CENTRE DE SOINS",
+    "commune": "LABORATOIRES CONTACST SITUATIONS GEOGRAPHIQUES"
   },
   {
     "nom": "LABORATOIRE PLACE DE LA REPUBLIQUE",
-    "type": "LABORATOIRE",
-    "commune": "PLATEAU"
+    "type": "CENTRE DE SOINS",
+    "commune": "LABORATOIRES CONTACST SITUATIONS GEOGRAPHIQUES"
   },
   {
     "nom": "CENTRE WILLIC / LABO ANAPATH",
-    "type": "LABORATOIRE",
-    "commune": "PLATEAU"
+    "type": "CENTRE DE SOINS",
+    "commune": "LABORATOIRES CONTACST SITUATIONS GEOGRAPHIQUES"
   },
   {
     "nom": "LABORATOIRE CENTRAL D’ABIDJAN",
-    "type": "LABORATOIRE",
-    "commune": "PLATEAU"
+    "type": "CENTRE DE SOINS",
+    "commune": "LABORATOIRES CONTACST SITUATIONS GEOGRAPHIQUES"
   },
   {
     "nom": "PETRO SANTE (EX CID)",
-    "type": "IMAGERIE",
-    "commune": "PLATEAU"
+    "type": "LABORATOIRE",
+    "commune": "LABORATOIRES CONTACST SITUATIONS GEOGRAPHIQUES"
   },
   {
     "nom": "CABINET DENTAIRE DIAHA",
-    "type": "DENTAIRE",
-    "commune": "PLATEAU"
+    "type": "CENTRE DE SOINS",
+    "commune": "LABORATOIRES CONTACST SITUATIONS GEOGRAPHIQUES"
   },
   {
     "nom": "CABINET DENTAIRE N'ZI EKRA",
-    "type": "DENTAIRE",
-    "commune": "PLATEAU"
+    "type": "CENTRE DE SOINS",
+    "commune": "LABORATOIRES CONTACST SITUATIONS GEOGRAPHIQUES"
   },
   {
     "nom": "CABINET DENTAIRE DU CARMEL",
-    "type": "DENTAIRE",
-    "commune": "PLATEAU"
+    "type": "CENTRE DE SOINS",
+    "commune": "LABORATOIRES CONTACST SITUATIONS GEOGRAPHIQUES"
   },
   {
     "nom": "CABINET DENTAIRE FRANCHET D'ESPEREY",
-    "type": "DENTAIRE",
-    "commune": "PLATEAU"
+    "type": "CENTRE DE SOINS",
+    "commune": "LABORATOIRES CONTACST SITUATIONS GEOGRAPHIQUES"
   },
   {
     "nom": "CABINET DENTAIRE SANGARET",
-    "type": "DENTAIRE",
+    "type": "CENTRE DE SOINS",
     "commune": "PLATEAU"
   },
   {
     "nom": "CABINET DENTAIRE HORIZON",
-    "type": "DENTAIRE",
+    "type": "CENTRE DE SOINS",
     "commune": "PLATEAU"
   },
   {
     "nom": "CABINET DENTAIRE CHARDY",
-    "type": "DENTAIRE",
+    "type": "CENTRE DE SOINS",
     "commune": "PLATEAU"
   },
   {
@@ -1090,29 +1005,14 @@
     "commune": "PLATEAU"
   },
   {
-    "nom": "CENTRE KINE MEDICAL",
-    "type": "KINESITHERAPIE",
-    "commune": "PLATEAU"
-  },
-  {
     "nom": "POLYCLINIQUE INTERNATIONALE DE L'INDENIE",
-    "type": "KINESITHERAPIE",
-    "commune": "PLATEAU"
+    "type": "CENTRE DE SOINS",
+    "commune": "CENTRE KINE MEDICAL AV. NOGUÈS,CS TRAINING CENTER, VERS SIDAM"
   },
   {
     "nom": "PHARMACIE ANIAMAN",
     "type": "PHARMACIE",
-    "commune": "PLATEAU"
-  },
-  {
-    "nom": "PHARMACIE KORALIE",
-    "type": "PHARMACIE",
-    "commune": "PLATEAU"
-  },
-  {
-    "nom": "GRANDE PHARMACIE DES BANQUES",
-    "type": "PHARMACIE",
-    "commune": "PLATEAU"
+    "commune": "CENTRE KINE MEDICAL AV. NOGUÈS,CS TRAINING CENTER, VERS SIDAM"
   },
   {
     "nom": "PHARMACIE ROY",
@@ -1176,308 +1076,298 @@
   },
   {
     "nom": "INSTITUT DE CARDIOLOGIE (ICA)",
-    "type": "CENTRE DE SOINS",
+    "type": "PHARMACIE",
     "commune": "TREICHVILLE"
   },
   {
     "nom": "CHU DE TREICHVILLE",
-    "type": "CENTRE DE SOINS",
+    "type": "PHARMACIE",
     "commune": "TREICHVILLE"
   },
   {
     "nom": "CENTRE MEDICAL SMGL/CARDIO- RHUMATO",
-    "type": "CENTRE DE SOINS",
-    "commune": "TREICHVILLE"
+    "type": "PHARMACIE",
+    "commune": "CABINETS & CENTRES MEDICAUX CCOONNTTAACCTTS SSIITTUUAATTIIOONNS G GEEOOGGRRAAPPHHIQIQUUEES"
   },
   {
     "nom": "LABORATOIRE ROSETTE",
     "type": "LABORATOIRE",
-    "commune": "TREICHVILLE"
+    "commune": "CABINETS & CENTRES MEDICAUX CCOONNTTAACCTTS SSIITTUUAATTIIOONNS G GEEOOGGRRAAPPHHIQIQUUEES"
   },
   {
     "nom": "LABORATOIRE SMGL",
     "type": "LABORATOIRE",
-    "commune": "TREICHVILLE"
+    "commune": "CABINETS & CENTRES MEDICAUX CCOONNTTAACCTTS SSIITTUUAATTIIOONNS G GEEOOGGRRAAPPHHIQIQUUEES"
   },
   {
     "nom": "CENTRE D'IMAGERIE MEDICALE D'ABJ. (CIMA)",
-    "type": "IMAGERIE",
-    "commune": "TREICHVILLE"
+    "type": "LABORATOIRE",
+    "commune": "CABINETS & CENTRES MEDICAUX CCOONNTTAACCTTS SSIITTUUAATTIIOONNS G GEEOOGGRRAAPPHHIQIQUUEES"
   },
   {
     "nom": "CENTRE D'IMAGERIE MEDICALE LA ROSETTE",
-    "type": "IMAGERIE",
-    "commune": "TREICHVILLE"
+    "type": "LABORATOIRE",
+    "commune": "CABINETS & CENTRES MEDICAUX CCOONNTTAACCTTS SSIITTUUAATTIIOONNS G GEEOOGGRRAAPPHHIQIQUUEES"
   },
   {
     "nom": "CABINET DENTAIRE NANAN YAMOUSSO",
-    "type": "DENTAIRE",
-    "commune": "TREICHVILLE"
+    "type": "LABORATOIRE",
+    "commune": "DENTISTES CCOONNTATACCTTS SSIITTUUAATTIIOONNS G GEEOOGGRRAAPPHHIQIQUUEES"
   },
   {
     "nom": "CABINET DENTAIRE DE LA GARE DE BASSAM",
-    "type": "DENTAIRE",
-    "commune": "TREICHVILLE"
+    "type": "LABORATOIRE",
+    "commune": "DENTISTES CCOONNTATACCTTS SSIITTUUAATTIIOONNS G GEEOOGGRRAAPPHHIQIQUUEES"
   },
   {
     "nom": "CABINET DENTAIRE SAINTE MARIE",
-    "type": "DENTAIRE",
-    "commune": "TREICHVILLE"
+    "type": "LABORATOIRE",
+    "commune": "DENTISTES CCOONNTATACCTTS SSIITTUUAATTIIOONNS G GEEOOGGRRAAPPHHIQIQUUEES"
   },
   {
     "nom": "CABINET DENTAIRE DU ROND POINT",
-    "type": "DENTAIRE",
-    "commune": "TREICHVILLE"
+    "type": "LABORATOIRE",
+    "commune": "DENTISTES CCOONNTATACCTTS SSIITTUUAATTIIOONNS G GEEOOGGRRAAPPHHIQIQUUEES"
   },
   {
     "nom": "CABINET DENTAIRE DJANKALE",
-    "type": "DENTAIRE",
-    "commune": "TREICHVILLE"
+    "type": "LABORATOIRE",
+    "commune": "DENTISTES CCOONNTATACCTTS SSIITTUUAATTIIOONNS G GEEOOGGRRAAPPHHIQIQUUEES"
   },
   {
     "nom": "CABINET DENTAIRE SAINT JEAN BOSCO",
-    "type": "DENTAIRE",
-    "commune": "TREICHVILLE"
+    "type": "LABORATOIRE",
+    "commune": "DENTISTES CCOONNTATACCTTS SSIITTUUAATTIIOONNS G GEEOOGGRRAAPPHHIQIQUUEES"
   },
   {
     "nom": "ASSISTANCE OPTIQUE",
-    "type": "OPTIQUE",
-    "commune": "TREICHVILLE"
+    "type": "LABORATOIRE",
+    "commune": "OPTICIENS CCOONNTTAACCTTS SSIITTUUAATTIIOONNS G GEEOOGGRRAAPPHHIQIQUUEES"
   },
   {
     "nom": "VISION ECLAT'S",
-    "type": "OPTIQUE",
-    "commune": "TREICHVILLE"
+    "type": "LABORATOIRE",
+    "commune": "OPTICIENS CCOONNTTAACCTTS SSIITTUUAATTIIOONNS G GEEOOGGRRAAPPHHIQIQUUEES"
   },
   {
     "nom": "OPTICAL DISCOUNT KARIS",
-    "type": "OPTIQUE",
-    "commune": "TREICHVILLE"
+    "type": "LABORATOIRE",
+    "commune": "OPTICIENS CCOONNTTAACCTTS SSIITTUUAATTIIOONNS G GEEOOGGRRAAPPHHIQIQUUEES"
   },
   {
-    "nom": "ONO SARL",
-    "type": "OPTIQUE",
-    "commune": "TREICHVILLE"
+    "nom": "27 21",
+    "type": "LABORATOIRE",
+    "commune": "OPTICIENS CCOONNTTAACCTTS SSIITTUUAATTIIOONNS G GEEOOGGRRAAPPHHIQIQUUEES"
   },
   {
     "nom": "OPTIQUE PLUS",
-    "type": "OPTIQUE",
-    "commune": "TREICHVILLE"
+    "type": "LABORATOIRE",
+    "commune": "ONO SARL PRES ECOLE INTEC"
   },
   {
     "nom": "POLYCLINIQUE FARAH",
-    "type": "IMAGERIE",
-    "commune": "MARCORY"
+    "type": "LABORATOIRE",
+    "commune": "RADIO - SCANNER CCOONNTTAACCTTS SSIITTUUAATTIIOONNS G GEEOOGGRRAAPPHHIQIQUUEES"
   },
   {
     "nom": "POLYCLINIQUE AVICENNES",
-    "type": "IMAGERIE",
-    "commune": "MARCORY"
+    "type": "LABORATOIRE",
+    "commune": "RADIO - SCANNER CCOONNTTAACCTTS SSIITTUUAATTIIOONNS G GEEOOGGRRAAPPHHIQIQUUEES"
   },
   {
     "nom": "POLYCLINIQUE FARAH",
-    "type": "DENTAIRE",
-    "commune": "MARCORY"
+    "type": "LABORATOIRE",
+    "commune": "DENTISTES CCOONNTTAACCTTS SSIITTUUAATTIIOONNS G GEEOOGGRRAAPPHHIQIQUUEES"
   },
   {
     "nom": "CABINET DENTAIRE BLD DU GABON",
-    "type": "DENTAIRE",
-    "commune": "MARCORY"
+    "type": "LABORATOIRE",
+    "commune": "DENTISTES CCOONNTTAACCTTS SSIITTUUAATTIIOONNS G GEEOOGGRRAAPPHHIQIQUUEES"
   },
   {
     "nom": "CABINET DENTAIRE HOUEMAVO",
-    "type": "DENTAIRE",
-    "commune": "MARCORY"
+    "type": "LABORATOIRE",
+    "commune": "DENTISTES CCOONNTTAACCTTS SSIITTUUAATTIIOONNS G GEEOOGGRRAAPPHHIQIQUUEES"
   },
   {
     "nom": "OPTICAL CENTER",
-    "type": "OPTIQUE",
-    "commune": "MARCORY"
+    "type": "LABORATOIRE",
+    "commune": "OPTICIENS CCOONNTTAACCTTS SSIITTUUAATTIIOONNS G GEEOOGGRRAAPPHHIQIQUUEES"
   },
   {
     "nom": "HOLLYWOOD OPTICAL",
-    "type": "OPTIQUE",
-    "commune": "MARCORY"
+    "type": "LABORATOIRE",
+    "commune": "OPTICIENS CCOONNTTAACCTTS SSIITTUUAATTIIOONNS G GEEOOGGRRAAPPHHIQIQUUEES"
   },
   {
     "nom": "SDOL INTERNATIONAL OPTIQUE",
-    "type": "OPTIQUE",
-    "commune": "MARCORY"
+    "type": "LABORATOIRE",
+    "commune": "OPTICIENS CCOONNTTAACCTTS SSIITTUUAATTIIOONNS G GEEOOGGRRAAPPHHIQIQUUEES"
   },
   {
     "nom": "LYNX OPTIQUE VGE CAP SUD",
-    "type": "OPTIQUE",
-    "commune": "MARCORY"
+    "type": "LABORATOIRE",
+    "commune": "OPTICIENS CCOONNTTAACCTTS SSIITTUUAATTIIOONNS G GEEOOGGRRAAPPHHIQIQUUEES"
   },
   {
     "nom": "ANOPTIC GROUPE SAS",
-    "type": "OPTIQUE",
-    "commune": "MARCORY"
+    "type": "LABORATOIRE",
+    "commune": "OPTICIENS CCOONNTTAACCTTS SSIITTUUAATTIIOONNS G GEEOOGGRRAAPPHHIQIQUUEES"
   },
   {
     "nom": "MONDIAL OPTIC PLUS",
-    "type": "OPTIQUE",
-    "commune": "MARCORY"
+    "type": "LABORATOIRE",
+    "commune": "OPTICIENS CCOONNTTAACCTTS SSIITTUUAATTIIOONNS G GEEOOGGRRAAPPHHIQIQUUEES"
   },
   {
     "nom": "POLYCLINIQUE FARAH",
-    "type": "KINESITHERAPIE",
-    "commune": "MARCORY"
+    "type": "LABORATOIRE",
+    "commune": "KINESITHERAPIE CCOONNTTAACCTTS SSIITTUUAATTIIOONNS G GEEOOGGRRAAPPHHIQIQUUEES"
   },
   {
     "nom": "PHARMACIE DE LA ZONE 3 SARL",
-    "type": "PHARMACIE",
-    "commune": "MARCORY"
+    "type": "LABORATOIRE",
+    "commune": "ZONE 3"
   },
   {
-    "nom": "PHARMACIE NOUVELLE PERGOLA DR CISSOKO JEANNE",
-    "type": "PHARMACIE",
-    "commune": "MARCORY"
-  },
-  {
-    "nom": "PHARMACIE DE BIETRY/DR ADOUMEL",
-    "type": "PHARMACIE",
-    "commune": "MARCORY"
+    "nom": "PHARMACIE NOUVELLE PERGOLA",
+    "type": "LABORATOIRE",
+    "commune": "ZONE 3"
   },
   {
     "nom": "CLINIQUE LES ARCADES",
-    "type": "CENTRE DE SOINS",
-    "commune": "MARCORY"
+    "type": "LABORATOIRE",
+    "commune": "DR CISSOKO JEANNE"
   },
   {
     "nom": "CENTRE MEDICO-CHIRURGICAL FRANCE IVOIRE",
-    "type": "CENTRE DE SOINS",
-    "commune": "MARCORY"
+    "type": "LABORATOIRE",
+    "commune": "DR CISSOKO JEANNE"
   },
   {
     "nom": "CLINIQUE MEDICALE DE LA VISION",
-    "type": "CENTRE DE SOINS",
-    "commune": "MARCORY"
+    "type": "LABORATOIRE",
+    "commune": "DR CISSOKO JEANNE"
   },
   {
     "nom": "PHARMACIE DES LAGUNES",
-    "type": "PHARMACIE",
+    "type": "LABORATOIRE",
     "commune": "MARCORY"
   },
   {
     "nom": "PHARMACIE DE LA GALERIE",
-    "type": "PHARMACIE",
+    "type": "LABORATOIRE",
     "commune": "MARCORY"
   },
   {
     "nom": "PHARMACIE LANVIA",
-    "type": "PHARMACIE",
+    "type": "LABORATOIRE",
     "commune": "MARCORY"
   },
   {
     "nom": "PHARMACIE DU CARREFOUR",
-    "type": "PHARMACIE",
+    "type": "LABORATOIRE",
     "commune": "MARCORY"
   },
   {
     "nom": "PHARMACIE DU BOULEVARD DE MARSEILLE",
-    "type": "PHARMACIE",
+    "type": "LABORATOIRE",
     "commune": "MARCORY"
   },
   {
     "nom": "PHARMACIE DE L'INJS",
-    "type": "PHARMACIE",
+    "type": "LABORATOIRE",
     "commune": "MARCORY"
   },
   {
     "nom": "PHARMACIE DE LA PLACE",
-    "type": "PHARMACIE",
+    "type": "LABORATOIRE",
     "commune": "MARCORY"
   },
   {
     "nom": "PHARMACIE EBATHE",
-    "type": "PHARMACIE",
+    "type": "LABORATOIRE",
     "commune": "MARCORY"
   },
   {
     "nom": "POLYCLINIQUE FARAH",
-    "type": "CENTRE DE SOINS",
+    "type": "LABORATOIRE",
     "commune": "MARCORY"
   },
   {
     "nom": "POLYCLINIQUE AVICENNES",
-    "type": "CENTRE DE SOINS",
+    "type": "LABORATOIRE",
     "commune": "MARCORY"
   },
   {
     "nom": "CLINIQUE SAINTE NANCY / ORL",
-    "type": "CENTRE DE SOINS",
+    "type": "LABORATOIRE",
     "commune": "MARCORY"
   },
   {
     "nom": "CENTRE MEDICO CHIRURGICAL LAENNEC",
-    "type": "CENTRE DE SOINS",
-    "commune": "MARCORY"
+    "type": "LABORATOIRE",
+    "commune": "CABINETS & CENTRES MEDICAUX CCOONNTTAACCTTS SSIITTUUAATTIIOONNS G GEEOOGGRRAAPPHHIQIQUUEES"
   },
   {
     "nom": "CENTRE MEDICAL DU DIABETE, MALADIE CARDI",
-    "type": "CENTRE DE SOINS",
-    "commune": "MARCORY"
+    "type": "LABORATOIRE",
+    "commune": "CABINETS & CENTRES MEDICAUX CCOONNTTAACCTTS SSIITTUUAATTIIOONNS G GEEOOGGRRAAPPHHIQIQUUEES"
   },
   {
     "nom": "CENTRE D’OPHTALMOLOGIE VIERGE DE NOCES",
-    "type": "CENTRE DE SOINS",
-    "commune": "MARCORY"
+    "type": "LABORATOIRE",
+    "commune": "CABINETS & CENTRES MEDICAUX CCOONNTTAACCTTS SSIITTUUAATTIIOONNS G GEEOOGGRRAAPPHHIQIQUUEES"
   },
   {
     "nom": "POLYCLINIQUE FARAH",
     "type": "LABORATOIRE",
-    "commune": "MARCORY"
+    "commune": "LABORATOIRES CCOONNTTAACCTTS SSIITTUUAATTIIOONNS G GEEOOGGRRAAPPHHIQIQUUEES"
   },
   {
     "nom": "POLYCLINIQUE AVICENNES",
     "type": "LABORATOIRE",
-    "commune": "MARCORY"
+    "commune": "LABORATOIRES CCOONNTTAACCTTS SSIITTUUAATTIIOONNS G GEEOOGGRRAAPPHHIQIQUUEES"
   },
   {
     "nom": "PHARMACIE ROMA D'ANOUMANBO",
     "type": "PHARMACIE",
-    "commune": "MARCORY"
+    "commune": "LABORATOIRES CCOONNTTAACCTTS SSIITTUUAATTIIOONNS G GEEOOGGRRAAPPHHIQIQUUEES"
   },
   {
     "nom": "PHARMACIE PTT",
     "type": "PHARMACIE",
-    "commune": "MARCORY"
-  },
-  {
-    "nom": "PHARMACIE MISERICORDE",
-    "type": "PHARMACIE",
-    "commune": "MARCORY"
+    "commune": "LABORATOIRES CCOONNTTAACCTTS SSIITTUUAATTIIOONNS G GEEOOGGRRAAPPHHIQIQUUEES"
   },
   {
     "nom": "CENTRE MEDICAL DU DIABETE",
     "type": "PHARMACIE",
-    "commune": "MARCORY"
+    "commune": "LABORATOIRES CCOONNTTAACCTTS SSIITTUUAATTIIOONNS G GEEOOGGRRAAPPHHIQIQUUEES"
   },
   {
-    "nom": "CENTRE INTERNATIONAL DE CORRECTION AUDITIVE",
+    "nom": "CENTRE INTERNATIONAL DE CORRECTION",
     "type": "PHARMACIE",
-    "commune": "MARCORY"
+    "commune": "LABORATOIRES CCOONNTTAACCTTS SSIITTUUAATTIIOONNS G GEEOOGGRRAAPPHHIQIQUUEES"
   },
   {
     "nom": "CENTRE D'OPHTALMOLOGIE HI-TECH",
     "type": "CENTRE DE SOINS",
-    "commune": "MARCORY"
+    "commune": "CONTACT SITUATION GEOGRAPHIQUE"
   },
   {
     "nom": "CIMEDIC",
     "type": "CENTRE DE SOINS",
-    "commune": "MARCORY"
+    "commune": "CONTACT SITUATION GEOGRAPHIQUE"
   },
   {
     "nom": "CABINET DENTAIRE DE LA ZONE 4",
-    "type": "DENTAIRE",
-    "commune": "MARCORY"
+    "type": "CENTRE DE SOINS",
+    "commune": "CONTACT SITUATION GEOGRAPHIQUE"
   },
   {
     "nom": "IDEAL'OPTIC",
     "type": "OPTIQUE",
-    "commune": "MARCORY"
+    "commune": "CONTACT SITUATION GEOGRAPHIQUE"
   },
   {
     "nom": "PHARMACIE DU MARAIS",
@@ -1496,11 +1386,6 @@
   },
   {
     "nom": "PHARMACIE SAINT -PAUL",
-    "type": "PHARMACIE",
-    "commune": "KOUMASSI"
-  },
-  {
-    "nom": "PHARMACIE KAHIRA",
     "type": "PHARMACIE",
     "commune": "KOUMASSI"
   },
@@ -1525,34 +1410,24 @@
     "commune": "KOUMASSI"
   },
   {
-    "nom": "GRANDE PHARMACIE DES LACS",
-    "type": "PHARMACIE",
-    "commune": "KOUMASSI"
-  },
-  {
     "nom": "CABINET MEDICAL DE KOUMASSI",
-    "type": "CENTRE DE SOINS",
-    "commune": "KOUMASSI"
+    "type": "PHARMACIE",
+    "commune": "CABINETS & CENTRES MEDICAUX CCOONNTTAACCTTS SSIITTUUAATTIIOONNS G GEEOOGGRRAAPPHHIQIQUUEES"
   },
   {
     "nom": "CENTRE MEDICAL LIRING",
-    "type": "CENTRE DE SOINS",
-    "commune": "KOUMASSI"
-  },
-  {
-    "nom": "CLINIQUE MEDICALE DE KOUMASSI/ SOUMAH CHRISTIAN",
-    "type": "CENTRE DE SOINS",
-    "commune": "KOUMASSI"
+    "type": "PHARMACIE",
+    "commune": "CABINETS & CENTRES MEDICAUX CCOONNTTAACCTTS SSIITTUUAATTIIOONNS G GEEOOGGRRAAPPHHIQIQUUEES"
   },
   {
     "nom": "ASET SOCIAL OPTIC",
-    "type": "OPTIQUE",
-    "commune": "KOUMASSI"
+    "type": "PHARMACIE",
+    "commune": "OPTICIENS CCOONNTTAACCTTS SSIITTUUAATTIIOONNS G GEEOOGGRRAAPPHHIQIQUUEES"
   },
   {
     "nom": "OPTICIEN VISAGISTE",
-    "type": "OPTIQUE",
-    "commune": "KOUMASSI"
+    "type": "PHARMACIE",
+    "commune": "OPTICIENS CCOONNTTAACCTTS SSIITTUUAATTIIOONNS G GEEOOGGRRAAPPHHIQIQUUEES"
   },
   {
     "nom": "PHARMACIE DE LA BALTIQUE",
@@ -1581,7 +1456,7 @@
   },
   {
     "nom": "CENTRE MEDICAL MALON",
-    "type": "CENTRE DE SOINS",
+    "type": "PHARMACIE",
     "commune": "PORT-BOUET"
   },
   {
@@ -1710,11 +1585,6 @@
     "commune": "YOPOUGON"
   },
   {
-    "nom": "PHARMACIE NOUVEAU QUARTIER",
-    "type": "PHARMACIE",
-    "commune": "YOPOUGON"
-  },
-  {
     "nom": "PHARMACIE LA MAISON BLANCHE",
     "type": "PHARMACIE",
     "commune": "YOPOUGON"
@@ -1746,17 +1616,17 @@
   },
   {
     "nom": "CLINIQUE MEDICALE VIE",
-    "type": "CENTRE DE SOINS",
+    "type": "PHARMACIE",
     "commune": "YOPOUGON"
   },
   {
-    "nom": "PHARMACIE ET LABORATOIRE NOUVEAU QUARTIER",
+    "nom": "QUARTIER",
     "type": "PHARMACIE",
     "commune": "YOPOUGON"
   },
   {
     "nom": "CENTRE MEDICAL LES ARCHANGES",
-    "type": "CENTRE DE SOINS",
+    "type": "PHARMACIE",
     "commune": "YOPOUGON"
   },
   {
@@ -1780,164 +1650,149 @@
     "commune": "YOPOUGON"
   },
   {
-    "nom": "PHARMACIE SACRE CŒUR /DR ATTIA",
-    "type": "PHARMACIE",
-    "commune": "YOPOUGON"
-  },
-  {
-    "nom": "PHARMACIE SANTA MARIA",
-    "type": "PHARMACIE",
-    "commune": "YOPOUGON"
-  },
-  {
     "nom": "CLINIQUE MEDICALE SAINTE MARIE",
-    "type": "CENTRE DE SOINS",
-    "commune": "YOPOUGON"
+    "type": "PHARMACIE",
+    "commune": "CONTACT SITUATION GEOGRAPHIQUE"
   },
   {
     "nom": "CLINIQUE MEDICALE LES OLIVIERS",
-    "type": "CENTRE DE SOINS",
-    "commune": "YOPOUGON"
+    "type": "PHARMACIE",
+    "commune": "CONTACT SITUATION GEOGRAPHIQUE"
   },
   {
     "nom": "CLINIQUE MEDICALE LE GRAND CENTRE",
-    "type": "CENTRE DE SOINS",
-    "commune": "YOPOUGON"
+    "type": "PHARMACIE",
+    "commune": "CONTACT SITUATION GEOGRAPHIQUE"
   },
   {
     "nom": "CLINIQUE SAINTE RITA DE CASCIA",
-    "type": "CENTRE DE SOINS",
-    "commune": "YOPOUGON"
+    "type": "PHARMACIE",
+    "commune": "CONTACT SITUATION GEOGRAPHIQUE"
   },
   {
     "nom": "CENTRE BIOMEDICAL",
-    "type": "CENTRE DE SOINS",
-    "commune": "YOPOUGON"
+    "type": "PHARMACIE",
+    "commune": "CABINETS & CENTRES MEDICAUX CCOONNTTAACCTTS SSIITTUUAATTIIOONNS G GEEOOGGRRAAPPHHIQIQUUEES"
   },
   {
     "nom": "CENTRE MEDICAL SAINTE JEANNE",
-    "type": "CENTRE DE SOINS",
-    "commune": "YOPOUGON"
+    "type": "PHARMACIE",
+    "commune": "CABINETS & CENTRES MEDICAUX CCOONNTTAACCTTS SSIITTUUAATTIIOONNS G GEEOOGGRRAAPPHHIQIQUUEES"
   },
   {
     "nom": "CENTRE MEDICAL SAINT SAUVEUR",
-    "type": "CENTRE DE SOINS",
-    "commune": "YOPOUGON"
+    "type": "PHARMACIE",
+    "commune": "CABINETS & CENTRES MEDICAUX CCOONNTTAACCTTS SSIITTUUAATTIIOONNS G GEEOOGGRRAAPPHHIQIQUUEES"
+  },
+  {
+    "nom": "CENTRE MEDICAL SAINT SAUVEUR",
+    "type": "PHARMACIE",
+    "commune": "CABINETS & CENTRES MEDICAUX CCOONNTTAACCTTS SSIITTUUAATTIIOONNS G GEEOOGGRRAAPPHHIQIQUUEES"
   },
   {
     "nom": "LABORATOIRE PRINCIPAL",
-    "type": "LABORATOIRE",
-    "commune": "YOPOUGON"
+    "type": "PHARMACIE",
+    "commune": "LABORATOIRES CCOONNTTAACCTTS SSIITTUUAATTIIOONNS G GEEOOGGRRAAPPHHIQIQUUEES"
   },
   {
     "nom": "CTRE D'IMAGERIE MEDICALE ET DE DIAGNOSTIC",
-    "type": "LABORATOIRE",
-    "commune": "YOPOUGON"
+    "type": "PHARMACIE",
+    "commune": "LABORATOIRES CCOONNTTAACCTTS SSIITTUUAATTIIOONNS G GEEOOGGRRAAPPHHIQIQUUEES"
   },
   {
     "nom": "CTRE D'IMAGERIE MEDICALE ET DE DIAGNOSTIC",
-    "type": "IMAGERIE",
-    "commune": "YOPOUGON"
+    "type": "PHARMACIE",
+    "commune": "RADIO - SCANNER CCOONNTTAACCTTS SSIITTUUAATTIIOONNS G GEEOOGGRRAAPPHHIQIQUUEES"
   },
   {
     "nom": "CABINET DENTAIRE LE MESSIE",
-    "type": "DENTAIRE",
-    "commune": "YOPOUGON"
-  },
-  {
-    "nom": "CABINET DENTAIRE SAINTE RITA/ MARIE EMMANUELLE KOFFI",
-    "type": "DENTAIRE",
-    "commune": "YOPOUGON"
+    "type": "PHARMACIE",
+    "commune": "DENTISTES CCOONNTTAACCTTS SSIITTUUAATTIIOONNS G GEEOOGGRRAAPPHHIQIQUUEES"
   },
   {
     "nom": "DESIGN OPTIQUE(AGENCE)",
-    "type": "OPTIQUE",
-    "commune": "YOPOUGON"
+    "type": "PHARMACIE",
+    "commune": "OPTICIENS CCOONNTTAACCTTS SSIITTUUAATTIIOONNS G GEEOOGGRRAAPPHHIQIQUUEES"
   },
   {
     "nom": "GRACE OPTIQUE",
-    "type": "OPTIQUE",
-    "commune": "YOPOUGON"
+    "type": "PHARMACIE",
+    "commune": "OPTICIENS CCOONNTTAACCTTS SSIITTUUAATTIIOONNS G GEEOOGGRRAAPPHHIQIQUUEES"
   },
   {
     "nom": "ZOOM OPTIQUE(AGENCE)",
-    "type": "OPTIQUE",
-    "commune": "YOPOUGON"
+    "type": "PHARMACIE",
+    "commune": "OPTICIENS CCOONNTTAACCTTS SSIITTUUAATTIIOONNS G GEEOOGGRRAAPPHHIQIQUUEES"
   },
   {
     "nom": "TENDANCE OPTIQUE",
-    "type": "OPTIQUE",
-    "commune": "YOPOUGON"
+    "type": "PHARMACIE",
+    "commune": "OPTICIENS CCOONNTTAACCTTS SSIITTUUAATTIIOONNS G GEEOOGGRRAAPPHHIQIQUUEES"
   },
   {
     "nom": "MODERN’ OPTIQUE",
-    "type": "OPTIQUE",
-    "commune": "YOPOUGON"
+    "type": "PHARMACIE",
+    "commune": "OPTICIENS CCOONNTTAACCTTS SSIITTUUAATTIIOONNS G GEEOOGGRRAAPPHHIQIQUUEES"
   },
   {
     "nom": "SOCIAL OPTIQUE ST FRANCOIS XAVIER",
-    "type": "OPTIQUE",
-    "commune": "YOPOUGON"
+    "type": "PHARMACIE",
+    "commune": "OPTICIENS CCOONNTTAACCTTS SSIITTUUAATTIIOONNS G GEEOOGGRRAAPPHHIQIQUUEES"
   },
   {
     "nom": "HOLLYWOOD OPTICAL",
-    "type": "OPTIQUE",
-    "commune": "YOPOUGON"
+    "type": "PHARMACIE",
+    "commune": "OPTICIENS CCOONNTTAACCTTS SSIITTUUAATTIIOONNS G GEEOOGGRRAAPPHHIQIQUUEES"
   },
   {
     "nom": "SOCIAL VISION",
-    "type": "OPTIQUE",
-    "commune": "YOPOUGON"
+    "type": "PHARMACIE",
+    "commune": "OPTICIENS CCOONNTTAACCTTS SSIITTUUAATTIIOONNS G GEEOOGGRRAAPPHHIQIQUUEES"
   },
   {
     "nom": "HOLY VISION",
-    "type": "OPTIQUE",
-    "commune": "YOPOUGON"
+    "type": "PHARMACIE",
+    "commune": "OPTICIENS CCOONNTTAACCTTS SSIITTUUAATTIIOONNS G GEEOOGGRRAAPPHHIQIQUUEES"
   },
   {
     "nom": "ASET SOCIAL OPTIC",
-    "type": "OPTIQUE",
-    "commune": "YOPOUGON"
+    "type": "PHARMACIE",
+    "commune": "OPTICIENS CCOONNTTAACCTTS SSIITTUUAATTIIOONNS G GEEOOGGRRAAPPHHIQIQUUEES"
   },
   {
     "nom": "ANOPTIC GROUP SAS (AGENCE)",
-    "type": "OPTIQUE",
-    "commune": "YOPOUGON"
+    "type": "PHARMACIE",
+    "commune": "OPTICIENS CCOONNTTAACCTTS SSIITTUUAATTIIOONNS G GEEOOGGRRAAPPHHIQIQUUEES"
   },
   {
     "nom": "MAITRE OPTICS (SIEGE)",
-    "type": "OPTIQUE",
-    "commune": "YOPOUGON"
+    "type": "PHARMACIE",
+    "commune": "OPTICIENS CCOONNTTAACCTTS SSIITTUUAATTIIOONNS G GEEOOGGRRAAPPHHIQIQUUEES"
   },
   {
     "nom": "OPTICIEN VISAGISTE",
-    "type": "OPTIQUE",
-    "commune": "YOPOUGON"
+    "type": "PHARMACIE",
+    "commune": "OPTICIENS CCOONNTTAACCTTS SSIITTUUAATTIIOONNS G GEEOOGGRRAAPPHHIQIQUUEES"
   },
   {
     "nom": "CLINIQUE MEDICALE LES OLIVIERS",
-    "type": "KINESITHERAPIE",
-    "commune": "YOPOUGON"
+    "type": "PHARMACIE",
+    "commune": "KINESITHERAPIE CCOONNTTAACCTTS SSIITTUUAATTIIOONNS G GEEOOGGRRAAPPHHIQIQUUEES"
   },
   {
-    "nom": "CENTRE KINE MEDICAL (AGENCE QT ANANERAIE)",
-    "type": "KINESITHERAPIE",
-    "commune": "YOPOUGON"
+    "nom": "CABINET DE KINESITHERAPIE",
+    "type": "PHARMACIE",
+    "commune": "(AGENCE NOUV QUARTIER)"
   },
   {
-    "nom": "CENTRE KINE MEDICAL (AGENCE NOUV QUARTIER)",
-    "type": "KINESITHERAPIE",
-    "commune": "YOPOUGON"
-  },
-  {
-    "nom": "CABINET DE KINESITHERAPIE LE GRAND CENTRE",
-    "type": "KINESITHERAPIE",
-    "commune": "YOPOUGON"
+    "nom": "LE GRAND CENTRE",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON NIANGON"
   },
   {
     "nom": "CENTRE MEDICAL LES ARCHANGES",
-    "type": "CENTRE DE SOINS",
-    "commune": "YOPOUGON"
+    "type": "PHARMACIE",
+    "commune": "CENTRES MEDICAUX SUITE CCOONNTTAACCTTS SSIITTUUAATTIIOONNS G GEEOOGGRRAAPPHHIQIQUUEES"
   },
   {
     "nom": "PHARMACIE MAIRIE-NORD",
@@ -1995,11 +1850,6 @@
     "commune": "ABENGOUROU"
   },
   {
-    "nom": "CLINIQUE MEDICALE SAINT FRANCOIS 0",
-    "type": "CENTRE DE SOINS",
-    "commune": "ABENGOUROU"
-  },
-  {
     "nom": "CLINIQUE SOPHIA DE L’INDENIE",
     "type": "CENTRE DE SOINS",
     "commune": "ABENGOUROU"
@@ -2036,12 +1886,12 @@
   },
   {
     "nom": "CENTRE DE KINESITHERAPIE",
-    "type": "KINESITHERAPIE",
+    "type": "CENTRE DE SOINS",
     "commune": "ABENGOUROU"
   },
   {
     "nom": "CENTRE MEDICAL CKLN SANTE",
-    "type": "DENTAIRE",
+    "type": "CENTRE DE SOINS",
     "commune": "ABENGOUROU"
   },
   {
@@ -2086,18 +1936,13 @@
   },
   {
     "nom": "CABINET DENTAIRE ADOU GEORGES",
-    "type": "DENTAIRE",
+    "type": "CENTRE DE SOINS",
     "commune": "ABOISSO"
   },
   {
     "nom": "CRISTALIN'S SOCIAL OPTIQUE",
-    "type": "OPTIQUE",
+    "type": "CENTRE DE SOINS",
     "commune": "ABOISSO"
-  },
-  {
-    "nom": "PHARMACIE MODERNE ADIAKE",
-    "type": "PHARMACIE",
-    "commune": "ADIAKE"
   },
   {
     "nom": "PHARMACIE D'ADZOPE",
@@ -2125,11 +1970,6 @@
     "commune": "ADZOPE"
   },
   {
-    "nom": "PHARMACIE LOUISE ANTOINE",
-    "type": "PHARMACIE",
-    "commune": "ADZOPE"
-  },
-  {
     "nom": "CLINIQUE SAINT LAURENT",
     "type": "CENTRE DE SOINS",
     "commune": "ADZOPE"
@@ -2146,11 +1986,6 @@
   },
   {
     "nom": "INSTITUT RAOUL FOLLEREAU",
-    "type": "CENTRE DE SOINS",
-    "commune": "ADZOPE"
-  },
-  {
-    "nom": "CHR ADZOPE",
     "type": "CENTRE DE SOINS",
     "commune": "ADZOPE"
   },
@@ -2185,29 +2020,24 @@
     "commune": "AGBOVILLE"
   },
   {
-    "nom": "HÔPITAL GENERAL D’AGNIBILEKRO",
-    "type": "CENTRE DE SOINS",
-    "commune": "AGNIBILEKRO"
-  },
-  {
     "nom": "CENTRE SANTE PALAZZOLO AGNIBILEKROU",
     "type": "CENTRE DE SOINS",
-    "commune": "AGNIBILEKRO"
+    "commune": "HÔPITAL GENERAL D’AGNIBILEKRO AGNIBILEKROU"
   },
   {
     "nom": "PHARMACIE BOILOT",
     "type": "PHARMACIE",
-    "commune": "AGNIBILEKRO"
+    "commune": "HÔPITAL GENERAL D’AGNIBILEKRO AGNIBILEKROU"
   },
   {
     "nom": "NOUVELLE PHARMACIE DU DJUABLIN",
     "type": "PHARMACIE",
-    "commune": "AGNIBILEKRO"
+    "commune": "HÔPITAL GENERAL D’AGNIBILEKRO AGNIBILEKROU"
   },
   {
     "nom": "PHARMCIE MAI",
     "type": "PHARMACIE",
-    "commune": "AGNIBILEKRO"
+    "commune": "HÔPITAL GENERAL D’AGNIBILEKRO AGNIBILEKROU"
   },
   {
     "nom": "GRANDE PHARMACIE D'AKOUPE",
@@ -2250,18 +2080,18 @@
     "commune": "ANYAMA"
   },
   {
-    "nom": "PHARMACIE CARREFOUR KOBAKRO/ DR BASSA KOUADIO",
+    "nom": "PHARMACIE CARREFOUR KOBAKRO/",
+    "type": "PHARMACIE",
+    "commune": "ANYAMA"
+  },
+  {
+    "nom": "DR BASSA KOUADIO",
     "type": "PHARMACIE",
     "commune": "ANYAMA"
   },
   {
     "nom": "CENTRE MEDICAL DON ORION",
-    "type": "KINESITHERAPIE",
-    "commune": "ANYAMA"
-  },
-  {
-    "nom": "CENTRE KINE MEDICAL",
-    "type": "KINESITHERAPIE",
+    "type": "CENTRE DE SOINS",
     "commune": "ANYAMA"
   },
   {
@@ -2315,11 +2145,6 @@
     "commune": "BONDOUKOU"
   },
   {
-    "nom": "PHARMACIE NOTRE DAME",
-    "type": "PHARMACIE",
-    "commune": "BONDOUKOU"
-  },
-  {
     "nom": "PHARMACIE AN-NASR",
     "type": "PHARMACIE",
     "commune": "BONDOUKOU"
@@ -2330,24 +2155,24 @@
     "commune": "BONDOUKOU"
   },
   {
-    "nom": "HOPITAUX & CLINIQUES",
-    "type": "PHARMACIE",
-    "commune": "BONDOUKOU"
-  },
-  {
     "nom": "CHR BONDOUKOU",
-    "type": "PHARMACIE",
+    "type": "CENTRE DE SOINS",
     "commune": "BONDOUKOU"
   },
   {
-    "nom": "CLINIQUE MEDICALE STE AGNES/ DR KOBENAN AKOUA AGNES",
-    "type": "PHARMACIE",
+    "nom": "CLINIQUE MEDICALE STE AGNES/",
+    "type": "CENTRE DE SOINS",
     "commune": "BONDOUKOU"
   },
   {
-    "nom": "CENTRE DE SANTE DE LA POLICE NATIONALE",
-    "type": "PHARMACIE",
+    "nom": "DR KOBENAN AKOUA AGNES",
+    "type": "CENTRE DE SOINS",
     "commune": "BONDOUKOU"
+  },
+  {
+    "nom": "NATIONALE",
+    "type": "CENTRE DE SOINS",
+    "commune": "CENTRE DE SANTE DE LA POLICE"
   },
   {
     "nom": "PHARMACIE DE SION",
@@ -2357,11 +2182,6 @@
   {
     "nom": "PHARMACIE DE BONGOUANOU",
     "type": "PHARMACIE",
-    "commune": "BONGOUANOU"
-  },
-  {
-    "nom": "CHR BONGOUANOU",
-    "type": "CENTRE DE SOINS",
     "commune": "BONGOUANOU"
   },
   {
@@ -2425,14 +2245,9 @@
     "commune": "BOUAFLE"
   },
   {
-    "nom": "CHR DE BOUAFLE",
-    "type": "CENTRE DE SOINS",
-    "commune": "BOUAFLE"
-  },
-  {
     "nom": "OPTICOOL",
     "type": "OPTIQUE",
-    "commune": "BOUAFLE"
+    "commune": "CHR DE BOUAFLE SUR LA GAUCHE, À L'ENTRÉE DE LA VILLE"
   },
   {
     "nom": "PHARMACIE MODERNE KENNEDY",
@@ -2525,99 +2340,89 @@
     "commune": "BOUAKE"
   },
   {
-    "nom": "PHARMACIE DU PETIT MARCHE DE BELLEVILLE 2 BOUAKE",
-    "type": "PHARMACIE",
-    "commune": "BOUAKE"
-  },
-  {
     "nom": "CLINIQUE MEDICALE STE MADELEINE",
-    "type": "CENTRE DE SOINS",
-    "commune": "BOUAKE"
+    "type": "PHARMACIE",
+    "commune": "SITUATIONS GEOGRAPHIQUES"
   },
   {
     "nom": "CLINIQUE MEDICALE DE BOUAKE",
-    "type": "CENTRE DE SOINS",
-    "commune": "BOUAKE"
+    "type": "PHARMACIE",
+    "commune": "COMMERCE AVENUE JACQUES AKA"
   },
   {
     "nom": "CLINIQUE MÉDICO-CHIRURGICALE NANAN(CMENA)",
-    "type": "CENTRE DE SOINS",
-    "commune": "BOUAKE"
+    "type": "PHARMACIE",
+    "commune": "COMMERCE RUE DU CHAMP TSF NORD"
   },
   {
     "nom": "CENTRE MEDICO MILITAIRE 1ER BATAILLON",
-    "type": "CENTRE DE SOINS",
-    "commune": "BOUAKE"
+    "type": "PHARMACIE",
+    "commune": "SITUATIONS GEOGRAPHIQUES"
   },
   {
     "nom": "CENTRE D'OPHTALMOLOGIE STE MADELEINE",
-    "type": "CENTRE DE SOINS",
-    "commune": "BOUAKE"
+    "type": "PHARMACIE",
+    "commune": "SITUATIONS GEOGRAPHIQUES"
   },
   {
-    "nom": "CENTRE MEDICAL LA RETINE DU GBEKE/ DIOMANDE IBRAHIM",
-    "type": "CENTRE DE SOINS",
-    "commune": "BOUAKE"
+    "nom": "CENTRE MEDICAL LA RETINE DU GBEKE/",
+    "type": "PHARMACIE",
+    "commune": "SITUATIONS GEOGRAPHIQUES"
+  },
+  {
+    "nom": "DIOMANDE IBRAHIM",
+    "type": "PHARMACIE",
+    "commune": "SITUATIONS GEOGRAPHIQUES"
   },
   {
     "nom": "BIOCONTROL LABORATOIRE D'ANALYSES",
-    "type": "LABORATOIRE",
-    "commune": "BOUAKE"
+    "type": "PHARMACIE",
+    "commune": "SITUATIONS GEOGRAPHIQUES"
   },
   {
     "nom": "CENTRE D'IMAGERIE MÉDICALE DE BOUAKE CIMAB",
-    "type": "IMAGERIE",
-    "commune": "BOUAKE"
+    "type": "PHARMACIE",
+    "commune": "SITUATIONS GEOGRAPHIQUES"
   },
   {
     "nom": "CABINET DENTAIRE IVOIRE",
-    "type": "DENTAIRE",
-    "commune": "BOUAKE"
+    "type": "PHARMACIE",
+    "commune": "SITUATIONS GEOGRAPHIQUES"
   },
   {
     "nom": "BOUAKE OPTIQUE",
-    "type": "OPTIQUE",
-    "commune": "BOUAKE"
+    "type": "PHARMACIE",
+    "commune": "SITUATIONS GEOGRAPHIQUES"
   },
   {
     "nom": "HOLY VISION",
-    "type": "OPTIQUE",
-    "commune": "BOUAKE"
+    "type": "PHARMACIE",
+    "commune": "COMMERCE"
   },
   {
     "nom": "ODG VISION",
-    "type": "OPTIQUE",
-    "commune": "BOUAKE"
+    "type": "PHARMACIE",
+    "commune": "QT COMMERCE"
   },
   {
     "nom": "ACCORD OPTIQUE",
-    "type": "OPTIQUE",
-    "commune": "BOUAKE"
+    "type": "PHARMACIE",
+    "commune": "QT AIR FRANCE"
   },
   {
     "nom": "CLAIRE VISION (AGENCE)",
-    "type": "OPTIQUE",
-    "commune": "BOUAKE"
+    "type": "PHARMACIE",
+    "commune": "QUARTIER COMMERCE"
   },
   {
     "nom": "ANOPTIC GROUPE SAS(AGENCE)",
-    "type": "OPTIQUE",
-    "commune": "BOUAKE"
+    "type": "PHARMACIE",
+    "commune": "QUARTIER COMMERCE"
   },
   {
     "nom": "PHARMACIE ESPOIR",
-    "type": "OPTIQUE",
-    "commune": "BOUAKE"
-  },
-  {
-    "nom": "NOUVELLE PHARMACIE DE BOUNA",
     "type": "PHARMACIE",
-    "commune": "BOUNA"
-  },
-  {
-    "nom": "HÔPITAL GENERAL DE BOUNA",
-    "type": "CENTRE DE SOINS",
-    "commune": "BOUNA"
+    "commune": "QT COMMERCE FACE BANQUE BACI"
   },
   {
     "nom": "PHARMACIE DE LA FRATERNITE",
@@ -2637,11 +2442,6 @@
   {
     "nom": "PHARMACIE LA COLOMBE BUYO",
     "type": "PHARMACIE",
-    "commune": "BUYO"
-  },
-  {
-    "nom": "HOPITAL GENERAL DE BUYO",
-    "type": "CENTRE DE SOINS",
     "commune": "BUYO"
   },
   {
@@ -2735,7 +2535,12 @@
     "commune": "DALOA"
   },
   {
-    "nom": "PHARMACIE DU PROGRES PHARMACIE NOUVELLE FLOREL",
+    "nom": "PHARMACIE DU PROGRES",
+    "type": "PHARMACIE",
+    "commune": "DALOA"
+  },
+  {
+    "nom": "PHARMACIE NOUVELLE FLOREL",
     "type": "PHARMACIE",
     "commune": "DALOA"
   },
@@ -2766,11 +2571,6 @@
   },
   {
     "nom": "SARL CLINIQUE ANTILOPE",
-    "type": "CENTRE DE SOINS",
-    "commune": "DALOA"
-  },
-  {
-    "nom": "CHR",
     "type": "CENTRE DE SOINS",
     "commune": "DALOA"
   },
@@ -2821,11 +2621,6 @@
   },
   {
     "nom": "NOUVELLE PHARMACIE DE DANANE",
-    "type": "PHARMACIE",
-    "commune": "DANANE"
-  },
-  {
-    "nom": "CENTRE DE SANTE",
     "type": "PHARMACIE",
     "commune": "DANANE"
   },
@@ -2931,22 +2726,17 @@
   },
   {
     "nom": "CENTRE DE SANTE CRS DIVO",
-    "type": "CENTRE DE SOINS",
+    "type": "PHARMACIE",
     "commune": "DIVO"
   },
   {
     "nom": "CLINIQUE MEDICALE AHISSA",
-    "type": "CENTRE DE SOINS",
+    "type": "PHARMACIE",
     "commune": "DIVO"
   },
   {
     "nom": "CNPS-CMS DIVO",
-    "type": "CENTRE DE SOINS",
-    "commune": "DIVO"
-  },
-  {
-    "nom": "CENTRE MEDICAL DJIBOUA",
-    "type": "CENTRE DE SOINS",
+    "type": "PHARMACIE",
     "commune": "DIVO"
   },
   {
@@ -2970,19 +2760,14 @@
     "commune": "DUEKOUE"
   },
   {
-    "nom": "HOPITAL GENERAL DE DUEKOUE",
-    "type": "CENTRE DE SOINS",
-    "commune": "DUEKOUE"
-  },
-  {
     "nom": "CLINIQUE MEDICALE DE DUEKOUE",
     "type": "CENTRE DE SOINS",
-    "commune": "DUEKOUE"
+    "commune": "HOPITAL GENERAL DE DUEKOUE DUEKOUE"
   },
   {
     "nom": "CLINIQUE STE ANNE MARIE DUEKUE",
     "type": "CENTRE DE SOINS",
-    "commune": "DUEKOUE"
+    "commune": "HOPITAL GENERAL DE DUEKOUE DUEKOUE"
   },
   {
     "nom": "CLINIQUE SAINTE ANNE MARIE",
@@ -3055,18 +2840,13 @@
     "commune": "GAGNOA"
   },
   {
-    "nom": "CHR",
+    "nom": "CABINET DENTAIRE MODERNE",
     "type": "CENTRE DE SOINS",
     "commune": "GAGNOA"
   },
   {
-    "nom": "CABINET DENTAIRE MODERNE",
-    "type": "DENTAIRE",
-    "commune": "GAGNOA"
-  },
-  {
     "nom": "CENTRE MEDICAL CRYSTAL VISION",
-    "type": "OPHTALMOLOGIE",
+    "type": "CENTRE DE SOINS",
     "commune": "GAGNOA"
   },
   {
@@ -3110,7 +2890,7 @@
     "commune": "GRAND BASSAM"
   },
   {
-    "nom": "CABINET MEDICAL KOUNOUGBE",
+    "nom": "CABINET MEDICAL KOUNOUGBE 0",
     "type": "CENTRE DE SOINS",
     "commune": "GRAND BASSAM"
   },
@@ -3126,12 +2906,12 @@
   },
   {
     "nom": "CABINET DENTAIRE LES ORCHIDEES",
-    "type": "DENTAIRE",
+    "type": "CENTRE DE SOINS",
     "commune": "GRAND BASSAM"
   },
   {
     "nom": "LABORATOIRE COLOMBE",
-    "type": "LABORATOIRE",
+    "type": "CENTRE DE SOINS",
     "commune": "GRAND BASSAM"
   },
   {
@@ -3166,11 +2946,6 @@
   },
   {
     "nom": "PHARMACIE MAIRIE GUIGLO",
-    "type": "PHARMACIE",
-    "commune": "GUIGLO"
-  },
-  {
-    "nom": "CENTRE MEDICAL STE BERNADEE SARL",
     "type": "PHARMACIE",
     "commune": "GUIGLO"
   },
@@ -3227,11 +3002,6 @@
   {
     "nom": "CLINIQUE CHIRURGICO MEDICALE",
     "type": "CENTRE DE SOINS",
-    "commune": "KATIOLA"
-  },
-  {
-    "nom": "SUD OPTIC",
-    "type": "OPTIQUE",
     "commune": "KATIOLA"
   },
   {
@@ -3312,82 +3082,77 @@
   {
     "nom": "PHARMACIE DE LAKOTA",
     "type": "PHARMACIE",
-    "commune": "LAKOTA"
+    "commune": "PPHHAARRMMAACCIIEESS CCOONNTTAACCTTS SSIITTUUAATTIIOONNS G GEOEOGGRRAAPPHHIQIQUUEES"
   },
   {
     "nom": "NOUVELLE PHARMACIE MARLODIE",
     "type": "PHARMACIE",
-    "commune": "LAKOTA"
+    "commune": "PPHHAARRMMAACCIIEESS CCOONNTTAACCTTS SSIITTUUAATTIIOONNS G GEOEOGGRRAAPPHHIQIQUUEES"
   },
   {
     "nom": "PHARMACIE KENEYA",
     "type": "PHARMACIE",
-    "commune": "LAKOTA"
+    "commune": "PPHHAARRMMAACCIIEESS CCOONNTTAACCTTS SSIITTUUAATTIIOONNS G GEOEOGGRRAAPPHHIQIQUUEES"
   },
   {
     "nom": "CENTRE SANTE URBAIN DE KOUDOULILIE",
     "type": "PHARMACIE",
-    "commune": "LAKOTA"
+    "commune": "HPOHPAITRAMUAXC &IE CSENTRE DE SANTE CONTACT SITUATION GEOGRAPHIQUE"
+  },
+  {
+    "nom": "PHARMACIE KHIANELLY",
+    "type": "PHARMACIE",
+    "commune": "HPOHPAITRAMUAXC &IE CSENTRE DE SANTE CONTACT SITUATION GEOGRAPHIQUE"
   },
   {
     "nom": "PHARMACIE DU COMMERCE",
     "type": "PHARMACIE",
-    "commune": "MAN"
+    "commune": "HPOHPAITRAMUAXC &IE CSENTRE DE SANTE CONTACT SITUATION GEOGRAPHIQUE"
   },
   {
     "nom": "PHARMACIE MODERNE DE MAN",
     "type": "PHARMACIE",
-    "commune": "MAN"
+    "commune": "HPOHPAITRAMUAXC &IE CSENTRE DE SANTE CONTACT SITUATION GEOGRAPHIQUE"
   },
   {
     "nom": "PHARMACIE LYMANYA",
     "type": "PHARMACIE",
-    "commune": "MAN"
+    "commune": "HPOHPAITRAMUAXC &IE CSENTRE DE SANTE CONTACT SITUATION GEOGRAPHIQUE"
   },
   {
     "nom": "PHARMACIE LYCEE CLUB",
     "type": "PHARMACIE",
-    "commune": "MAN"
+    "commune": "HPOHPAITRAMUAXC &IE CSENTRE DE SANTE CONTACT SITUATION GEOGRAPHIQUE"
   },
   {
     "nom": "PHARMACIE ODELIA",
     "type": "PHARMACIE",
-    "commune": "MAN"
+    "commune": "HPOHPAITRAMUAXC &IE CSENTRE DE SANTE CONTACT SITUATION GEOGRAPHIQUE"
   },
   {
     "nom": "PHARMACIE DE LA GRDE MOSQUEE MAN",
     "type": "PHARMACIE",
-    "commune": "MAN"
+    "commune": "HPOHPAITRAMUAXC &IE CSENTRE DE SANTE CONTACT SITUATION GEOGRAPHIQUE"
   },
   {
     "nom": "CHR DE MAN",
     "type": "CENTRE DE SOINS",
-    "commune": "MAN"
+    "commune": "HPOHPAITRAMUAXC &IE CSENTRE DE SANTE CONTACT SITUATION GEOGRAPHIQUE"
   },
   {
-    "nom": "CENTRE MEDICAL FIRDAOUSS",
+    "nom": "CENTRE MEDICAL FIRDAOUSS 07",
     "type": "CENTRE DE SOINS",
-    "commune": "MAN"
+    "commune": "HPOHPAITRAMUAXC &IE CSENTRE DE SANTE CONTACT SITUATION GEOGRAPHIQUE"
   },
   {
     "nom": "CENTRE DE SANTE URBAIN DE LIBREVILLE",
     "type": "CENTRE DE SOINS",
-    "commune": "MAN"
-  },
-  {
-    "nom": "CLINIQUE DENTAIRE ST PIO ET MERE CENDRES",
-    "type": "CENTRE DE SOINS",
-    "commune": "MAN"
+    "commune": "HPOHPAITRAMUAXC &IE CSENTRE DE SANTE CONTACT SITUATION GEOGRAPHIQUE"
   },
   {
     "nom": "ECLA OPTIQUE",
     "type": "OPTIQUE",
-    "commune": "MAN"
-  },
-  {
-    "nom": "IVOIRE CENTRAL OPTIQUE (AGENCE)",
-    "type": "OPTIQUE",
-    "commune": "MAN"
+    "commune": "HPOHPAITRAMUAXC &IE CSENTRE DE SANTE CONTACT SITUATION GEOGRAPHIQUE"
   },
   {
     "nom": "NOUVELLE PHARMACIE DES MOSQUEES",
@@ -3397,11 +3162,6 @@
   {
     "nom": "PHARMACIE DE M'BATTO",
     "type": "PHARMACIE",
-    "commune": "M’BATTO"
-  },
-  {
-    "nom": "HOPITAL GENERAL DE M’BATTO",
-    "type": "CENTRE DE SOINS",
     "commune": "M’BATTO"
   },
   {
@@ -3436,7 +3196,7 @@
   },
   {
     "nom": "CHR ODIENNE",
-    "type": "CENTRE DE SOINS",
+    "type": "PHARMACIE",
     "commune": "ODIENNE"
   },
   {
@@ -3457,16 +3217,6 @@
   {
     "nom": "PHARMACIE CENTRALE OUME",
     "type": "PHARMACIE",
-    "commune": "OUME"
-  },
-  {
-    "nom": "HOPITAL GENERAL D'OUME",
-    "type": "CENTRE DE SOINS",
-    "commune": "OUME"
-  },
-  {
-    "nom": "CLINIQUE MEDICALE LES PERLES",
-    "type": "CENTRE DE SOINS",
     "commune": "OUME"
   },
   {
@@ -3525,48 +3275,33 @@
     "commune": "SAN PEDRO"
   },
   {
-    "nom": "CTRE KINE MEDICAL (BEGNANCO)",
-    "type": "KINESITHERAPIE",
-    "commune": "SAN PEDRO"
-  },
-  {
     "nom": "CLINIQUE DENTAIRE ROSYL",
-    "type": "DENTAIRE",
-    "commune": "SAN PEDRO"
+    "type": "CENTRE DE SOINS",
+    "commune": "CTRE KINE MEDICAL (BEGNANCO) QT RESIDENTIEL LAC"
   },
   {
     "nom": "CLINIQUE DENTAIRE SATY",
-    "type": "DENTAIRE",
-    "commune": "SAN PEDRO"
+    "type": "CENTRE DE SOINS",
+    "commune": "CTRE KINE MEDICAL (BEGNANCO) QT RESIDENTIEL LAC"
   },
   {
     "nom": "LA ROSETTE SAN PEDRO",
-    "type": "IMAGERIE",
-    "commune": "SAN PEDRO"
+    "type": "LABORATOIRE",
+    "commune": "CTRE KINE MEDICAL (BEGNANCO) QT RESIDENTIEL LAC"
   },
   {
     "nom": "ZOOM OPTIQUE",
     "type": "OPTIQUE",
-    "commune": "SAN PEDRO"
-  },
-  {
-    "nom": "MODERN OPTIQUE",
-    "type": "OPTIQUE",
-    "commune": "SAN PEDRO"
+    "commune": "CTRE KINE MEDICAL (BEGNANCO) QT RESIDENTIEL LAC"
   },
   {
     "nom": "DESIGN OPTIQUE",
     "type": "OPTIQUE",
-    "commune": "SAN PEDRO"
+    "commune": "MODERN OPTIQUE SAN PEDRO"
   },
   {
     "nom": "PHARMACIE SARA-ANNA",
     "type": "PHARMACIE",
-    "commune": "SASSANDRA"
-  },
-  {
-    "nom": "HOPITAL GENERAL DE SASSANDRA",
-    "type": "CENTRE DE SOINS",
     "commune": "SASSANDRA"
   },
   {
@@ -3635,11 +3370,6 @@
     "commune": "SOUBRE"
   },
   {
-    "nom": "GRANDE PHARMACIE SUD-OUEST",
-    "type": "PHARMACIE",
-    "commune": "SOUBRE"
-  },
-  {
     "nom": "POLYCLINIQUE SAINTE MARIE DE LA NAWA",
     "type": "CENTRE DE SOINS",
     "commune": "SOUBRE"
@@ -3670,13 +3400,18 @@
     "commune": "SOUBRE"
   },
   {
-    "nom": "CABINET DENTAIRE BEAU SOURIRE/ DR PENIFANA O. OUMOU",
+    "nom": "CABINET DENTAIRE BEAU SOURIRE/",
+    "type": "CENTRE DE SOINS",
+    "commune": "SOUBRE"
+  },
+  {
+    "nom": "DR PENIFANA O. OUMOU",
     "type": "CENTRE DE SOINS",
     "commune": "SOUBRE"
   },
   {
     "nom": "ZOOM OPTIQUE (AGENCE)",
-    "type": "OPTIQUE",
+    "type": "CENTRE DE SOINS",
     "commune": "SOUBRE"
   },
   {
@@ -3696,12 +3431,12 @@
   },
   {
     "nom": "HOPITAL GENERAL DE TABOU",
-    "type": "CENTRE DE SOINS",
+    "type": "PHARMACIE",
     "commune": "TABOU"
   },
   {
     "nom": "CLINIQUE MEDICALE LES OLIVIERS DE TABOU",
-    "type": "CENTRE DE SOINS",
+    "type": "PHARMACIE",
     "commune": "TABOU"
   },
   {
@@ -3711,8 +3446,8 @@
   },
   {
     "nom": "HOPITAL GENERAL DE TANDA",
-    "type": "CENTRE DE SOINS",
-    "commune": "TANDA"
+    "type": "PHARMACIE",
+    "commune": "HOPITAUX CONTASCITKSENSISITUATIONS GEOGRAPHIQUES"
   },
   {
     "nom": "PHARMCIE SAINTE MARIE DE TIASSALE",
@@ -3726,11 +3461,6 @@
   },
   {
     "nom": "PHAMACIE DE TIEBISSOU",
-    "type": "PHARMACIE",
-    "commune": "TIEBISSOU"
-  },
-  {
-    "nom": "HOPITAL GENERAL DE TIEBISSOU",
     "type": "PHARMACIE",
     "commune": "TIEBISSOU"
   },
@@ -3765,7 +3495,7 @@
     "commune": "TOUMODI"
   },
   {
-    "nom": "CLINIQUE MEDICALE ESPERANCE DE TOUMODI",
+    "nom": "CLINIQUE MEDICALE ESPERANCE DET OUMODI",
     "type": "CENTRE DE SOINS",
     "commune": "TOUMODI"
   },
@@ -3855,89 +3585,79 @@
     "commune": "YAMOUSSOUKRO"
   },
   {
-    "nom": "CHR YAMOUSSOUKRO",
-    "type": "CENTRE DE SOINS",
-    "commune": "YAMOUSSOUKRO"
-  },
-  {
     "nom": "CABINET MEDICAL D'OPHTALMOLOGIE",
     "type": "CENTRE DE SOINS",
-    "commune": "YAMOUSSOUKRO"
+    "commune": "CHR YAMOUSSOUKRO APRES LA GARE ROUTIERE"
   },
   {
     "nom": "CENTRE D'OPHTALMOLOGIE DE KAMI",
     "type": "CENTRE DE SOINS",
-    "commune": "YAMOUSSOUKRO"
+    "commune": "CHR YAMOUSSOUKRO APRES LA GARE ROUTIERE"
   },
   {
     "nom": "CABINET MEDICAL ET CARDIOLOGIQUE",
     "type": "CENTRE DE SOINS",
-    "commune": "YAMOUSSOUKRO"
+    "commune": "CHR YAMOUSSOUKRO APRES LA GARE ROUTIERE"
   },
   {
     "nom": "CABINET DENTAIRE LA PITIE",
     "type": "CENTRE DE SOINS",
-    "commune": "YAMOUSSOUKRO"
+    "commune": "CHR YAMOUSSOUKRO APRES LA GARE ROUTIERE"
   },
   {
     "nom": "CABINET DENTAIRE GARDE REPUBLICAINE",
-    "type": "DENTAIRE",
+    "type": "CENTRE DE SOINS",
     "commune": "YAMOUSSOUKRO"
   },
   {
     "nom": "CABINET DENTAIRE « LA PITIE »",
-    "type": "DENTAIRE",
-    "commune": "YAMOUSSOUKRO"
-  },
-  {
-    "nom": "ESPACE OPTIQUE",
-    "type": "OPTIQUE",
+    "type": "CENTRE DE SOINS",
     "commune": "YAMOUSSOUKRO"
   },
   {
     "nom": "ART & VISION",
     "type": "OPTIQUE",
-    "commune": "YAMOUSSOUKRO"
+    "commune": "ESPACE OPTIQUE YAMOUSSOUKRO"
   },
   {
     "nom": "TULIPE OPTIQUE",
     "type": "OPTIQUE",
-    "commune": "YAMOUSSOUKRO"
+    "commune": "ESPACE OPTIQUE YAMOUSSOUKRO"
   },
   {
     "nom": "CLEAN OPTIC",
     "type": "OPTIQUE",
-    "commune": "YAMOUSSOUKRO"
+    "commune": "ESPACE OPTIQUE YAMOUSSOUKRO"
   },
   {
     "nom": "ADORS VISION",
     "type": "OPTIQUE",
-    "commune": "YAMOUSSOUKRO"
+    "commune": "ESPACE OPTIQUE YAMOUSSOUKRO"
   },
   {
     "nom": "AFRICAN PRESTIGE OPTIC",
     "type": "OPTIQUE",
-    "commune": "YAMOUSSOUKRO"
+    "commune": "ESPACE OPTIQUE YAMOUSSOUKRO"
   },
   {
     "nom": "CLEAN VISION",
     "type": "OPTIQUE",
-    "commune": "YAMOUSSOUKRO"
+    "commune": "ESPACE OPTIQUE YAMOUSSOUKRO"
   },
   {
     "nom": "CENTRE MIE N GOU/SŒUR SUZANNE",
-    "type": "KINESITHERAPIE",
-    "commune": "YAMOUSSOUKRO"
+    "type": "OPTIQUE",
+    "commune": "ESPACE OPTIQUE YAMOUSSOUKRO"
   },
   {
     "nom": "LABO D’ANALYSE MEDICALE DU CENTRE",
     "type": "LABORATOIRE",
-    "commune": "YAMOUSSOUKRO"
+    "commune": "ESPACE OPTIQUE YAMOUSSOUKRO"
   },
   {
     "nom": "LABO D’ANALYSE MEDICALES DES LACS",
     "type": "LABORATOIRE",
-    "commune": "YAMOUSSOUKRO"
+    "commune": "ESPACE OPTIQUE YAMOUSSOUKRO"
   },
   {
     "nom": "PHCIE DE ZOUAN HOUNIEN",
@@ -3956,12 +3676,12 @@
   },
   {
     "nom": "HOPITAL GENERAL ZUENOULA",
-    "type": "CENTRE DE SOINS",
+    "type": "PHARMACIE",
     "commune": "ZUENOULA"
   },
   {
     "nom": "CENTRE MEDICAL EMMANUEL",
-    "type": "CENTRE DE SOINS",
+    "type": "PHARMACIE",
     "commune": "ZUENOULA"
   }
 ]

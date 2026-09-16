@@ -34,11 +34,11 @@ ${claudeMd}
 ## BASE DE CONNAISSANCE OFFICIELLE ARECIE
 Tu disposes ci-dessous de la base de connaissance complète
 issue des documents officiels ARECIE (Statuts, Règlement
-Intérieur, ASMAR, WTW, MediNova). Utilise-la en priorité
+Intérieur, MU2S). Utilise-la en priorité
 absolue pour répondre. Ne dis JAMAIS "consulter les statuts"
 si la réponse s'y trouve déjà — réponds directement.
 
-## RÉSEAU DE SOINS ASMAR / WTW
+## RÉSEAU DE SOINS MU2S
 Quand un bloc [PRESTATAIRES DISPONIBLES À …] est fourni dans le message utilisateur,
 cite UNIQUEMENT les établissements de cette liste (nom exact). N'invente jamais de prestataire.
 ${knowledgeMd}
