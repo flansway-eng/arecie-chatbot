@@ -2,77 +2,152 @@
   {
     "nom": "PHARMACIE DU MONASTERE",
     "type": "PHARMACIE",
-    "commune": "ABOBO / PLATEAU DOKUI"
+    "commune": "ABOBO"
+  },
+  {
+    "nom": "PHARMACIE ABOBO SANTE",
+    "type": "PHARMACIE",
+    "commune": "ABOBO"
   },
   {
     "nom": "NOUVELLE PHARMACIE DE LA ME",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE ABOBO SANTE                  27 24 39 69 32      ABOBO GARE DERRIERE LA MATERNITE"
+    "commune": "ABOBO"
   },
   {
     "nom": "PHARMACIE DE L’ETOILE ABOBO",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE ABOBO SANTE                  27 24 39 69 32      ABOBO GARE DERRIERE LA MATERNITE"
+    "commune": "ABOBO"
   },
   {
     "nom": "PHARMACIE DE LA CITE ABOBO",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE ABOBO SANTE                  27 24 39 69 32      ABOBO GARE DERRIERE LA MATERNITE"
+    "commune": "ABOBO"
+  },
+  {
+    "nom": "PHARMACIE BSA",
+    "type": "PHARMACIE",
+    "commune": "ABOBO"
   },
   {
     "nom": "PHARMACIE MATENE",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE BSA                          07 77 81 19 23      ABOBO ANOKOUA KOUTE"
+    "commune": "ABOBO"
   },
   {
     "nom": "PHARMACIE CARREFOUR N'DOTRE",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE BSA                          07 77 81 19 23      ABOBO ANOKOUA KOUTE"
+    "commune": "ABOBO"
+  },
+  {
+    "nom": "PHARMACIE EMS SANTE",
+    "type": "PHARMACIE",
+    "commune": "ABOBO"
+  },
+  {
+    "nom": "PHARMACIE CARREFOUR HMA",
+    "type": "PHARMACIE",
+    "commune": "ABOBO"
+  },
+  {
+    "nom": "PHARMACIE SAINT ALEXANDRE",
+    "type": "PHARMACIE",
+    "commune": "ABOBO"
+  },
+  {
+    "nom": "PHARMACIE ABOBO GRAND MARCHE",
+    "type": "PHARMACIE",
+    "commune": "ABOBO"
+  },
+  {
+    "nom": "PHARMACIE ABOBO SOGEPHIA",
+    "type": "PHARMACIE",
+    "commune": "ABOBO"
+  },
+  {
+    "nom": "PHARMACIE BIABOU MOSQUEE",
+    "type": "PHARMACIE",
+    "commune": "ABOBO"
   },
   {
     "nom": "POLYCLINIQUE CENTRALE D'ABOBO",
     "type": "CENTRE DE SOINS",
-    "commune": "05 65 12 33 50"
+    "commune": "ABOBO"
+  },
+  {
+    "nom": "HOPITAL GENERAL ABOBO",
+    "type": "CENTRE DE SOINS",
+    "commune": "ABOBO"
   },
   {
     "nom": "HMA / HOPITAL MILITAIRE D'ABIDJAN",
     "type": "CENTRE DE SOINS",
-    "commune": "HOPITAL GENERAL ABOBO                                      ABOBO PRES DU MARCHE CENTRAL"
+    "commune": "ABOBO"
   },
   {
     "nom": "HMA / HOPITAL MILITAIRE D’ABIDJAN",
     "type": "LABORATOIRE",
-    "commune": "HOPITAL GENERAL ABOBO                                      ABOBO PRES DU MARCHE CENTRAL"
+    "commune": "ABOBO"
   },
   {
     "nom": "HMA / HOPITAL MILITAIRE D’ABIDJAN",
-    "type": "LABORATOIRE",
-    "commune": "HOPITAL GENERAL ABOBO                                      ABOBO PRES DU MARCHE CENTRAL"
+    "type": "IMAGERIE",
+    "commune": "ABOBO"
+  },
+  {
+    "nom": "CABINET DENTAIRE DOKUI",
+    "type": "DENTAIRE",
+    "commune": "ABOBO"
   },
   {
     "nom": "SOCIAL OPTIQUE SAINT FRANCOIS XAVIER",
     "type": "OPTIQUE",
-    "commune": "CABINET DENTAIRE DOKUI                    05 05 95 81 61    ROUTE DU DOKUI"
+    "commune": "ABOBO"
+  },
+  {
+    "nom": "OPTICIEN VISAGISTE",
+    "type": "OPTIQUE",
+    "commune": "ABOBO"
   },
   {
     "nom": "PHARMACIE SAINT MICHEL",
     "type": "PHARMACIE",
-    "commune": "ADJAME / 220 LOGEMENTS"
+    "commune": "ADJAME"
+  },
+  {
+    "nom": "PHARMACIE AGBAN",
+    "type": "PHARMACIE",
+    "commune": "ADJAME"
+  },
+  {
+    "nom": "PHARMACIE MAKISSI",
+    "type": "PHARMACIE",
+    "commune": "ADJAME"
   },
   {
     "nom": "NOUVELLE PHARMACIE DES 220 LGTS",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE MAKISSI                       27 20 37 70 39    220 LGTS / CINEMA LIBERTE"
+    "commune": "ADJAME"
   },
   {
     "nom": "HALL MEDICAL INRI DE LA FRATERNITE",
     "type": "CENTRE DE SOINS",
-    "commune": "PHARMACIE MAKISSI                       27 20 37 70 39    220 LGTS / CINEMA LIBERTE"
+    "commune": "ADJAME"
   },
   {
     "nom": "CABINET DENTAIRE LIBERTE",
-    "type": "CENTRE DE SOINS",
-    "commune": "PHARMACIE MAKISSI                       27 20 37 70 39    220 LGTS / CINEMA LIBERTE"
+    "type": "DENTAIRE",
+    "commune": "ADJAME"
+  },
+  {
+    "nom": "CABINET DENTAIRE DELORVIE",
+    "type": "DENTAIRE",
+    "commune": "ADJAME"
+  },
+  {
+    "nom": "SAKHO OPTIQUE",
+    "type": "OPTIQUE",
+    "commune": "ADJAME"
   },
   {
     "nom": "ZOOM OPTIQUE(AGENCE)",
@@ -80,389 +155,754 @@
     "commune": "ATTECOUBE"
   },
   {
+    "nom": "PHARMACIE SAINT ETIENNE",
+    "type": "PHARMACIE",
+    "commune": "ATTECOUBE"
+  },
+  {
     "nom": "PHARMACIE DE L’IVOIRE SARL-U",
     "type": "PHARMACIE",
-    "commune": "COCODY CENTRE / LYCEE TECHNIQUE"
+    "commune": "COCODY"
+  },
+  {
+    "nom": "PHARMACIE DU LYCEE TECHNIQUE",
+    "type": "PHARMACIE",
+    "commune": "COCODY"
+  },
+  {
+    "nom": "PHARMACIE ST FRANCOIS DANGA",
+    "type": "PHARMACIE",
+    "commune": "COCODY"
+  },
+  {
+    "nom": "PHARMACIE DE LA CORNICHE",
+    "type": "PHARMACIE",
+    "commune": "COCODY"
+  },
+  {
+    "nom": "PHARMACIE DE COCODY",
+    "type": "PHARMACIE",
+    "commune": "COCODY"
+  },
+  {
+    "nom": "PHARMACIE DU BLVD DE FRANCE",
+    "type": "PHARMACIE",
+    "commune": "COCODY"
+  },
+  {
+    "nom": "PHARMACIE COMOE",
+    "type": "PHARMACIE",
+    "commune": "COCODY"
+  },
+  {
+    "nom": "PHARMACIE SAINT ANGE",
+    "type": "PHARMACIE",
+    "commune": "COCODY"
   },
   {
     "nom": "PHARMACIE LES JARDINS D'EDEN",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE SAINT ANGE                   01 01 62 54 11    RIVIERA II"
+    "commune": "COCODY"
+  },
+  {
+    "nom": "PHARMACIE LATRILLE",
+    "type": "PHARMACIE",
+    "commune": "COCODY"
+  },
+  {
+    "nom": "PHARMACIE LES 4 SAISONS",
+    "type": "PHARMACIE",
+    "commune": "COCODY"
+  },
+  {
+    "nom": "PISAM",
+    "type": "CENTRE DE SOINS",
+    "commune": "COCODY"
+  },
+  {
+    "nom": "CLINIQUE LA PROVIDENCE",
+    "type": "CENTRE DE SOINS",
+    "commune": "COCODY"
+  },
+  {
+    "nom": "CENTRE DE PEDIATRIE DE COCODY",
+    "type": "CENTRE DE SOINS",
+    "commune": "COCODY"
   },
   {
     "nom": "C. MEDICAL INTERNATIONAL LA GOSPA",
     "type": "CENTRE DE SOINS",
-    "commune": "CENTRE DE PEDIATRIE DE COCODY          27 22 44 16 88    EN FACE DU LYCEE SAINTE MARIE"
+    "commune": "COCODY"
   },
   {
     "nom": "CTRE MED ST JOSEH CŒUR ET VAISSEAUX",
     "type": "CENTRE DE SOINS",
-    "commune": "CENTRE DE PEDIATRIE DE COCODY          27 22 44 16 88    EN FACE DU LYCEE SAINTE MARIE"
+    "commune": "COCODY"
   },
   {
-    "nom": "CTRE MED ST JOSEH CŒUR ET VAISSEAUX",
-    "type": "CENTRE DE SOINS",
-    "commune": "CENTRE DE PEDIATRIE DE COCODY          27 22 44 16 88    EN FACE DU LYCEE SAINTE MARIE"
+    "nom": "PISAM",
+    "type": "LABORATOIRE",
+    "commune": "COCODY"
+  },
+  {
+    "nom": "PISAM",
+    "type": "IMAGERIE",
+    "commune": "COCODY"
+  },
+  {
+    "nom": "PISAM",
+    "type": "DENTAIRE",
+    "commune": "COCODY"
+  },
+  {
+    "nom": "CABINET DENTAIRE BOISSY",
+    "type": "DENTAIRE",
+    "commune": "COCODY"
+  },
+  {
+    "nom": "EQUILIBRE SANTE",
+    "type": "KINESITHERAPIE",
+    "commune": "COCODY"
+  },
+  {
+    "nom": "CABINET KINESITHERAPIE SAINTE FELICITE",
+    "type": "KINESITHERAPIE",
+    "commune": "COCODY"
   },
   {
     "nom": "INSTITUT CŒUR DE GRACE",
-    "type": "CENTRE DE SOINS",
-    "commune": "CABINET KINESITHERAPIE SAINTE FELICITE     07 59 54 54 71   FACE AU PETIT MARCHE DE COCODY"
+    "type": "KINESITHERAPIE",
+    "commune": "COCODY"
   },
   {
     "nom": "GRANDE PHARMACIE DES II PLATEAUX",
     "type": "PHARMACIE",
-    "commune": "II PLATEAUX/VALLON/ANGRE/DJIBI"
+    "commune": "COCODY"
+  },
+  {
+    "nom": "PHARMACIE LES HALLES",
+    "type": "PHARMACIE",
+    "commune": "COCODY"
   },
   {
     "nom": "PHARMACIE D’ANGRE",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE LES HALLES                       27 22 41 92 94   CENTRE COMMERCIAL SOCOCE"
+    "commune": "COCODY"
   },
   {
     "nom": "PHARMACIE ANALYA",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE LES HALLES                       27 22 41 92 94   CENTRE COMMERCIAL SOCOCE"
+    "commune": "COCODY"
   },
   {
     "nom": "PHARMACIE LES TULIPES",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE LES HALLES                       27 22 41 92 94   CENTRE COMMERCIAL SOCOCE"
+    "commune": "COCODY"
+  },
+  {
+    "nom": "PHARMACIE ARC EN CIEL",
+    "type": "PHARMACIE",
+    "commune": "COCODY"
   },
   {
     "nom": "PHARMACIE SAINTE CECILE DES VALLONS",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE ARC EN CIEL                      27 22 41 33 90   II PLATEAUX LE VALLON"
+    "commune": "COCODY"
   },
   {
     "nom": "PHARMACIE DU CHÂTEAU D'EAU D'ANGRE",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE ARC EN CIEL                      27 22 41 33 90   II PLATEAUX LE VALLON"
+    "commune": "COCODY"
   },
   {
     "nom": "PHARMACIE DU BIEN ETRE",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE ARC EN CIEL                      27 22 41 33 90   II PLATEAUX LE VALLON"
+    "commune": "COCODY"
   },
   {
     "nom": "POLYCLINIQUE DES II PLATEAUX",
     "type": "CENTRE DE SOINS",
-    "commune": "PHARMACIE ARC EN CIEL                      27 22 41 33 90   II PLATEAUX LE VALLON"
+    "commune": "COCODY"
   },
   {
     "nom": "CLINIQUE MEDICAL SPECIALISEE",
     "type": "CENTRE DE SOINS",
-    "commune": "PHARMACIE ARC EN CIEL                      27 22 41 33 90   II PLATEAUX LE VALLON"
+    "commune": "COCODY"
   },
   {
     "nom": "CLINIQUE SACM FATIMA / GYNECO",
     "type": "CENTRE DE SOINS",
-    "commune": "PHARMACIE ARC EN CIEL                      27 22 41 33 90   II PLATEAUX LE VALLON"
+    "commune": "COCODY"
   },
   {
-    "nom": "CENTRE DE SANTE & D'ANALYSES",
+    "nom": "CENTRE DE SANTE & D'ANALYSES MEDICALES",
     "type": "CENTRE DE SOINS",
-    "commune": "PHARMACIE ARC EN CIEL                      27 22 41 33 90   II PLATEAUX LE VALLON"
+    "commune": "COCODY"
   },
   {
-    "nom": "SOURIRE D'ENFANCE",
+    "nom": "CENTRE MEDICALE PEDIATRIQUE SOURIRE D'ENFANCE",
     "type": "CENTRE DE SOINS",
-    "commune": "CENTRE MEDICALE PEDIATRIQUE               27 22 24 53 62"
+    "commune": "COCODY"
   },
   {
-    "nom": "PROFESSEUR Flore AMON TANOH DICK",
+    "nom": "CHU D'ANGRE PROFESSEUR Flore AMON TANOH DICK",
     "type": "CENTRE DE SOINS",
-    "commune": "CENTRE MEDICALE PEDIATRIQUE               27 22 24 53 62"
+    "commune": "COCODY"
+  },
+  {
+    "nom": "CENTRE MEDICAL LES BLEUETS",
+    "type": "KINESITHERAPIE",
+    "commune": "COCODY"
+  },
+  {
+    "nom": "CAB DERMTO ABIDJAN CI / DERMATO",
+    "type": "KINESITHERAPIE",
+    "commune": "COCODY"
   },
   {
     "nom": "CENTRE KINE MEDICAL",
-    "type": "CENTRE DE SOINS",
-    "commune": "CAB DERMTO ABIDJAN CI / DERMATO            27 22 41 60 16   IMMEUBLE CORMORAN / VALLON"
+    "type": "KINESITHERAPIE",
+    "commune": "COCODY"
+  },
+  {
+    "nom": "CABINET MEDICAL FEMINA",
+    "type": "KINESITHERAPIE",
+    "commune": "COCODY"
+  },
+  {
+    "nom": "CENTRE MEDICAL DANAN/DR NEAN CAEL",
+    "type": "KINESITHERAPIE",
+    "commune": "COCODY"
   },
   {
     "nom": "CENTRE MEDICAL DANAN / OPHTALMO",
-    "type": "CENTRE DE SOINS",
-    "commune": "II PLATEAUX/VALLON/ANGRE/DJIBI"
+    "type": "KINESITHERAPIE",
+    "commune": "COCODY"
   },
   {
     "nom": "CENTRE DE PEDIATRIE 2 PLATEAUX",
-    "type": "CENTRE DE SOINS",
-    "commune": "II PLATEAUX/VALLON/ANGRE/DJIBI"
+    "type": "KINESITHERAPIE",
+    "commune": "COCODY"
   },
   {
     "nom": "C. M. CARDIO-RESPIRATOIRE \"LES JARDINS\"",
-    "type": "CENTRE DE SOINS",
-    "commune": "II PLATEAUX/VALLON/ANGRE/DJIBI"
+    "type": "KINESITHERAPIE",
+    "commune": "COCODY"
   },
   {
     "nom": "CENTRE MEDICAL LE NOUVEAU LOTUS",
-    "type": "CENTRE DE SOINS",
-    "commune": "II PLATEAUX/VALLON/ANGRE/DJIBI"
+    "type": "KINESITHERAPIE",
+    "commune": "COCODY"
   },
   {
     "nom": "CENTRE D'INVESTIGAT° MÉD ET RADIO (CIRAD)",
-    "type": "LABORATOIRE",
-    "commune": "II PLATEAUX/VALLON/ANGRE/DJIBI"
+    "type": "IMAGERIE",
+    "commune": "COCODY"
   },
   {
-    "nom": "CTRE DE DIAGNOSTIC MÉD ET RADIOLOGIQUE (CDR)",
-    "type": "LABORATOIRE",
-    "commune": "II PLATEAUX/VALLON/ANGRE/DJIBI"
+    "nom": "CTRE DE DIAGNOSTIC MÉD ET RADIOLOGIQUE (CDR) ETRADIOLIGIE (CIRAD)",
+    "type": "IMAGERIE",
+    "commune": "COCODY"
   },
   {
     "nom": "CABINET DENTAIRE MARIE VICTOIRE",
-    "type": "CENTRE DE SOINS",
-    "commune": "II PLATEAUX/VALLON/ANGRE/DJIBI"
+    "type": "DENTAIRE",
+    "commune": "COCODY"
+  },
+  {
+    "nom": "CABINET DENTAIRE POLYCLINIQUE II PLATEAUX",
+    "type": "DENTAIRE",
+    "commune": "COCODY"
   },
   {
     "nom": "CABINET DENTAIRE LES BLEUETS VALLONS",
-    "type": "CENTRE DE SOINS",
-    "commune": "CABINET DENTAIRE POLYCLINIQUE II PLATEAUX       27 22 41 33 34   BLD LATRILLE DERRIERE LA FARANDOLE"
+    "type": "DENTAIRE",
+    "commune": "COCODY"
+  },
+  {
+    "nom": "CABINET OXIGEN DENTAL CLINIC/ DR Eric KONAN",
+    "type": "DENTAIRE",
+    "commune": "COCODY"
+  },
+  {
+    "nom": "ALAIN AFFLELOU",
+    "type": "OPTIQUE",
+    "commune": "COCODY"
   },
   {
     "nom": "CLAIRE VISION",
     "type": "OPTIQUE",
-    "commune": "ALAIN AFFLELOU                                  27 22 41 62 52   BLD LATRILLE A COTE DE LA FARANDOLE"
+    "commune": "COCODY"
   },
   {
     "nom": "CLIN D'ŒIL OPTIQUE (AGENCE)",
     "type": "OPTIQUE",
-    "commune": "ALAIN AFFLELOU                                  27 22 41 62 52   BLD LATRILLE A COTE DE LA FARANDOLE"
+    "commune": "COCODY"
   },
   {
     "nom": "ST CHRIST OPTIQUE",
     "type": "OPTIQUE",
-    "commune": "ALAIN AFFLELOU                                  27 22 41 62 52   BLD LATRILLE A COTE DE LA FARANDOLE"
+    "commune": "COCODY"
   },
   {
     "nom": "MODERN OPTIQUE (AGENCE)",
     "type": "OPTIQUE",
-    "commune": "ALAIN AFFLELOU                                  27 22 41 62 52   BLD LATRILLE A COTE DE LA FARANDOLE"
+    "commune": "COCODY"
   },
   {
     "nom": "OPTICIEN REGARD",
     "type": "OPTIQUE",
-    "commune": "ALAIN AFFLELOU                                  27 22 41 62 52   BLD LATRILLE A COTE DE LA FARANDOLE"
+    "commune": "COCODY"
+  },
+  {
+    "nom": "ONO SARL",
+    "type": "OPTIQUE",
+    "commune": "COCODY"
   },
   {
     "nom": "IDEAL'OPTIC",
     "type": "OPTIQUE",
-    "commune": "07 07 78 2127"
+    "commune": "COCODY"
   },
   {
     "nom": "OPTICIEN VISAGISTE",
     "type": "OPTIQUE",
-    "commune": "07 07 78 2127"
+    "commune": "COCODY"
+  },
+  {
+    "nom": "HUGSLEY OPTICAL",
+    "type": "OPTIQUE",
+    "commune": "COCODY"
   },
   {
     "nom": "STYL'OPTIQUE",
     "type": "OPTIQUE",
-    "commune": "HUGSLEY OPTICAL                                 07 08 36 50 10   08 BP 1612 ABJ 18"
+    "commune": "COCODY"
+  },
+  {
+    "nom": "SELECT OPTIQUE",
+    "type": "OPTIQUE",
+    "commune": "COCODY"
   },
   {
     "nom": "SHERYL M OPTIQUE",
     "type": "OPTIQUE",
-    "commune": "SELECT OPTIQUE                                 05 55 01 15 29     25 BP 1093 ABJ 25"
+    "commune": "COCODY"
+  },
+  {
+    "nom": "GRANDE PHARMACIE MARIE ESTHER",
+    "type": "PHARMACIE",
+    "commune": "COCODY"
+  },
+  {
+    "nom": "GRANDE PHCIE DU JUBILE",
+    "type": "PHARMACIE",
+    "commune": "COCODY"
   },
   {
     "nom": "PHARMACIE DE L'ALLIANCE",
     "type": "PHARMACIE",
-    "commune": "07 07 01 14 43"
+    "commune": "COCODY"
   },
   {
     "nom": "PHARMACIE STAR 9 D'ANGRE",
     "type": "PHARMACIE",
-    "commune": "27 22 52 22 19"
+    "commune": "COCODY"
   },
   {
     "nom": "PHARMACIE VAL D'OISE",
     "type": "PHARMACIE",
-    "commune": "07 07 00 66 66"
+    "commune": "COCODY"
   },
   {
-    "nom": "CABINET D'ORTHOPHONIE LES PETITS",
+    "nom": "NOUVELLE PHARMACIE STE MARIE",
     "type": "PHARMACIE",
-    "commune": "CENTRE KINEDEN HEALTH"
+    "commune": "COCODY"
+  },
+  {
+    "nom": "PHARMACIE STE CLEMENTINE",
+    "type": "PHARMACIE",
+    "commune": "COCODY"
+  },
+  {
+    "nom": "PHARMACIE EBENA",
+    "type": "PHARMACIE",
+    "commune": "COCODY"
+  },
+  {
+    "nom": "PHARMACIE EMERAUDE",
+    "type": "PHARMACIE",
+    "commune": "COCODY"
+  },
+  {
+    "nom": "PHARMACIE ORCHID SARL",
+    "type": "PHARMACIE",
+    "commune": "COCODY"
+  },
+  {
+    "nom": "PHARMACIE DES NATIONS",
+    "type": "PHARMACIE",
+    "commune": "COCODY"
+  },
+  {
+    "nom": "PHARMACIE STE DOROTHEE",
+    "type": "PHARMACIE",
+    "commune": "COCODY"
+  },
+  {
+    "nom": "PHARMACIE BETHEL ATTOBAN",
+    "type": "PHARMACIE",
+    "commune": "COCODY"
+  },
+  {
+    "nom": "PHARMACIE ARC EN CIEL",
+    "type": "PHARMACIE",
+    "commune": "COCODY"
+  },
+  {
+    "nom": "PHARMACIE ACTUELLE",
+    "type": "PHARMACIE",
+    "commune": "COCODY"
+  },
+  {
+    "nom": "PHARMACIE DU PALM CLUB",
+    "type": "PHARMACIE",
+    "commune": "COCODY"
+  },
+  {
+    "nom": "PHARMACIE SAINT ANGE",
+    "type": "PHARMACIE",
+    "commune": "COCODY"
+  },
+  {
+    "nom": "PHARMACIE EPHRATA",
+    "type": "PHARMACIE",
+    "commune": "COCODY"
+  },
+  {
+    "nom": "PHARMACIE AVE MARIA",
+    "type": "PHARMACIE",
+    "commune": "COCODY"
+  },
+  {
+    "nom": "PHARMACIE METROPOLE",
+    "type": "PHARMACIE",
+    "commune": "COCODY"
+  },
+  {
+    "nom": "CENTRE KINEDEN HEALTH",
+    "type": "KINESITHERAPIE",
+    "commune": "COCODY"
+  },
+  {
+    "nom": "CABINET D'ORTHOPHONIE LES PETITS ANGES DE DIEU",
+    "type": "CENTRE DE SOINS",
+    "commune": "COCODY"
+  },
+  {
+    "nom": "CENTRE MEDICAL RIVIERA AMBASSADE",
+    "type": "CENTRE DE SOINS",
+    "commune": "COCODY"
   },
   {
     "nom": "CENTRE D'OPTALMOLOGIE SILOAM",
-    "type": "PHARMACIE",
-    "commune": "27 22 48 00 48"
+    "type": "OPHTALMOLOGIE",
+    "commune": "COCODY"
   },
   {
-    "nom": "CENTRE NATIONAL D'ONCOLOGIE",
+    "nom": "CENTRE NATIONAL D'ONCOLOGIE MEDICALE ET RADIOTHE AO",
+    "type": "IMAGERIE",
+    "commune": "COCODY"
+  },
+  {
+    "nom": "PHARMACIE LES ROSIERS",
     "type": "PHARMACIE",
-    "commune": "27 22 48 00 48"
+    "commune": "COCODY"
+  },
+  {
+    "nom": "PHARMACIE SAINTE AGATHE",
+    "type": "PHARMACIE",
+    "commune": "COCODY"
+  },
+  {
+    "nom": "PHARMACIE ST PIERRE DES ROSIERS",
+    "type": "PHARMACIE",
+    "commune": "COCODY"
+  },
+  {
+    "nom": "PHARMACIE MARIE ESTHER",
+    "type": "PHARMACIE",
+    "commune": "COCODY"
   },
   {
     "nom": "PHARMACIE SAINTE FAMILLE",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE MARIE ESTHER                     27 22 49 53 23    PALMERAIE/ VERS ROSIERS PROGRAMME 4"
+    "commune": "COCODY"
   },
   {
     "nom": "PHARMACIE DU BONHEUR",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE MARIE ESTHER                     27 22 49 53 23    PALMERAIE/ VERS ROSIERS PROGRAMME 4"
+    "commune": "COCODY"
   },
   {
     "nom": "PHARMACIE LES CATLEYAS",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE MARIE ESTHER                     27 22 49 53 23    PALMERAIE/ VERS ROSIERS PROGRAMME 4"
+    "commune": "COCODY"
   },
   {
     "nom": "PHARMACIE M'POUTO",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE MARIE ESTHER                     27 22 49 53 23    PALMERAIE/ VERS ROSIERS PROGRAMME 4"
+    "commune": "COCODY"
   },
   {
     "nom": "PHARMACIE PALMERAIE",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE MARIE ESTHER                     27 22 49 53 23    PALMERAIE/ VERS ROSIERS PROGRAMME 4"
+    "commune": "COCODY"
   },
   {
     "nom": "PHARMACIE SAINT PIERRE D'ANONO",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE MARIE ESTHER                     27 22 49 53 23    PALMERAIE/ VERS ROSIERS PROGRAMME 4"
+    "commune": "COCODY"
+  },
+  {
+    "nom": "PHARMACIE SAINT ATHANASE",
+    "type": "PHARMACIE",
+    "commune": "COCODY"
   },
   {
     "nom": "PHARMACIE EAU VIVE",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE SAINT ATHANASE                   27 22 43 55 87    CARREFOUR RIVIERA GOLF"
+    "commune": "COCODY"
+  },
+  {
+    "nom": "PHARMACIE LE ROCHER/ DR SERY AMBROISE",
+    "type": "PHARMACIE",
+    "commune": "COCODY"
   },
   {
     "nom": "POLYCLINIQUE SACRE CŒUR D'ABIDJAN",
     "type": "CENTRE DE SOINS",
-    "commune": "DR SERY AMBROISE"
+    "commune": "COCODY"
+  },
+  {
+    "nom": "CLINIQUE DIVINES GRACES DE LA PALMERAIE",
+    "type": "CENTRE DE SOINS",
+    "commune": "COCODY"
+  },
+  {
+    "nom": "PROCREA",
+    "type": "CENTRE DE SOINS",
+    "commune": "COCODY"
+  },
+  {
+    "nom": "CLINIQUE SAINT ALBERT",
+    "type": "CENTRE DE SOINS",
+    "commune": "COCODY"
   },
   {
     "nom": "CABINET MEDICAL NOTRE DAME DE LA PAIX",
     "type": "CENTRE DE SOINS",
-    "commune": "CLINIQUE SAINT ALBERT                      27 22 49 21 91    RIVIERA BONOUMIN"
+    "commune": "COCODY"
   },
   {
     "nom": "CENTRE MEDICAL PALMERAIE",
     "type": "CENTRE DE SOINS",
-    "commune": "CLINIQUE SAINT ALBERT                      27 22 49 21 91    RIVIERA BONOUMIN"
+    "commune": "COCODY"
   },
   {
     "nom": "GROUPE MEDICAL DE L'AMITIE/DR AISSY",
     "type": "CENTRE DE SOINS",
-    "commune": "CLINIQUE SAINT ALBERT                      27 22 49 21 91    RIVIERA BONOUMIN"
+    "commune": "COCODY"
   },
   {
-    "nom": "CENTRE MEDICAL EKAS/",
+    "nom": "CENTRE MEDICAL EKAS/ BEUGRE ALLOH JEANNE OURAGA",
     "type": "CENTRE DE SOINS",
-    "commune": "CLINIQUE SAINT ALBERT                      27 22 49 21 91    RIVIERA BONOUMIN"
+    "commune": "COCODY"
   },
   {
     "nom": "CENTRE D'IMAGERIE MEDICALE DE LA RIVIERA",
-    "type": "LABORATOIRE",
-    "commune": "BEUGRE ALLOH JEANNE OURAGA                 01 52 57 94 00"
+    "type": "IMAGERIE",
+    "commune": "COCODY"
   },
   {
     "nom": "CABINET DENTAIRE MODERN’ORTHO",
-    "type": "CENTRE DE SOINS",
-    "commune": "BEUGRE ALLOH JEANNE OURAGA                 01 52 57 94 00"
+    "type": "DENTAIRE",
+    "commune": "COCODY"
   },
   {
     "nom": "CABINET DENTAIRE LORKA/N'ZI- BOA TANIA",
-    "type": "CENTRE DE SOINS",
-    "commune": "BEUGRE ALLOH JEANNE OURAGA                 01 52 57 94 00"
+    "type": "DENTAIRE",
+    "commune": "COCODY"
+  },
+  {
+    "nom": "CABINET DENTAIRE SAINTE FAMILLE",
+    "type": "DENTAIRE",
+    "commune": "COCODY"
+  },
+  {
+    "nom": "CABINET DENTAIRE LES LILAS",
+    "type": "DENTAIRE",
+    "commune": "COCODY"
+  },
+  {
+    "nom": "VERT OPTIQUE",
+    "type": "OPTIQUE",
+    "commune": "COCODY"
+  },
+  {
+    "nom": "SAINT CHRIST OPTIQUE",
+    "type": "OPTIQUE",
+    "commune": "COCODY"
+  },
+  {
+    "nom": "OPTIC 2000",
+    "type": "OPTIQUE",
+    "commune": "COCODY"
   },
   {
     "nom": "ANOPTIC GROUPE SAS SIEGE",
     "type": "OPTIQUE",
-    "commune": "OPTIC 2000                                 27 20 33 44 84    CARREF PALMERAIE"
+    "commune": "COCODY"
+  },
+  {
+    "nom": "OPTICIEN VISAGISTE",
+    "type": "OPTIQUE",
+    "commune": "COCODY"
+  },
+  {
+    "nom": "PHARMACIE NISSI",
+    "type": "PHARMACIE",
+    "commune": "BINGERVILLE"
+  },
+  {
+    "nom": "PHARMACIE AKRE ALBERT ASSAMOI",
+    "type": "PHARMACIE",
+    "commune": "BINGERVILLE"
+  },
+  {
+    "nom": "PHARMACIE PRINCIPALE DE BINGERVILLE",
+    "type": "PHARMACIE",
+    "commune": "BINGERVILLE"
   },
   {
     "nom": "PHARMACIE SAINT SYLVESTRE",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE PRINCIPALE DE BINGERVILLE       07 68 70 46 46     ROUTE CENTRALE DE BINGERVILLE"
+    "commune": "BINGERVILLE"
+  },
+  {
+    "nom": "PHARMACIE CARREFOUR SANTE",
+    "type": "PHARMACIE",
+    "commune": "BINGERVILLE"
+  },
+  {
+    "nom": "PHARMACIE NOTRE DAME DE LA NATIVITE DR ROGER DJAMA",
+    "type": "PHARMACIE",
+    "commune": "BINGERVILLE"
   },
   {
     "nom": "HOPITAL MERE-ENFANT DOMINIQUE OUATTARA",
     "type": "CENTRE DE SOINS",
-    "commune": "DR ROGER DJAMA"
+    "commune": "BINGERVILLE"
+  },
+  {
+    "nom": "INSTITUT EUROPEEN DE CANCEROLOGIE/ Alexandre ROQUETTE",
+    "type": "CENTRE DE SOINS",
+    "commune": "BINGERVILLE"
   },
   {
     "nom": "HOPITAL MERE-ENFANT DOMINIQUE OUATTARA",
     "type": "LABORATOIRE",
-    "commune": "27 21 23 30 74    BP 6932 BINGERVILLE"
-  },
-  {
-    "nom": "HOPITAL MERE-ENFANT DOMINIQUE OUATTARA",
-    "type": "LABORATOIRE",
     "commune": "BINGERVILLE"
   },
   {
     "nom": "HOPITAL MERE-ENFANT DOMINIQUE OUATTARA",
-    "type": "CENTRE DE SOINS",
+    "type": "IMAGERIE",
     "commune": "BINGERVILLE"
   },
   {
-    "nom": "OPTIQUES",
-    "type": "CENTRE DE SOINS",
+    "nom": "HOPITAL MERE-ENFANT DOMINIQUE OUATTARA",
+    "type": "DENTAIRE",
     "commune": "BINGERVILLE"
+  },
+  {
+    "nom": "KESSE OPTIQUE",
+    "type": "OPTIQUE",
+    "commune": "BINGERVILLE"
+  },
+  {
+    "nom": "GRANDE PHARMACIE DU COMMERCE",
+    "type": "PHARMACIE",
+    "commune": "PLATEAU"
   },
   {
     "nom": "PHARMACIE & LABORATOIRE DU LONGCHAMP",
     "type": "PHARMACIE",
-    "commune": "GRANDE PHARMACIE DU COMMERCE                 27 20 32 12 12   A LA RUE DU COMMERCE"
+    "commune": "PLATEAU"
   },
   {
     "nom": "PHCIE & LABORATOIRE PLACE DE LA REPUBLIQUE",
     "type": "PHARMACIE",
-    "commune": "GRANDE PHARMACIE DU COMMERCE                 27 20 32 12 12   A LA RUE DU COMMERCE"
+    "commune": "PLATEAU"
   },
   {
     "nom": "PHARMACIE LE TREFLE",
     "type": "PHARMACIE",
-    "commune": "GRANDE PHARMACIE DU COMMERCE                 27 20 32 12 12   A LA RUE DU COMMERCE"
+    "commune": "PLATEAU"
   },
   {
     "nom": "PHARMACIE MAZUET",
     "type": "PHARMACIE",
-    "commune": "GRANDE PHARMACIE DU COMMERCE                 27 20 32 12 12   A LA RUE DU COMMERCE"
+    "commune": "PLATEAU"
   },
   {
-    "nom": "LES HARMONIES/DR ESTHER CAMARA",
+    "nom": "NOUVELLE PHARMACIE LES HARMONIES/DR ESTHER CAMARA",
     "type": "PHARMACIE",
-    "commune": "NOUVELLE PHARMACIE                              27 20 22 04 92"
-  },
-  {
-    "nom": "CLINIQUES & POLYCLINIQUES",
-    "type": "PHARMACIE",
-    "commune": "NOUVELLE PHARMACIE                              27 20 22 04 92"
+    "commune": "PLATEAU"
   },
   {
     "nom": "POLYCLINIQUE INTERNATIONALE DE L'INDENIE",
-    "type": "PHARMACIE",
-    "commune": "NOUVELLE PHARMACIE                              27 20 22 04 92"
+    "type": "CENTRE DE SOINS",
+    "commune": "PLATEAU"
   },
   {
     "nom": "CLINIQUE MEDICALE TRADE CENTER",
-    "type": "PHARMACIE",
-    "commune": "NOUVELLE PHARMACIE                              27 20 22 04 92"
+    "type": "CENTRE DE SOINS",
+    "commune": "PLATEAU"
+  },
+  {
+    "nom": "POLYCLINIQUE GMP (GROUPE MÉDICAL DU PLATEAU)",
+    "type": "CENTRE DE SOINS",
+    "commune": "PLATEAU"
   },
   {
     "nom": "NOVA CARE",
-    "type": "PHARMACIE",
-    "commune": "POLYCLINIQUE GMP                             27 20 22 21 05   PLATEAU DERRIERE LA BCEAO"
+    "type": "CENTRE DE SOINS",
+    "commune": "PLATEAU"
   },
   {
     "nom": "CLINIQUE MEDICALE FRANCHET D'ESPEREY",
-    "type": "PHARMACIE",
-    "commune": "POLYCLINIQUE GMP                             27 20 22 21 05   PLATEAU DERRIERE LA BCEAO"
+    "type": "CENTRE DE SOINS",
+    "commune": "PLATEAU"
+  },
+  {
+    "nom": "CABINET MEDICAL LONGCHAMPS /HEMATO",
+    "type": "CENTRE DE SOINS",
+    "commune": "PLATEAU"
   },
   {
     "nom": "ESPACE MEDICAL SAINT PAUL",
     "type": "CENTRE DE SOINS",
-    "commune": "CABINET MEDICAL LONGCHAMPS /HEMATO            27 20 22 34 26   AV JESSE OWEN IMMEUBLE DOGBA"
+    "commune": "PLATEAU"
+  },
+  {
+    "nom": "CABINET MEDICAL CHARDY/GYNECO",
+    "type": "CENTRE DE SOINS",
+    "commune": "PLATEAU"
   },
   {
     "nom": "CABINET MEDICAL HOME MEDICAL SERVICE",
     "type": "CENTRE DE SOINS",
-    "commune": "CABINET MEDICAL CHARDY/GYNECO                 27 20 21 26 67   AVENUE CHARDY /RADIO NOSTALGIE"
+    "commune": "PLATEAU"
   },
   {
     "nom": "CABINET MEDICAL SAINTE LOUISE / CARDIO",
@@ -470,314 +910,574 @@
     "commune": "PLATEAU"
   },
   {
+    "nom": "CENTRE WILIC",
+    "type": "CENTRE DE SOINS",
+    "commune": "PLATEAU"
+  },
+  {
     "nom": "PETRO SANTE (EX CID)",
     "type": "CENTRE DE SOINS",
-    "commune": "CENTRE WILIC                             27 20 33 19 33    13 AVENUE JOSEPH ANOMA / FACE BAD"
+    "commune": "PLATEAU"
   },
   {
     "nom": "CENTRE MEDICAL NEVROGLIE/NEUROLOGIE",
     "type": "CENTRE DE SOINS",
-    "commune": "CENTRE WILIC                             27 20 33 19 33    13 AVENUE JOSEPH ANOMA / FACE BAD"
+    "commune": "PLATEAU"
   },
   {
     "nom": "CABINET DE RHUMATOLOGIE D'ABIDJAN",
     "type": "CENTRE DE SOINS",
-    "commune": "CENTRE WILIC                             27 20 33 19 33    13 AVENUE JOSEPH ANOMA / FACE BAD"
+    "commune": "PLATEAU"
+  },
+  {
+    "nom": "NOVA CARDIOLOGIE",
+    "type": "CENTRE DE SOINS",
+    "commune": "PLATEAU"
+  },
+  {
+    "nom": "CENTRE MEDICO CHIRURGICAL OPHTALMO",
+    "type": "CENTRE DE SOINS",
+    "commune": "PLATEAU"
   },
   {
     "nom": "CENTRE D'OPHTALMOLOGIE DE L'INDENIE",
     "type": "CENTRE DE SOINS",
-    "commune": "CENTRE MEDICO CHIRURGICAL OPHTALMO       27 20 22 22 58    17 AVENUE DELAFOSSE"
+    "commune": "PLATEAU"
+  },
+  {
+    "nom": "CENTRE MEDICAL CROZET",
+    "type": "CENTRE DE SOINS",
+    "commune": "PLATEAU"
+  },
+  {
+    "nom": "CABINET ICARE CONSEILS/DR ATTEY",
+    "type": "CENTRE DE SOINS",
+    "commune": "PLATEAU"
   },
   {
     "nom": "LABORATOIRE PIERRE MONTAGNIER",
-    "type": "CENTRE DE SOINS",
-    "commune": "LABORATOIRES                               CONTACST        SITUATIONS GEOGRAPHIQUES"
+    "type": "LABORATOIRE",
+    "commune": "PLATEAU"
   },
   {
     "nom": "LABORATOIRE PRINCIPAL",
-    "type": "CENTRE DE SOINS",
-    "commune": "LABORATOIRES                               CONTACST        SITUATIONS GEOGRAPHIQUES"
+    "type": "LABORATOIRE",
+    "commune": "PLATEAU"
+  },
+  {
+    "nom": "LABORATOIRE PLACE DE LA REPUBLIQUE",
+    "type": "LABORATOIRE",
+    "commune": "PLATEAU"
+  },
+  {
+    "nom": "CENTRE WILLIC / LABO ANAPATH",
+    "type": "LABORATOIRE",
+    "commune": "PLATEAU"
   },
   {
     "nom": "LABORATOIRE CENTRAL D’ABIDJAN",
-    "type": "CENTRE DE SOINS",
-    "commune": "CENTRE WILLIC / LABO ANAPATH             27 20 33 19 33    13 AVENUE JOSEPH ANOMA / FACE BAD"
+    "type": "LABORATOIRE",
+    "commune": "PLATEAU"
   },
   {
     "nom": "PETRO SANTE (EX CID)",
-    "type": "LABORATOIRE",
-    "commune": "CENTRE WILLIC / LABO ANAPATH             27 20 33 19 33    13 AVENUE JOSEPH ANOMA / FACE BAD"
+    "type": "IMAGERIE",
+    "commune": "PLATEAU"
+  },
+  {
+    "nom": "CABINET DENTAIRE DIAHA",
+    "type": "DENTAIRE",
+    "commune": "PLATEAU"
   },
   {
     "nom": "CABINET DENTAIRE N'ZI EKRA",
-    "type": "CENTRE DE SOINS",
-    "commune": "CABINET DENTAIRE DIAHA                   27 20 22 28 05    FACE DU SIEGE DE LA BICICI"
+    "type": "DENTAIRE",
+    "commune": "PLATEAU"
+  },
+  {
+    "nom": "CABINET DENTAIRE DU CARMEL",
+    "type": "DENTAIRE",
+    "commune": "PLATEAU"
   },
   {
     "nom": "CABINET DENTAIRE FRANCHET D'ESPEREY",
-    "type": "CENTRE DE SOINS",
-    "commune": "CABINET DENTAIRE DU CARMEL               27 20 21 75 40    AV NOGUES IMM GRUBER"
+    "type": "DENTAIRE",
+    "commune": "PLATEAU"
   },
   {
     "nom": "CABINET DENTAIRE SANGARET",
-    "type": "CENTRE DE SOINS",
+    "type": "DENTAIRE",
+    "commune": "PLATEAU"
+  },
+  {
+    "nom": "CABINET DENTAIRE HORIZON",
+    "type": "DENTAIRE",
+    "commune": "PLATEAU"
+  },
+  {
+    "nom": "CABINET DENTAIRE CHARDY",
+    "type": "DENTAIRE",
     "commune": "PLATEAU"
   },
   {
     "nom": "CENTRAL OPTIQUE PHOTO",
     "type": "OPTIQUE",
-    "commune": "CABINET DENTAIRE CHARDY                    27 20 21 73 60     AVENUE CHARDY /RADIO NOSTALGIE"
+    "commune": "PLATEAU"
+  },
+  {
+    "nom": "LISSAC OPTIQUE",
+    "type": "OPTIQUE",
+    "commune": "PLATEAU"
+  },
+  {
+    "nom": "HOLLYWOOD OPTICAL",
+    "type": "OPTIQUE",
+    "commune": "PLATEAU"
   },
   {
     "nom": "OPTICAL STORE",
     "type": "OPTIQUE",
-    "commune": "HOLLYWOOD OPTICAL                           27 20 32 38 10    PLATEAU RUE DU COMMERCE"
+    "commune": "PLATEAU"
   },
   {
     "nom": "LYNX OPTIQUE",
     "type": "OPTIQUE",
-    "commune": "HOLLYWOOD OPTICAL                           27 20 32 38 10    PLATEAU RUE DU COMMERCE"
+    "commune": "PLATEAU"
   },
   {
     "nom": "SAKHO OPTIQUE",
     "type": "OPTIQUE",
-    "commune": "HOLLYWOOD OPTICAL                           27 20 32 38 10    PLATEAU RUE DU COMMERCE"
+    "commune": "PLATEAU"
   },
   {
     "nom": "KARA'OPTIQUE",
     "type": "OPTIQUE",
-    "commune": "HOLLYWOOD OPTICAL                           27 20 32 38 10    PLATEAU RUE DU COMMERCE"
+    "commune": "PLATEAU"
+  },
+  {
+    "nom": "OPTIQUE MEDICALE",
+    "type": "OPTIQUE",
+    "commune": "PLATEAU"
   },
   {
     "nom": "SDOL INTERNATIONAL OPTIQUE",
     "type": "OPTIQUE",
-    "commune": "OPTIQUE MEDICALE                            27 20 21 72 33    BVD DE LA REPUBLIQUE IMMEUBLE NASSAR"
+    "commune": "PLATEAU"
   },
   {
     "nom": "OPTIQUE EXPRESS",
     "type": "OPTIQUE",
-    "commune": "OPTIQUE MEDICALE                            27 20 21 72 33    BVD DE LA REPUBLIQUE IMMEUBLE NASSAR"
+    "commune": "PLATEAU"
+  },
+  {
+    "nom": "IDEAL OPTIC",
+    "type": "OPTIQUE",
+    "commune": "PLATEAU"
   },
   {
     "nom": "MODERN OPTIQUE",
     "type": "OPTIQUE",
-    "commune": "IDEAL OPTIC                                 27 20 33 55 24    EN FACE DE LA PHARMACIE OLLO"
+    "commune": "PLATEAU"
   },
   {
     "nom": "CLAIRE VISION",
     "type": "OPTIQUE",
-    "commune": "IDEAL OPTIC                                 27 20 33 55 24    EN FACE DE LA PHARMACIE OLLO"
+    "commune": "PLATEAU"
   },
   {
     "nom": "SAM OPTIC/Mme KONE KAFON ADJARA",
     "type": "OPTIQUE",
-    "commune": "IDEAL OPTIC                                 27 20 33 55 24    EN FACE DE LA PHARMACIE OLLO"
+    "commune": "PLATEAU"
   },
   {
     "nom": "CENTRE KINE MEDICAL",
-    "type": "CENTRE DE SOINS",
-    "commune": "27 21 78 06 54"
+    "type": "KINESITHERAPIE",
+    "commune": "PLATEAU"
   },
   {
     "nom": "POLYCLINIQUE INTERNATIONALE DE L'INDENIE",
-    "type": "CENTRE DE SOINS",
-    "commune": "07 07 67 06 41"
+    "type": "KINESITHERAPIE",
+    "commune": "PLATEAU"
   },
   {
     "nom": "PHARMACIE ANIAMAN",
     "type": "PHARMACIE",
-    "commune": "07 07 67 06 41"
+    "commune": "PLATEAU"
+  },
+  {
+    "nom": "PHARMACIE KORALIE",
+    "type": "PHARMACIE",
+    "commune": "PLATEAU"
+  },
+  {
+    "nom": "GRANDE PHARMACIE DES BANQUES",
+    "type": "PHARMACIE",
+    "commune": "PLATEAU"
   },
   {
     "nom": "PHARMACIE ROY",
     "type": "PHARMACIE",
-    "commune": "GEOGRAPHIQUES"
+    "commune": "TREICHVILLE"
   },
   {
     "nom": "PHARMACIE DU PALAIS DE LA CULTURE",
     "type": "PHARMACIE",
-    "commune": "GEOGRAPHIQUES"
+    "commune": "TREICHVILLE"
+  },
+  {
+    "nom": "PHARMACIE IMANN",
+    "type": "PHARMACIE",
+    "commune": "TREICHVILLE"
   },
   {
     "nom": "PHARMACIE DU CHEMINOT",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE IMANN                             27 21 25 13 14   BLD DE MARSEILLE/ PRES DE BARNABE"
+    "commune": "TREICHVILLE"
+  },
+  {
+    "nom": "PHARMACIE DU ROND POINT",
+    "type": "PHARMACIE",
+    "commune": "TREICHVILLE"
+  },
+  {
+    "nom": "NOUVELLE PHARMACIE DES QUAIS",
+    "type": "PHARMACIE",
+    "commune": "TREICHVILLE"
+  },
+  {
+    "nom": "NOUVELLE PHARMACIE DU PALAIS DES SPORTS",
+    "type": "PHARMACIE",
+    "commune": "TREICHVILLE"
+  },
+  {
+    "nom": "PHARMACIE DU BIAFRA",
+    "type": "PHARMACIE",
+    "commune": "TREICHVILLE"
   },
   {
     "nom": "PHARMACIE DE LA MAIRIE DE TREICHVILLE",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE DU BIAFRA                         27 21 35 76 84   QT BIAFRA FACE JARDIN PUBLIC"
+    "commune": "TREICHVILLE"
   },
   {
     "nom": "PHARMACIE DE L'ATTENTE",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE DU BIAFRA                         27 21 35 76 84   QT BIAFRA FACE JARDIN PUBLIC"
+    "commune": "TREICHVILLE"
+  },
+  {
+    "nom": "PHARMACIE FLORA",
+    "type": "PHARMACIE",
+    "commune": "TREICHVILLE"
+  },
+  {
+    "nom": "SWISS OPTIC",
+    "type": "PHARMACIE",
+    "commune": "TREICHVILLE"
   },
   {
     "nom": "INSTITUT DE CARDIOLOGIE (ICA)",
     "type": "CENTRE DE SOINS",
-    "commune": "GEOGRAPHIQUES"
+    "commune": "TREICHVILLE"
+  },
+  {
+    "nom": "CHU DE TREICHVILLE",
+    "type": "CENTRE DE SOINS",
+    "commune": "TREICHVILLE"
   },
   {
     "nom": "CENTRE MEDICAL SMGL/CARDIO- RHUMATO",
     "type": "CENTRE DE SOINS",
-    "commune": "GEOGRAPHIQUES"
+    "commune": "TREICHVILLE"
+  },
+  {
+    "nom": "LABORATOIRE ROSETTE",
+    "type": "LABORATOIRE",
+    "commune": "TREICHVILLE"
   },
   {
     "nom": "LABORATOIRE SMGL",
     "type": "LABORATOIRE",
-    "commune": "LABORATOIRE ROSETTE                        27 21 25 51 16    RUE 38 /CARREFOUR ARRAS"
+    "commune": "TREICHVILLE"
   },
   {
     "nom": "CENTRE D'IMAGERIE MEDICALE D'ABJ. (CIMA)",
-    "type": "LABORATOIRE",
-    "commune": "LABORATOIRE ROSETTE                        27 21 25 51 16    RUE 38 /CARREFOUR ARRAS"
+    "type": "IMAGERIE",
+    "commune": "TREICHVILLE"
   },
   {
     "nom": "CENTRE D'IMAGERIE MEDICALE LA ROSETTE",
-    "type": "LABORATOIRE",
-    "commune": "LABORATOIRE ROSETTE                        27 21 25 51 16    RUE 38 /CARREFOUR ARRAS"
-  },
-  {
-    "nom": "CONTACTS",
-    "type": "LABORATOIRE",
-    "commune": "DENTISTES                                  CONTACT"
+    "type": "IMAGERIE",
+    "commune": "TREICHVILLE"
   },
   {
     "nom": "CABINET DENTAIRE NANAN YAMOUSSO",
-    "type": "LABORATOIRE",
-    "commune": "GEOGRAPHIQUES"
+    "type": "DENTAIRE",
+    "commune": "TREICHVILLE"
+  },
+  {
+    "nom": "CABINET DENTAIRE DE LA GARE DE BASSAM",
+    "type": "DENTAIRE",
+    "commune": "TREICHVILLE"
+  },
+  {
+    "nom": "CABINET DENTAIRE SAINTE MARIE",
+    "type": "DENTAIRE",
+    "commune": "TREICHVILLE"
   },
   {
     "nom": "CABINET DENTAIRE DU ROND POINT",
-    "type": "LABORATOIRE",
-    "commune": "CABINET DENTAIRE SAINTE MARIE            27 21 24 46 23    BLD VGE FACE A LA SOLIBRA"
+    "type": "DENTAIRE",
+    "commune": "TREICHVILLE"
   },
   {
     "nom": "CABINET DENTAIRE DJANKALE",
-    "type": "LABORATOIRE",
-    "commune": "CABINET DENTAIRE SAINTE MARIE            27 21 24 46 23    BLD VGE FACE A LA SOLIBRA"
+    "type": "DENTAIRE",
+    "commune": "TREICHVILLE"
   },
   {
     "nom": "CABINET DENTAIRE SAINT JEAN BOSCO",
-    "type": "LABORATOIRE",
-    "commune": "CABINET DENTAIRE SAINTE MARIE            27 21 24 46 23    BLD VGE FACE A LA SOLIBRA"
-  },
-  {
-    "nom": "CONTACTS",
-    "type": "LABORATOIRE",
-    "commune": "OPTICIENS                                  CONTACT"
+    "type": "DENTAIRE",
+    "commune": "TREICHVILLE"
   },
   {
     "nom": "ASSISTANCE OPTIQUE",
-    "type": "LABORATOIRE",
-    "commune": "GEOGRAPHIQUES"
+    "type": "OPTIQUE",
+    "commune": "TREICHVILLE"
   },
   {
     "nom": "VISION ECLAT'S",
-    "type": "LABORATOIRE",
-    "commune": "GEOGRAPHIQUES"
+    "type": "OPTIQUE",
+    "commune": "TREICHVILLE"
+  },
+  {
+    "nom": "OPTICAL DISCOUNT KARIS",
+    "type": "OPTIQUE",
+    "commune": "TREICHVILLE"
+  },
+  {
+    "nom": "ONO SARL",
+    "type": "OPTIQUE",
+    "commune": "TREICHVILLE"
   },
   {
     "nom": "OPTIQUE PLUS",
-    "type": "LABORATOIRE",
-    "commune": "07 07 78 21 27"
+    "type": "OPTIQUE",
+    "commune": "TREICHVILLE"
+  },
+  {
+    "nom": "POLYCLINIQUE FARAH",
+    "type": "IMAGERIE",
+    "commune": "MARCORY"
+  },
+  {
+    "nom": "POLYCLINIQUE AVICENNES",
+    "type": "IMAGERIE",
+    "commune": "MARCORY"
+  },
+  {
+    "nom": "POLYCLINIQUE FARAH",
+    "type": "DENTAIRE",
+    "commune": "MARCORY"
+  },
+  {
+    "nom": "CABINET DENTAIRE BLD DU GABON",
+    "type": "DENTAIRE",
+    "commune": "MARCORY"
+  },
+  {
+    "nom": "CABINET DENTAIRE HOUEMAVO",
+    "type": "DENTAIRE",
+    "commune": "MARCORY"
+  },
+  {
+    "nom": "OPTICAL CENTER",
+    "type": "OPTIQUE",
+    "commune": "MARCORY"
+  },
+  {
+    "nom": "HOLLYWOOD OPTICAL",
+    "type": "OPTIQUE",
+    "commune": "MARCORY"
+  },
+  {
+    "nom": "SDOL INTERNATIONAL OPTIQUE",
+    "type": "OPTIQUE",
+    "commune": "MARCORY"
+  },
+  {
+    "nom": "LYNX OPTIQUE VGE CAP SUD",
+    "type": "OPTIQUE",
+    "commune": "MARCORY"
   },
   {
     "nom": "ANOPTIC GROUPE SAS",
     "type": "OPTIQUE",
-    "commune": "LYNX OPTIQUE VGE CAP SUD                    27 20 21 40 41    MARCORY CENTRE COMMERCIAL CAP SUD"
+    "commune": "MARCORY"
+  },
+  {
+    "nom": "MONDIAL OPTIC PLUS",
+    "type": "OPTIQUE",
+    "commune": "MARCORY"
+  },
+  {
+    "nom": "POLYCLINIQUE FARAH",
+    "type": "KINESITHERAPIE",
+    "commune": "MARCORY"
+  },
+  {
+    "nom": "PHARMACIE DE LA ZONE 3 SARL",
+    "type": "PHARMACIE",
+    "commune": "MARCORY"
+  },
+  {
+    "nom": "PHARMACIE NOUVELLE PERGOLA DR CISSOKO JEANNE",
+    "type": "PHARMACIE",
+    "commune": "MARCORY"
+  },
+  {
+    "nom": "PHARMACIE DE BIETRY/DR ADOUMEL",
+    "type": "PHARMACIE",
+    "commune": "MARCORY"
+  },
+  {
+    "nom": "CLINIQUE LES ARCADES",
+    "type": "CENTRE DE SOINS",
+    "commune": "MARCORY"
   },
   {
     "nom": "CENTRE MEDICO-CHIRURGICAL FRANCE IVOIRE",
     "type": "CENTRE DE SOINS",
-    "commune": "CLINIQUE LES ARCADES                        27 21 24 43 34    RUE DU CANAL /SUPERMARCHE ECO PLUS"
+    "commune": "MARCORY"
+  },
+  {
+    "nom": "CLINIQUE MEDICALE DE LA VISION",
+    "type": "CENTRE DE SOINS",
+    "commune": "MARCORY"
   },
   {
     "nom": "PHARMACIE DES LAGUNES",
     "type": "PHARMACIE",
-    "commune": "GEOGRAPHIQUES"
+    "commune": "MARCORY"
+  },
+  {
+    "nom": "PHARMACIE DE LA GALERIE",
+    "type": "PHARMACIE",
+    "commune": "MARCORY"
+  },
+  {
+    "nom": "PHARMACIE LANVIA",
+    "type": "PHARMACIE",
+    "commune": "MARCORY"
   },
   {
     "nom": "PHARMACIE DU CARREFOUR",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE LANVIA                           27 21 21 24 00    MARCORY / ZONE 4 C"
+    "commune": "MARCORY"
+  },
+  {
+    "nom": "PHARMACIE DU BOULEVARD DE MARSEILLE",
+    "type": "PHARMACIE",
+    "commune": "MARCORY"
   },
   {
     "nom": "PHARMACIE DE L'INJS",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE DU BOULEVARD DE MARSEILLE         27 21 25 76 25   MARCORY BLD MARSEILLE"
+    "commune": "MARCORY"
+  },
+  {
+    "nom": "PHARMACIE DE LA PLACE",
+    "type": "PHARMACIE",
+    "commune": "MARCORY"
   },
   {
     "nom": "PHARMACIE EBATHE",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE DE LA PLACE                       27 22 00 26 15   CENTRE COMMERCIAL PLAYCE CARREFOUR"
-  },
-  {
-    "nom": "HOPITAUX, CLINIQUES & POLYCLINIQUES",
-    "type": "PHARMACIE",
-    "commune": "PHARMACIE DE LA PLACE                       27 22 00 26 15   CENTRE COMMERCIAL PLAYCE CARREFOUR"
+    "commune": "MARCORY"
   },
   {
     "nom": "POLYCLINIQUE FARAH",
-    "type": "PHARMACIE",
-    "commune": "GEOGRAPHIQUES"
+    "type": "CENTRE DE SOINS",
+    "commune": "MARCORY"
+  },
+  {
+    "nom": "POLYCLINIQUE AVICENNES",
+    "type": "CENTRE DE SOINS",
+    "commune": "MARCORY"
+  },
+  {
+    "nom": "CLINIQUE SAINTE NANCY / ORL",
+    "type": "CENTRE DE SOINS",
+    "commune": "MARCORY"
+  },
+  {
+    "nom": "CENTRE MEDICO CHIRURGICAL LAENNEC",
+    "type": "CENTRE DE SOINS",
+    "commune": "MARCORY"
   },
   {
     "nom": "CENTRE MEDICAL DU DIABETE, MALADIE CARDI",
     "type": "CENTRE DE SOINS",
-    "commune": "CENTRE MEDICO CHIRURGICAL LAENNEC           27 21 28 55 22   MARCORY RESIDENTIEL/STATION TOTAL"
+    "commune": "MARCORY"
   },
   {
     "nom": "CENTRE D’OPHTALMOLOGIE VIERGE DE NOCES",
     "type": "CENTRE DE SOINS",
-    "commune": "CENTRE MEDICO CHIRURGICAL LAENNEC           27 21 28 55 22   MARCORY RESIDENTIEL/STATION TOTAL"
+    "commune": "MARCORY"
+  },
+  {
+    "nom": "POLYCLINIQUE FARAH",
+    "type": "LABORATOIRE",
+    "commune": "MARCORY"
+  },
+  {
+    "nom": "POLYCLINIQUE AVICENNES",
+    "type": "LABORATOIRE",
+    "commune": "MARCORY"
   },
   {
     "nom": "PHARMACIE ROMA D'ANOUMANBO",
     "type": "PHARMACIE",
-    "commune": "POLYCLINIQUE AVICENNES                      27 21 26 04 16   MARCORY RESIDENTIE"
+    "commune": "MARCORY"
   },
   {
-    "nom": "CABINETS & CENTRES MEDICAUX",
+    "nom": "PHARMACIE PTT",
     "type": "PHARMACIE",
-    "commune": "ZONE 3 / ZONE 4 C MARCORY 2"
+    "commune": "MARCORY"
   },
   {
-    "nom": "CONTACTS",
+    "nom": "PHARMACIE MISERICORDE",
     "type": "PHARMACIE",
-    "commune": "ZONE 3 / ZONE 4 C MARCORY 2"
+    "commune": "MARCORY"
+  },
+  {
+    "nom": "CENTRE MEDICAL DU DIABETE",
+    "type": "PHARMACIE",
+    "commune": "MARCORY"
+  },
+  {
+    "nom": "CENTRE INTERNATIONAL DE CORRECTION AUDITIVE",
+    "type": "PHARMACIE",
+    "commune": "MARCORY"
   },
   {
     "nom": "CENTRE D'OPHTALMOLOGIE HI-TECH",
-    "type": "PHARMACIE",
-    "commune": "SITUATIONS GEOGRAPHIQUES"
+    "type": "CENTRE DE SOINS",
+    "commune": "MARCORY"
   },
   {
     "nom": "CIMEDIC",
-    "type": "PHARMACIE",
-    "commune": "SITUATIONS GEOGRAPHIQUES"
-  },
-  {
-    "nom": "CONTACTS",
-    "type": "PHARMACIE",
-    "commune": "DENTISTES                                   CONTACT"
+    "type": "CENTRE DE SOINS",
+    "commune": "MARCORY"
   },
   {
     "nom": "CABINET DENTAIRE DE LA ZONE 4",
-    "type": "PHARMACIE",
-    "commune": "SITUATIONS GEOGRAPHIQUES"
-  },
-  {
-    "nom": "CONTACTS",
-    "type": "PHARMACIE",
-    "commune": "OPTICIENS                                   CONTACT"
+    "type": "DENTAIRE",
+    "commune": "MARCORY"
   },
   {
     "nom": "IDEAL'OPTIC",
-    "type": "PHARMACIE",
-    "commune": "SITUATIONS GEOGRAPHIQUES"
+    "type": "OPTIQUE",
+    "commune": "MARCORY"
   },
   {
     "nom": "PHARMACIE DU MARAIS",
@@ -785,104 +1485,244 @@
     "commune": "KOUMASSI"
   },
   {
+    "nom": "PHARMACIE DU CANAL",
+    "type": "PHARMACIE",
+    "commune": "KOUMASSI"
+  },
+  {
+    "nom": "PHARMACIE SAINT GEORGES",
+    "type": "PHARMACIE",
+    "commune": "KOUMASSI"
+  },
+  {
     "nom": "PHARMACIE SAINT -PAUL",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE SAINT GEORGES                    27 21 36 03 75     FACE A LA SICOGI/CAMP COMMANDO"
+    "commune": "KOUMASSI"
+  },
+  {
+    "nom": "PHARMACIE KAHIRA",
+    "type": "PHARMACIE",
+    "commune": "KOUMASSI"
   },
   {
     "nom": "PHARMACIE ABYA",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE KAHIRA                           07 58 09 47 61     KOUMASSI REMBLAIS"
+    "commune": "KOUMASSI"
+  },
+  {
+    "nom": "PHARMACIE GALLILEE",
+    "type": "PHARMACIE",
+    "commune": "KOUMASSI"
+  },
+  {
+    "nom": "PHARMACIE CLIMBIE",
+    "type": "PHARMACIE",
+    "commune": "KOUMASSI"
+  },
+  {
+    "nom": "PHARMACIE FANNY",
+    "type": "PHARMACIE",
+    "commune": "KOUMASSI"
+  },
+  {
+    "nom": "GRANDE PHARMACIE DES LACS",
+    "type": "PHARMACIE",
+    "commune": "KOUMASSI"
+  },
+  {
+    "nom": "CABINET MEDICAL DE KOUMASSI",
+    "type": "CENTRE DE SOINS",
+    "commune": "KOUMASSI"
+  },
+  {
+    "nom": "CENTRE MEDICAL LIRING",
+    "type": "CENTRE DE SOINS",
+    "commune": "KOUMASSI"
+  },
+  {
+    "nom": "CLINIQUE MEDICALE DE KOUMASSI/ SOUMAH CHRISTIAN",
+    "type": "CENTRE DE SOINS",
+    "commune": "KOUMASSI"
+  },
+  {
+    "nom": "ASET SOCIAL OPTIC",
+    "type": "OPTIQUE",
+    "commune": "KOUMASSI"
+  },
+  {
+    "nom": "OPTICIEN VISAGISTE",
+    "type": "OPTIQUE",
+    "commune": "KOUMASSI"
   },
   {
     "nom": "PHARMACIE DE LA BALTIQUE",
     "type": "PHARMACIE",
-    "commune": "OPTICIEN VISAGISTE                         27 22 42 43 83     PRES PHARMACIE KAHIRA"
+    "commune": "PORT-BOUET"
   },
   {
     "nom": "PHARMACIE VRIDI VILLAGE",
     "type": "PHARMACIE",
-    "commune": "OPTICIEN VISAGISTE                         27 22 42 43 83     PRES PHARMACIE KAHIRA"
+    "commune": "PORT-BOUET"
+  },
+  {
+    "nom": "PHARMACIE VRIDI SIR",
+    "type": "PHARMACIE",
+    "commune": "PORT-BOUET"
   },
   {
     "nom": "PHARMACIE DE L'OCEAN",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE VRIDI SIR                       27 21 27 02 60      SOGEFIHA VRIDI/ EPP LAGUNE"
+    "commune": "PORT-BOUET"
   },
   {
-    "nom": "CLINIQUES & CENTRES MEDICAUX",
+    "nom": "PHARMACIE MALON/DR KOUROUMA",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE MALON/DR KOUROUMA            27 21 27 96 14/95 97   PORT BOUET /SOGEPHIA 2"
+    "commune": "PORT-BOUET"
   },
   {
     "nom": "CENTRE MEDICAL MALON",
-    "type": "PHARMACIE",
-    "commune": "GEOGRAPHIQUES"
+    "type": "CENTRE DE SOINS",
+    "commune": "PORT-BOUET"
   },
   {
     "nom": "PHARMACIE BEYNIOUAH",
     "type": "PHARMACIE",
-    "commune": "GEOGRAPHIQUES"
+    "commune": "YOPOUGON"
   },
   {
     "nom": "PHARMACIE DE LA CITE YOP",
     "type": "PHARMACIE",
-    "commune": "GEOGRAPHIQUES"
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "PHARMACIE KENEYA",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "PHARMACIE NANKOKO",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "PHARMACIE ELKANAH",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON"
   },
   {
     "nom": "PHARMACIE DES ESPERANCES",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE ELKANAH                    27 23 50 88 19     A 100 M DE GRAND CENTRE"
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "PHARMACIE TIZRA",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "PHARMACIE BEL AIR",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON"
   },
   {
     "nom": "PHARMACIE SAINT HERMANN",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE BEL AIR                    27 23 45 42 76     FACE GROUPEMENT FONCIER"
+    "commune": "YOPOUGON"
   },
   {
     "nom": "PHARMACIE LE LOTUS",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE BEL AIR                    27 23 45 42 76     FACE GROUPEMENT FONCIER"
+    "commune": "YOPOUGON"
   },
   {
     "nom": "PHARMACIE NIANGON LOKOA",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE BEL AIR                    27 23 45 42 76     FACE GROUPEMENT FONCIER"
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "PHARMACIE TEREZA",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON"
   },
   {
     "nom": "NOUVELLE PHARMACIE WAKOUBOUE",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE TEREZA                     27 23 00 23 00     YOP QT SOGEPHIA"
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "PHARMACIE NIANGON SUD",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON"
   },
   {
     "nom": "PHARMACIE NIANGON NORD",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE NIANGON SUD                01 01 33 95 73     NIANGON SUD A GAUCHE/ALLOCODROME"
+    "commune": "YOPOUGON"
   },
   {
     "nom": "PHARMACIE CARREFOUR BOBY",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE NIANGON SUD                01 01 33 95 73     NIANGON SUD A GAUCHE/ALLOCODROME"
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "PHARMACIE ROXANNE",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "PHARMACIE LES PHALENES",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON"
   },
   {
     "nom": "NOUVELLE PHARMACIE DU TOIT ROUGE",
     "type": "PHARMACIE",
-    "commune": "27      DIEU"
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "PHARMACIE JEAN PIERRE",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON"
   },
   {
     "nom": "PHARMACIE ZEULAYET",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE JEAN PIERRE                01 40 44 14 76     YOPOUGON SUD A DRTE TERM 39"
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "PHARMACIE NIKIBEL",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON"
   },
   {
     "nom": "PHARMACIE DE LA CITE CIE",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE NIKIBEL                     01 02 21 77 27    ANCIEN BEL AIR SOPIM"
+    "commune": "YOPOUGON"
   },
   {
     "nom": "PHARMACIE SAINT RAPHAEL",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE NIKIBEL                     01 02 21 77 27    ANCIEN BEL AIR SOPIM"
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "PHARMACIE ELIORA",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "PHARMACIE NOUVEAU QUARTIER",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "PHARMACIE LA MAISON BLANCHE",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "NOUVELLE PHARMACIE AWALE",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON"
   },
   {
     "nom": "PHARMACIE ARTEMIA",
@@ -900,89 +1740,204 @@
     "commune": "YOPOUGON"
   },
   {
-    "nom": "PHARMACIE SACRE CŒUR /DR ATTIA",
+    "nom": "NOUVELLE PHARMACIE PORT BOUET II",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE ST ETIENNE                        27 23 01 33 30               ABOBO DOUME"
+    "commune": "YOPOUGON"
   },
   {
-    "nom": "CLINIQUE MEDICALE SAINTE MARIE",
+    "nom": "CLINIQUE MEDICALE VIE",
     "type": "CENTRE DE SOINS",
-    "commune": "GEOGRAPHIQUES"
+    "commune": "YOPOUGON"
   },
   {
-    "nom": "CLINIQUE MEDICALE LE GRAND CENTRE",
-    "type": "CENTRE DE SOINS",
-    "commune": "CLINIQUE MEDICALE LES OLIVIERS              27 23 51 84 44    NOUVEAU QUARTIER PRES BURO SODECI"
-  },
-  {
-    "nom": "LABORATOIRE PRINCIPAL",
-    "type": "LABORATOIRE",
-    "commune": "GEOGRAPHIQUES"
-  },
-  {
-    "nom": "CTRE D'IMAGERIE MEDICALE ET DE DIAGNOSTIC",
-    "type": "LABORATOIRE",
-    "commune": "GEOGRAPHIQUES"
-  },
-  {
-    "nom": "CTRE D'IMAGERIE MEDICALE ET DE DIAGNOSTIC",
-    "type": "LABORATOIRE",
-    "commune": "GEOGRAPHIQUES"
-  },
-  {
-    "nom": "DESIGN OPTIQUE(AGENCE)",
-    "type": "OPTIQUE",
-    "commune": "GEOGRAPHIQUES"
-  },
-  {
-    "nom": "ZOOM OPTIQUE(AGENCE)",
-    "type": "OPTIQUE",
-    "commune": "GRACE OPTIQUE                                27 23 53 59 46   YOPOUGON GRAND CARREFOUR CITE EECI"
-  },
-  {
-    "nom": "MODERN’ OPTIQUE",
-    "type": "OPTIQUE",
-    "commune": "TENDANCE OPTIQUE                             27 22 41 68 26   YOPOUGON KENEYA"
-  },
-  {
-    "nom": "HOLY VISION",
-    "type": "OPTIQUE",
-    "commune": "SOCIAL VISION                                27 23 45 84 92   BEL AIR ROUTE ECOLE SAINT LOUIS"
-  },
-  {
-    "nom": "ANOPTIC GROUP SAS (AGENCE)",
-    "type": "OPTIQUE",
-    "commune": "ASET SOCIAL OPTIC                            27 23 46 88 90   FACE CHU YOPOUGON"
-  },
-  {
-    "nom": "MAITRE OPTICS (SIEGE)",
-    "type": "OPTIQUE",
-    "commune": "ASET SOCIAL OPTIC                            27 23 46 88 90   FACE CHU YOPOUGON"
-  },
-  {
-    "nom": "CLINIQUE MEDICALE LES OLIVIERS",
-    "type": "CENTRE DE SOINS",
-    "commune": "GEOGRAPHIQUES"
-  },
-  {
-    "nom": "(AGENCE QT ANANERAIE)",
-    "type": "CENTRE DE SOINS",
-    "commune": "CENTRE KINE MEDICAL"
-  },
-  {
-    "nom": "(AGENCE NOUV QUARTIER)",
-    "type": "CENTRE DE SOINS",
-    "commune": "CENTRE KINE MEDICAL"
-  },
-  {
-    "nom": "CENTRES MEDICAUX SUITE",
-    "type": "CENTRE DE SOINS",
-    "commune": "LE GRAND CENTRE"
+    "nom": "PHARMACIE ET LABORATOIRE NOUVEAU QUARTIER",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON"
   },
   {
     "nom": "CENTRE MEDICAL LES ARCHANGES",
     "type": "CENTRE DE SOINS",
-    "commune": "GEOGRAPHIQUES"
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "PHARMACIE DU MILLIONNAIRE",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "PHARMACIE ZONE INDUSTRIELLE",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "PHARMACIE LE JOURDAIN",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "PHARMACIE ST ETIENNE",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "PHARMACIE SACRE CŒUR /DR ATTIA",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "PHARMACIE SANTA MARIA",
+    "type": "PHARMACIE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "CLINIQUE MEDICALE SAINTE MARIE",
+    "type": "CENTRE DE SOINS",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "CLINIQUE MEDICALE LES OLIVIERS",
+    "type": "CENTRE DE SOINS",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "CLINIQUE MEDICALE LE GRAND CENTRE",
+    "type": "CENTRE DE SOINS",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "CLINIQUE SAINTE RITA DE CASCIA",
+    "type": "CENTRE DE SOINS",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "CENTRE BIOMEDICAL",
+    "type": "CENTRE DE SOINS",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "CENTRE MEDICAL SAINTE JEANNE",
+    "type": "CENTRE DE SOINS",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "CENTRE MEDICAL SAINT SAUVEUR",
+    "type": "CENTRE DE SOINS",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "LABORATOIRE PRINCIPAL",
+    "type": "LABORATOIRE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "CTRE D'IMAGERIE MEDICALE ET DE DIAGNOSTIC",
+    "type": "LABORATOIRE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "CTRE D'IMAGERIE MEDICALE ET DE DIAGNOSTIC",
+    "type": "IMAGERIE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "CABINET DENTAIRE LE MESSIE",
+    "type": "DENTAIRE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "CABINET DENTAIRE SAINTE RITA/ MARIE EMMANUELLE KOFFI",
+    "type": "DENTAIRE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "DESIGN OPTIQUE(AGENCE)",
+    "type": "OPTIQUE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "GRACE OPTIQUE",
+    "type": "OPTIQUE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "ZOOM OPTIQUE(AGENCE)",
+    "type": "OPTIQUE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "TENDANCE OPTIQUE",
+    "type": "OPTIQUE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "MODERN’ OPTIQUE",
+    "type": "OPTIQUE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "SOCIAL OPTIQUE ST FRANCOIS XAVIER",
+    "type": "OPTIQUE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "HOLLYWOOD OPTICAL",
+    "type": "OPTIQUE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "SOCIAL VISION",
+    "type": "OPTIQUE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "HOLY VISION",
+    "type": "OPTIQUE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "ASET SOCIAL OPTIC",
+    "type": "OPTIQUE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "ANOPTIC GROUP SAS (AGENCE)",
+    "type": "OPTIQUE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "MAITRE OPTICS (SIEGE)",
+    "type": "OPTIQUE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "OPTICIEN VISAGISTE",
+    "type": "OPTIQUE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "CLINIQUE MEDICALE LES OLIVIERS",
+    "type": "KINESITHERAPIE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "CENTRE KINE MEDICAL (AGENCE QT ANANERAIE)",
+    "type": "KINESITHERAPIE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "CENTRE KINE MEDICAL (AGENCE NOUV QUARTIER)",
+    "type": "KINESITHERAPIE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "CABINET DE KINESITHERAPIE LE GRAND CENTRE",
+    "type": "KINESITHERAPIE",
+    "commune": "YOPOUGON"
+  },
+  {
+    "nom": "CENTRE MEDICAL LES ARCHANGES",
+    "type": "CENTRE DE SOINS",
+    "commune": "YOPOUGON"
   },
   {
     "nom": "PHARMACIE MAIRIE-NORD",
@@ -990,99 +1945,159 @@
     "commune": "ABENGOUROU"
   },
   {
+    "nom": "PHARMACIE PRUNELLE MARIE",
+    "type": "PHARMACIE",
+    "commune": "ABENGOUROU"
+  },
+  {
+    "nom": "PHARMACIE PROVIDENCE ABENGOUROU",
+    "type": "PHARMACIE",
+    "commune": "ABENGOUROU"
+  },
+  {
     "nom": "PHARMACIE D'AGNIKRO",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE PROVIDENCE ABENGOUROU                 07 08 26 80 81           STATION PETROCI SUR AXE AGNIBILEKRO"
+    "commune": "ABENGOUROU"
   },
   {
     "nom": "PHARMACIE DU CARREFOUR",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE PROVIDENCE ABENGOUROU                 07 08 26 80 81           STATION PETROCI SUR AXE AGNIBILEKRO"
+    "commune": "ABENGOUROU"
+  },
+  {
+    "nom": "NOUVELLE PHARMACIE ROYALE",
+    "type": "PHARMACIE",
+    "commune": "ABENGOUROU"
   },
   {
     "nom": "PHARMACIE DU COMMERCE",
     "type": "PHARMACIE",
-    "commune": "NOUVELLE PHARMACIE ROYALE                       27 35 91 33 56           CAFETOU PETIT MARCHE"
+    "commune": "ABENGOUROU"
   },
   {
     "nom": "PHARMACIE DE L'INDENIE",
     "type": "PHARMACIE",
-    "commune": "NOUVELLE PHARMACIE ROYALE                       27 35 91 33 56           CAFETOU PETIT MARCHE"
+    "commune": "ABENGOUROU"
   },
   {
     "nom": "PHARMACIE SAINTE FAMILLE",
     "type": "PHARMACIE",
-    "commune": "NOUVELLE PHARMACIE ROYALE                       27 35 91 33 56           CAFETOU PETIT MARCHE"
+    "commune": "ABENGOUROU"
   },
   {
-    "nom": "HOPITAL & CLINIQUES",
-    "type": "PHARMACIE",
-    "commune": "NOUVELLE PHARMACIE ROYALE                       27 35 91 33 56           CAFETOU PETIT MARCHE"
+    "nom": "HOTEL MEDICAL NOTRE DAME DE LA PAIX",
+    "type": "CENTRE DE SOINS",
+    "commune": "ABENGOUROU"
+  },
+  {
+    "nom": "CLINIQUE MEDICALE SAINT FRANCOIS ABENG",
+    "type": "CENTRE DE SOINS",
+    "commune": "ABENGOUROU"
+  },
+  {
+    "nom": "CLINIQUE MEDICALE SAINT FRANCOIS 0",
+    "type": "CENTRE DE SOINS",
+    "commune": "ABENGOUROU"
   },
   {
     "nom": "CLINIQUE SOPHIA DE L’INDENIE",
-    "type": "PHARMACIE",
-    "commune": "05 56 76 18 55"
+    "type": "CENTRE DE SOINS",
+    "commune": "ABENGOUROU"
   },
   {
-    "nom": "CABINETS & CENTRES DE SANTE",
-    "type": "PHARMACIE",
-    "commune": "CHR ABENGOUROU                                  27 35 91 30 73           ABENGOUROU"
+    "nom": "CHR ABENGOUROU",
+    "type": "CENTRE DE SOINS",
+    "commune": "ABENGOUROU"
+  },
+  {
+    "nom": "CENTRE DE SANTE DE LA POLICE NATIONALE",
+    "type": "CENTRE DE SOINS",
+    "commune": "ABENGOUROU"
+  },
+  {
+    "nom": "INDENIE OPTIQUE LUNETTERIE",
+    "type": "OPTIQUE",
+    "commune": "ABENGOUROU"
+  },
+  {
+    "nom": "ABENGOUROU ROYAL OPTIQUE",
+    "type": "OPTIQUE",
+    "commune": "ABENGOUROU"
   },
   {
     "nom": "CLAIRE VISION(AGENCE)",
     "type": "OPTIQUE",
-    "commune": "ABENGOUROU ROYAL OPTIQUE                        27 35 90 30 26           ABENGOUROU"
+    "commune": "ABENGOUROU"
   },
   {
     "nom": "ANOPTIC GROUPE SAS(AGENCE)",
     "type": "OPTIQUE",
-    "commune": "ABENGOUROU ROYAL OPTIQUE                        27 35 90 30 26           ABENGOUROU"
+    "commune": "ABENGOUROU"
   },
   {
-    "nom": "CABINETS DENTAIRES",
-    "type": "CENTRE DE SOINS",
-    "commune": "CENTRE DE KINESITHERAPIE                 27 35 91 30 73    ABENGOUROU"
+    "nom": "CENTRE DE KINESITHERAPIE",
+    "type": "KINESITHERAPIE",
+    "commune": "ABENGOUROU"
   },
   {
     "nom": "CENTRE MEDICAL CKLN SANTE",
-    "type": "CENTRE DE SOINS",
-    "commune": "CENTRE DE KINESITHERAPIE                 27 35 91 30 73    ABENGOUROU"
+    "type": "DENTAIRE",
+    "commune": "ABENGOUROU"
+  },
+  {
+    "nom": "PHARMACIE DU MARCHE",
+    "type": "PHARMACIE",
+    "commune": "ABOISSO"
+  },
+  {
+    "nom": "PHARMACIE DIVINE MISERICORDE",
+    "type": "PHARMACIE",
+    "commune": "ABOISSO"
+  },
+  {
+    "nom": "PHARMACIE DE LA RIVE GAUCHE",
+    "type": "PHARMACIE",
+    "commune": "ABOISSO"
   },
   {
     "nom": "PHARMACIE SOKOURA",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE DE LA RIVE GAUCHE              07 08 97 13 74    RIVE GAUCHE/LES QUATRES PALMIERS"
-  },
-  {
-    "nom": "CLINIQUES & CENTRES MEDICAUX",
-    "type": "PHARMACIE",
-    "commune": "PHARMACIE DE LA RIVE GAUCHE              07 08 97 13 74    RIVE GAUCHE/LES QUATRES PALMIERS"
+    "commune": "ABOISSO"
   },
   {
     "nom": "CLINIQUE MEDICALE SAINTE FAMILLE",
-    "type": "PHARMACIE",
-    "commune": "PHARMACIE DE LA RIVE GAUCHE              07 08 97 13 74    RIVE GAUCHE/LES QUATRES PALMIERS"
+    "type": "CENTRE DE SOINS",
+    "commune": "ABOISSO"
   },
   {
-    "nom": "HOPITAUX & CENTRES MEDICAUX",
-    "type": "PHARMACIE",
-    "commune": "CLINIQUE MEDICALE SOURCE DE VIE          07 49 33 29 16    CARREFOUR PHCIE SOKOURA"
+    "nom": "CLINIQUE MEDICALE SOURCE DE VIE",
+    "type": "CENTRE DE SOINS",
+    "commune": "ABOISSO"
   },
   {
     "nom": "CHR ABOISSO",
-    "type": "PHARMACIE",
-    "commune": "CLINIQUE MEDICALE SOURCE DE VIE          07 49 33 29 16    CARREFOUR PHCIE SOKOURA"
+    "type": "CENTRE DE SOINS",
+    "commune": "ABOISSO"
   },
   {
-    "nom": "OPTICIEN",
+    "nom": "CLINIQUE MEDICALE SOURCE DE VIE",
     "type": "CENTRE DE SOINS",
-    "commune": "CABINET DENTAIRE ADOU GEORGES            27 21 30 64 91    IMM HADAD FACE CHR ABOISSO"
+    "commune": "ABOISSO"
+  },
+  {
+    "nom": "CABINET DENTAIRE ADOU GEORGES",
+    "type": "DENTAIRE",
+    "commune": "ABOISSO"
   },
   {
     "nom": "CRISTALIN'S SOCIAL OPTIQUE",
-    "type": "CENTRE DE SOINS",
-    "commune": "CABINET DENTAIRE ADOU GEORGES            27 21 30 64 91    IMM HADAD FACE CHR ABOISSO"
+    "type": "OPTIQUE",
+    "commune": "ABOISSO"
+  },
+  {
+    "nom": "PHARMACIE MODERNE ADIAKE",
+    "type": "PHARMACIE",
+    "commune": "ADIAKE"
   },
   {
     "nom": "PHARMACIE D'ADZOPE",
@@ -1090,34 +2105,54 @@
     "commune": "ADZOPE"
   },
   {
+    "nom": "PHARMACIE DU MASSAN",
+    "type": "PHARMACIE",
+    "commune": "ADZOPE"
+  },
+  {
     "nom": "PHARMACIE EUREKA",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE DU MASSAN                      27 23 54 02 89    RUE DU COMMERCE/STATION PETROLEUM"
+    "commune": "ADZOPE"
   },
   {
     "nom": "PHARMACIE SAINT LAURANT",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE DU MASSAN                      27 23 54 02 89    RUE DU COMMERCE/STATION PETROLEUM"
+    "commune": "ADZOPE"
   },
   {
-    "nom": "HOPITAUX & CLINIQUES",
+    "nom": "PHARMACIE AMIRA",
     "type": "PHARMACIE",
-    "commune": "01 52 95 03 48"
+    "commune": "ADZOPE"
+  },
+  {
+    "nom": "PHARMACIE LOUISE ANTOINE",
+    "type": "PHARMACIE",
+    "commune": "ADZOPE"
   },
   {
     "nom": "CLINIQUE SAINT LAURENT",
-    "type": "PHARMACIE",
-    "commune": "01 52 95 03 48"
+    "type": "CENTRE DE SOINS",
+    "commune": "ADZOPE"
   },
   {
     "nom": "NVLLE CLINIQUE MEDICALE SAINT JOSEPH",
-    "type": "PHARMACIE",
-    "commune": "01 52 95 03 48"
+    "type": "CENTRE DE SOINS",
+    "commune": "ADZOPE"
   },
   {
     "nom": "CLINIQUE OKA-ADZOPE",
-    "type": "PHARMACIE",
-    "commune": "01 52 95 03 48"
+    "type": "CENTRE DE SOINS",
+    "commune": "ADZOPE"
+  },
+  {
+    "nom": "INSTITUT RAOUL FOLLEREAU",
+    "type": "CENTRE DE SOINS",
+    "commune": "ADZOPE"
+  },
+  {
+    "nom": "CHR ADZOPE",
+    "type": "CENTRE DE SOINS",
+    "commune": "ADZOPE"
   },
   {
     "nom": "NOUVELLE PHARMACIE D'AFFERY",
@@ -1140,22 +2175,37 @@
     "commune": "AGBOVILLE"
   },
   {
-    "nom": "CLINIQUES",
+    "nom": "PHARMACIE SINI KENEYA",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE SINI KENEYA                    27 23 54 74 00    ROND POINT DE DIUOULAKRO"
+    "commune": "AGBOVILLE"
   },
   {
     "nom": "IVOIRE MULTI SERVICE ASSISTANCE(IMSA)",
-    "type": "PHARMACIE",
-    "commune": "PHARMACIE SINI KENEYA                    27 23 54 74 00    ROND POINT DE DIUOULAKRO"
+    "type": "CENTRE DE SOINS",
+    "commune": "AGBOVILLE"
   },
   {
-    "nom": "HOPITAUX & CLINIQUES",
+    "nom": "HÔPITAL GENERAL D’AGNIBILEKRO",
+    "type": "CENTRE DE SOINS",
+    "commune": "AGNIBILEKRO"
+  },
+  {
+    "nom": "CENTRE SANTE PALAZZOLO AGNIBILEKROU",
+    "type": "CENTRE DE SOINS",
+    "commune": "AGNIBILEKRO"
+  },
+  {
+    "nom": "PHARMACIE BOILOT",
     "type": "PHARMACIE",
     "commune": "AGNIBILEKRO"
   },
   {
-    "nom": "HÔPITAL GENERAL D’AGNIBILEKRO",
+    "nom": "NOUVELLE PHARMACIE DU DJUABLIN",
+    "type": "PHARMACIE",
+    "commune": "AGNIBILEKRO"
+  },
+  {
+    "nom": "PHARMCIE MAI",
     "type": "PHARMACIE",
     "commune": "AGNIBILEKRO"
   },
@@ -1165,9 +2215,19 @@
     "commune": "AKOUPE"
   },
   {
+    "nom": "NOUVELLE PHARMACIE KETTE",
+    "type": "PHARMACIE",
+    "commune": "AKOUPE"
+  },
+  {
     "nom": "PHARMACIE D'ALEPE",
     "type": "PHARMACIE",
-    "commune": "NOUVELLE PHARMACIE KETTE                 27 23 54 20 30    AKOUPE"
+    "commune": "ALEPE"
+  },
+  {
+    "nom": "PHARMACIE DES GENERATIONS",
+    "type": "PHARMACIE",
+    "commune": "ALEPE"
   },
   {
     "nom": "PHARMACIE D’ANYAMA",
@@ -1185,24 +2245,59 @@
     "commune": "ANYAMA"
   },
   {
+    "nom": "NOUVELLE PHARMACIE ELIEL",
+    "type": "PHARMACIE",
+    "commune": "ANYAMA"
+  },
+  {
+    "nom": "PHARMACIE CARREFOUR KOBAKRO/ DR BASSA KOUADIO",
+    "type": "PHARMACIE",
+    "commune": "ANYAMA"
+  },
+  {
+    "nom": "CENTRE MEDICAL DON ORION",
+    "type": "KINESITHERAPIE",
+    "commune": "ANYAMA"
+  },
+  {
+    "nom": "CENTRE KINE MEDICAL",
+    "type": "KINESITHERAPIE",
+    "commune": "ANYAMA"
+  },
+  {
     "nom": "PHARMACIE D'ARRAH",
     "type": "PHARMACIE",
-    "commune": "CENTRE KINE MEDICAL                                         ROUTE HOPITAL GENERAL"
+    "commune": "ARRAH"
   },
   {
     "nom": "PHARMACIE D'AYAME",
     "type": "PHARMACIE",
-    "commune": "CENTRE KINE MEDICAL                                         ROUTE HOPITAL GENERAL"
-  },
-  {
-    "nom": "HOPITAL",
-    "type": "PHARMACIE",
-    "commune": "CENTRE KINE MEDICAL                                         ROUTE HOPITAL GENERAL"
+    "commune": "AYAME"
   },
   {
     "nom": "HOPITAL GENERAL D'AYAME",
+    "type": "CENTRE DE SOINS",
+    "commune": "AYAME"
+  },
+  {
+    "nom": "PHARMACIE BANGOLO",
     "type": "PHARMACIE",
-    "commune": "CENTRE KINE MEDICAL                                         ROUTE HOPITAL GENERAL"
+    "commune": "BANGOLO"
+  },
+  {
+    "nom": "NOUVELLE PHARMACIE DE BEOUMI",
+    "type": "PHARMACIE",
+    "commune": "BEOUMI"
+  },
+  {
+    "nom": "NOUVELLE PHARMACIE ESPOIR",
+    "type": "PHARMACIE",
+    "commune": "BIANKOUMA"
+  },
+  {
+    "nom": "PHARMACIE NOUVELLE BLOLEQUIN",
+    "type": "PHARMACIE",
+    "commune": "BLOLEQUIN"
   },
   {
     "nom": "GRANDE PHARMACIE DE BOCANDA",
@@ -1215,19 +2310,44 @@
     "commune": "BONDOUKOU"
   },
   {
+    "nom": "PHARMACIE DU ZANZAN",
+    "type": "PHARMACIE",
+    "commune": "BONDOUKOU"
+  },
+  {
+    "nom": "PHARMACIE NOTRE DAME",
+    "type": "PHARMACIE",
+    "commune": "BONDOUKOU"
+  },
+  {
     "nom": "PHARMACIE AN-NASR",
     "type": "PHARMACIE",
-    "commune": "05 01 85 16 18"
+    "commune": "BONDOUKOU"
   },
   {
     "nom": "PHARMACIE D’ANYAMA",
     "type": "PHARMACIE",
-    "commune": "05 01 85 16 18"
+    "commune": "BONDOUKOU"
   },
   {
     "nom": "HOPITAUX & CLINIQUES",
     "type": "PHARMACIE",
-    "commune": "05 01 85 16 18"
+    "commune": "BONDOUKOU"
+  },
+  {
+    "nom": "CHR BONDOUKOU",
+    "type": "PHARMACIE",
+    "commune": "BONDOUKOU"
+  },
+  {
+    "nom": "CLINIQUE MEDICALE STE AGNES/ DR KOBENAN AKOUA AGNES",
+    "type": "PHARMACIE",
+    "commune": "BONDOUKOU"
+  },
+  {
+    "nom": "CENTRE DE SANTE DE LA POLICE NATIONALE",
+    "type": "PHARMACIE",
+    "commune": "BONDOUKOU"
   },
   {
     "nom": "PHARMACIE DE SION",
@@ -1240,23 +2360,43 @@
     "commune": "BONGOUANOU"
   },
   {
-    "nom": "HOPITAUX & CLINIQUES",
-    "type": "PHARMACIE",
+    "nom": "CHR BONGOUANOU",
+    "type": "CENTRE DE SOINS",
     "commune": "BONGOUANOU"
+  },
+  {
+    "nom": "PHARMACIE EDEN",
+    "type": "PHARMACIE",
+    "commune": "BONOUA"
   },
   {
     "nom": "PHARMACIE DE L'OREE",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE EDEN                        21 31 02 07       FACE STATION TOTAL"
+    "commune": "BONOUA"
   },
   {
     "nom": "PHARMACIE DE BONOUA",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE EDEN                        21 31 02 07       FACE STATION TOTAL"
+    "commune": "BONOUA"
   },
   {
-    "nom": "CLINIQUES & CENTRES MEDICAUX",
+    "nom": "PHARMACIE EBENEZER",
     "type": "PHARMACIE",
+    "commune": "BONOUA"
+  },
+  {
+    "nom": "CLINIQUE MEDICALE SAINT JEAN",
+    "type": "CENTRE DE SOINS",
+    "commune": "BONOUA"
+  },
+  {
+    "nom": "CENTRE DON ORION",
+    "type": "CENTRE DE SOINS",
+    "commune": "BONOUA"
+  },
+  {
+    "nom": "CMC SAINTE HENRIETTE",
+    "type": "CENTRE DE SOINS",
     "commune": "BONOUA"
   },
   {
@@ -1270,19 +2410,29 @@
     "commune": "BOUAFLE"
   },
   {
-    "nom": "HOPITAL",
+    "nom": "PHARMACIE PROVIDENCE BOUAFLE",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE SAINT AUGUSTIN               27 30 68 91 78    BOUAFLE"
+    "commune": "BOUAFLE"
+  },
+  {
+    "nom": "PHARMACIE DU CARREFOUR BOUAFLE",
+    "type": "PHARMACIE",
+    "commune": "BOUAFLE"
+  },
+  {
+    "nom": "PHARMACIE SAINT AUGUSTIN",
+    "type": "PHARMACIE",
+    "commune": "BOUAFLE"
   },
   {
     "nom": "CHR DE BOUAFLE",
-    "type": "PHARMACIE",
-    "commune": "PHARMACIE SAINT AUGUSTIN               27 30 68 91 78    BOUAFLE"
+    "type": "CENTRE DE SOINS",
+    "commune": "BOUAFLE"
   },
   {
     "nom": "OPTICOOL",
     "type": "OPTIQUE",
-    "commune": "PHARMACIE SAINT AUGUSTIN               27 30 68 91 78    BOUAFLE"
+    "commune": "BOUAFLE"
   },
   {
     "nom": "PHARMACIE MODERNE KENNEDY",
@@ -1305,129 +2455,194 @@
     "commune": "BOUAKE"
   },
   {
-    "nom": "PHARMACIE NIMBO 18 LGTS",
-    "type": "PHARMACIE",
-    "commune": "PHARMACIE SAINT PIERRE                 27 31 65 70 19    BOUAKE"
-  },
-  {
-    "nom": "PHARMACIE STE MARIE N'GATTAKRO",
-    "type": "PHARMACIE",
-    "commune": "PHARMACIE SAINT PIERRE                 27 31 65 70 19    BOUAKE"
-  },
-  {
-    "nom": "PHARMACIE CARREFOUR ST PIERRE NIMBO",
-    "type": "PHARMACIE",
-    "commune": "PHARMACIE SAINT PIERRE                 27 31 65 70 19    BOUAKE"
-  },
-  {
-    "nom": "PHARMACIE DE LA PLACE",
-    "type": "PHARMACIE",
-    "commune": "PHARMACIE SAINT PIERRE                 27 31 65 70 19    BOUAKE"
-  },
-  {
-    "nom": "PHARMACIE VICTOR TENENA",
-    "type": "PHARMACIE",
-    "commune": "PHARMACIE COMMERCE                     27 31 63 35 73    QUARTIER SOKOURA"
-  },
-  {
-    "nom": "PHARMACIE CITE OLYMPIQUE",
-    "type": "PHARMACIE",
-    "commune": "PHARMACIE COMMERCE                     27 31 63 35 73    QUARTIER SOKOURA"
-  },
-  {
-    "nom": "PHARMACIE KENEYA",
-    "type": "PHARMACIE",
-    "commune": "PHARMACIE COMMERCE                     27 31 63 35 73    QUARTIER SOKOURA"
-  },
-  {
-    "nom": "PHARMACIE SAINTE CATHERINE",
-    "type": "PHARMACIE",
-    "commune": "PHARMACIE COMMERCE                     27 31 63 35 73    QUARTIER SOKOURA"
-  },
-  {
-    "nom": "PHARMACIE NOTRE DAME DE LA PAIX",
-    "type": "PHARMACIE",
-    "commune": "PHARMACIE COMMERCE                     27 31 63 35 73    QUARTIER SOKOURA"
-  },
-  {
-    "nom": "PHARMACIE EL NISSI",
-    "type": "PHARMACIE",
-    "commune": "PHARMACIE COMMERCE                     27 31 63 35 73    QUARTIER SOKOURA"
-  },
-  {
-    "nom": "PHARMACIE DU GBEKE",
-    "type": "PHARMACIE",
-    "commune": "PHARMACIE COMMERCE                     27 31 63 35 73    QUARTIER SOKOURA"
-  },
-  {
-    "nom": "HOPITAL & CLINIQUES",
+    "nom": "PHARMACIE SAINT PIERRE",
     "type": "PHARMACIE",
     "commune": "BOUAKE"
   },
   {
-    "nom": "CLINIQUE MÉDICO-CHIRURGICALE NANAN(CMENA)",
+    "nom": "PHARMACIE NIMBO 18 LGTS",
     "type": "PHARMACIE",
-    "commune": "CLINIQUE MEDICALE DE BOUAKE                  27 31 63 37 71   COMMERCE RUE DU CHAMP TSF NORD"
+    "commune": "BOUAKE"
+  },
+  {
+    "nom": "PHARMACIE STE MARIE N'GATTAKRO",
+    "type": "PHARMACIE",
+    "commune": "BOUAKE"
+  },
+  {
+    "nom": "PHARMACIE CARREFOUR ST PIERRE NIMBO",
+    "type": "PHARMACIE",
+    "commune": "BOUAKE"
+  },
+  {
+    "nom": "PHARMACIE DE LA PLACE",
+    "type": "PHARMACIE",
+    "commune": "BOUAKE"
+  },
+  {
+    "nom": "PHARMACIE COMMERCE",
+    "type": "PHARMACIE",
+    "commune": "BOUAKE"
+  },
+  {
+    "nom": "PHARMACIE VICTOR TENENA",
+    "type": "PHARMACIE",
+    "commune": "BOUAKE"
+  },
+  {
+    "nom": "PHARMACIE CITE OLYMPIQUE",
+    "type": "PHARMACIE",
+    "commune": "BOUAKE"
+  },
+  {
+    "nom": "PHARMACIE KENEYA",
+    "type": "PHARMACIE",
+    "commune": "BOUAKE"
+  },
+  {
+    "nom": "PHARMACIE SAINTE CATHERINE",
+    "type": "PHARMACIE",
+    "commune": "BOUAKE"
+  },
+  {
+    "nom": "PHARMACIE NOTRE DAME DE LA PAIX",
+    "type": "PHARMACIE",
+    "commune": "BOUAKE"
+  },
+  {
+    "nom": "PHARMACIE EL NISSI",
+    "type": "PHARMACIE",
+    "commune": "BOUAKE"
+  },
+  {
+    "nom": "PHARMACIE DU GBEKE",
+    "type": "PHARMACIE",
+    "commune": "BOUAKE"
+  },
+  {
+    "nom": "PHARMACIE TSF DE BOUAKE",
+    "type": "PHARMACIE",
+    "commune": "BOUAKE"
+  },
+  {
+    "nom": "PHARMACIE DU PETIT MARCHE DE BELLEVILLE 2 BOUAKE",
+    "type": "PHARMACIE",
+    "commune": "BOUAKE"
+  },
+  {
+    "nom": "CLINIQUE MEDICALE STE MADELEINE",
+    "type": "CENTRE DE SOINS",
+    "commune": "BOUAKE"
+  },
+  {
+    "nom": "CLINIQUE MEDICALE DE BOUAKE",
+    "type": "CENTRE DE SOINS",
+    "commune": "BOUAKE"
+  },
+  {
+    "nom": "CLINIQUE MÉDICO-CHIRURGICALE NANAN(CMENA)",
+    "type": "CENTRE DE SOINS",
+    "commune": "BOUAKE"
+  },
+  {
+    "nom": "CENTRE MEDICO MILITAIRE 1ER BATAILLON",
+    "type": "CENTRE DE SOINS",
+    "commune": "BOUAKE"
   },
   {
     "nom": "CENTRE D'OPHTALMOLOGIE STE MADELEINE",
     "type": "CENTRE DE SOINS",
-    "commune": "CENTRE MEDICO MILITAIRE 1ER BATAILLON        07 09 01 99 67   AU SEIN DU 1ER BATAILLON DE BOUAKE"
+    "commune": "BOUAKE"
   },
   {
-    "nom": "DIOMANDE IBRAHIM",
+    "nom": "CENTRE MEDICAL LA RETINE DU GBEKE/ DIOMANDE IBRAHIM",
     "type": "CENTRE DE SOINS",
-    "commune": "CENTRE MEDICAL LA RETINE DU GBEKE/           01 02 38 37 39"
+    "commune": "BOUAKE"
   },
   {
     "nom": "BIOCONTROL LABORATOIRE D'ANALYSES",
     "type": "LABORATOIRE",
-    "commune": "CENTRE MEDICAL LA RETINE DU GBEKE/           01 02 38 37 39"
-  },
-  {
-    "nom": "RADIO – SCANNER-ANALYSES",
-    "type": "LABORATOIRE",
-    "commune": "CENTRE MEDICAL LA RETINE DU GBEKE/           01 02 38 37 39"
+    "commune": "BOUAKE"
   },
   {
     "nom": "CENTRE D'IMAGERIE MÉDICALE DE BOUAKE CIMAB",
-    "type": "LABORATOIRE",
-    "commune": "CENTRE MEDICAL LA RETINE DU GBEKE/           01 02 38 37 39"
+    "type": "IMAGERIE",
+    "commune": "BOUAKE"
   },
   {
     "nom": "CABINET DENTAIRE IVOIRE",
-    "type": "CENTRE DE SOINS",
-    "commune": "CENTRE MEDICAL LA RETINE DU GBEKE/           01 02 38 37 39"
+    "type": "DENTAIRE",
+    "commune": "BOUAKE"
+  },
+  {
+    "nom": "BOUAKE OPTIQUE",
+    "type": "OPTIQUE",
+    "commune": "BOUAKE"
+  },
+  {
+    "nom": "HOLY VISION",
+    "type": "OPTIQUE",
+    "commune": "BOUAKE"
+  },
+  {
+    "nom": "ODG VISION",
+    "type": "OPTIQUE",
+    "commune": "BOUAKE"
+  },
+  {
+    "nom": "ACCORD OPTIQUE",
+    "type": "OPTIQUE",
+    "commune": "BOUAKE"
   },
   {
     "nom": "CLAIRE VISION (AGENCE)",
     "type": "OPTIQUE",
-    "commune": "ACCORD OPTIQUE                               27 31 63 12 84   QUARTIER COMMERCE/ PARIS AUTO ECOLE"
+    "commune": "BOUAKE"
   },
   {
     "nom": "ANOPTIC GROUPE SAS(AGENCE)",
     "type": "OPTIQUE",
-    "commune": "ACCORD OPTIQUE                               27 31 63 12 84   QUARTIER COMMERCE/ PARIS AUTO ECOLE"
+    "commune": "BOUAKE"
   },
   {
-    "nom": "HÔPITAUX & CLINIQUES",
+    "nom": "PHARMACIE ESPOIR",
+    "type": "OPTIQUE",
+    "commune": "BOUAKE"
+  },
+  {
+    "nom": "NOUVELLE PHARMACIE DE BOUNA",
     "type": "PHARMACIE",
-    "commune": "07 07 07 06 82"
+    "commune": "BOUNA"
   },
   {
     "nom": "HÔPITAL GENERAL DE BOUNA",
+    "type": "CENTRE DE SOINS",
+    "commune": "BOUNA"
+  },
+  {
+    "nom": "PHARMACIE DE LA FRATERNITE",
     "type": "PHARMACIE",
-    "commune": "07 07 07 06 82"
+    "commune": "BOUNDIALI"
+  },
+  {
+    "nom": "PHARMACIE FATIMA",
+    "type": "PHARMACIE",
+    "commune": "BOUNDIALI"
+  },
+  {
+    "nom": "NOUVELLE PHARMACIE DE BUYO",
+    "type": "PHARMACIE",
+    "commune": "BUYO"
   },
   {
     "nom": "PHARMACIE LA COLOMBE BUYO",
     "type": "PHARMACIE",
-    "commune": "NOUVELLE PHARMACIE DE BUYO                07 79 12 61 01   NON LOIN DE LA GARE ROUTIERE"
+    "commune": "BUYO"
   },
   {
-    "nom": "HOPITAUX & CLINIQUES",
-    "type": "PHARMACIE",
-    "commune": "NOUVELLE PHARMACIE DE BUYO                07 79 12 61 01   NON LOIN DE LA GARE ROUTIERE"
+    "nom": "HOPITAL GENERAL DE BUYO",
+    "type": "CENTRE DE SOINS",
+    "commune": "BUYO"
   },
   {
     "nom": "PHARMACIE DE DABAKALA",
@@ -1435,139 +2650,219 @@
     "commune": "DABAKALA"
   },
   {
+    "nom": "PHARMACIE DU MARCHE",
+    "type": "PHARMACIE",
+    "commune": "DABOU"
+  },
+  {
+    "nom": "PHARMACIE DES LAGUNES",
+    "type": "PHARMACIE",
+    "commune": "DABOU"
+  },
+  {
     "nom": "PHARMACIE DES VILLAGES",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE DES LAGUNES                  27 23 57 21 45    PRES AGENCE CIE DABOU"
+    "commune": "DABOU"
   },
   {
     "nom": "PHARMACIE ABRAHAM",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE DES LAGUNES                  27 23 57 21 45    PRES AGENCE CIE DABOU"
+    "commune": "DABOU"
   },
   {
-    "nom": "HOPITAL, CLINIQUES",
+    "nom": "PHARMACIE FEZAN",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE FEZAN                        27 23 57 23 52    GARE TAXI PRES BON PRIX"
+    "commune": "DABOU"
   },
   {
     "nom": "HOPITAL METHODISTE DE DABOU",
-    "type": "PHARMACIE",
-    "commune": "PHARMACIE FEZAN                        27 23 57 23 52    GARE TAXI PRES BON PRIX"
+    "type": "CENTRE DE SOINS",
+    "commune": "DABOU"
   },
   {
     "nom": "HÔPITAL GENERAL DE DABOU",
-    "type": "PHARMACIE",
-    "commune": "PHARMACIE FEZAN                        27 23 57 23 52    GARE TAXI PRES BON PRIX"
+    "type": "CENTRE DE SOINS",
+    "commune": "DABOU"
   },
   {
     "nom": "CLINIQUE SAREPTA",
-    "type": "PHARMACIE",
-    "commune": "PHARMACIE FEZAN                        27 23 57 23 52    GARE TAXI PRES BON PRIX"
+    "type": "CENTRE DE SOINS",
+    "commune": "DABOU"
+  },
+  {
+    "nom": "EDEN OPTIC",
+    "type": "OPTIQUE",
+    "commune": "DABOU"
   },
   {
     "nom": "CLAIRE VISION (AGENCE)",
     "type": "OPTIQUE",
-    "commune": "EDEN OPTIC                             27 23 46 38 06    DABOU FACE PREFECTURE"
+    "commune": "DABOU"
   },
   {
     "nom": "PHARMACIE DES GARAGES",
     "type": "PHARMACIE",
-    "commune": "EDEN OPTIC                             27 23 46 38 06    DABOU FACE PREFECTURE"
+    "commune": "DALOA"
+  },
+  {
+    "nom": "PHARMACIE DU PARVIS",
+    "type": "PHARMACIE",
+    "commune": "DALOA"
+  },
+  {
+    "nom": "PHARMACIE DU COMMERCE",
+    "type": "PHARMACIE",
+    "commune": "DALOA"
   },
   {
     "nom": "GRANDE PHARMACIE APPAUL SARLU",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE DU COMMERCE                  27 32 78 20 82    COMMERCE"
+    "commune": "DALOA"
+  },
+  {
+    "nom": "PHARMACIE DU MARCHE DE DALOA",
+    "type": "PHARMACIE",
+    "commune": "DALOA"
   },
   {
     "nom": "HÔPITAL ISLAMIQUE DE DALOA",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE DU MARCHE DE DALOA           27 32 78 35 35    B P 688 DALOA"
+    "commune": "DALOA"
   },
   {
-    "nom": "PHARMACIE DU PROGRES",
+    "nom": "CLINIQUE MEDICALE LE PROGRES",
     "type": "PHARMACIE",
-    "commune": "07 07 06 09 29"
+    "commune": "DALOA"
   },
   {
-    "nom": "PHARMACIE NOUVELLE FLOREL",
+    "nom": "PHARMACIE DU PROGRES PHARMACIE NOUVELLE FLOREL",
     "type": "PHARMACIE",
-    "commune": "07 07 06 09 29"
+    "commune": "DALOA"
   },
   {
     "nom": "PHARMACIE ANEAUD",
     "type": "PHARMACIE",
-    "commune": "07 07 06 09 29"
+    "commune": "DALOA"
   },
   {
-    "nom": "HOPITAL & CLINIQUES",
+    "nom": "PHARMACIE PRINCIPALE DALOA",
     "type": "PHARMACIE",
-    "commune": "NOUVELLE PHARMACIE CENTRALE               32 78 22 43      DALOA"
+    "commune": "DALOA"
+  },
+  {
+    "nom": "PHARMACIE DU JUBILE DE TAZIBOUO",
+    "type": "PHARMACIE",
+    "commune": "DALOA"
+  },
+  {
+    "nom": "PHARMACIE SAINTE EMMANUELLA",
+    "type": "PHARMACIE",
+    "commune": "DALOA"
+  },
+  {
+    "nom": "NOUVELLE PHARMACIE CENTRALE",
+    "type": "PHARMACIE",
+    "commune": "DALOA"
   },
   {
     "nom": "SARL CLINIQUE ANTILOPE",
-    "type": "PHARMACIE",
-    "commune": "NOUVELLE PHARMACIE CENTRALE               32 78 22 43      DALOA"
+    "type": "CENTRE DE SOINS",
+    "commune": "DALOA"
+  },
+  {
+    "nom": "CHR",
+    "type": "CENTRE DE SOINS",
+    "commune": "DALOA"
   },
   {
     "nom": "CLINIQUE MEDICALE DIVINE GRACE",
-    "type": "PHARMACIE",
-    "commune": "NOUVELLE PHARMACIE CENTRALE               32 78 22 43      DALOA"
+    "type": "CENTRE DE SOINS",
+    "commune": "DALOA"
   },
   {
     "nom": "CLINIQUE MEDICALE SOLIDARITE",
-    "type": "PHARMACIE",
-    "commune": "NOUVELLE PHARMACIE CENTRALE               32 78 22 43      DALOA"
-  },
-  {
-    "nom": "OPTIQUE",
-    "type": "PHARMACIE",
-    "commune": "NOUVELLE PHARMACIE CENTRALE               32 78 22 43      DALOA"
+    "type": "CENTRE DE SOINS",
+    "commune": "DALOA"
   },
   {
     "nom": "REEL OPTIC",
-    "type": "PHARMACIE",
-    "commune": "NOUVELLE PHARMACIE CENTRALE               32 78 22 43      DALOA"
+    "type": "OPTIQUE",
+    "commune": "DALOA"
+  },
+  {
+    "nom": "NET VISION",
+    "type": "OPTIQUE",
+    "commune": "DALOA"
   },
   {
     "nom": "ANOPTIC GROUPE SAS(AGENCE)",
-    "type": "PHARMACIE",
-    "commune": "NET VISION                                07 10 25 52"
+    "type": "OPTIQUE",
+    "commune": "DALOA"
   },
   {
     "nom": "CLAIRE VISION (AGENCE)",
-    "type": "PHARMACIE",
-    "commune": "NET VISION                                07 10 25 52"
+    "type": "OPTIQUE",
+    "commune": "DALOA"
   },
   {
-    "nom": "SUITE HOPITAUX ET CLINIQUES",
+    "nom": "IVOIRE CENTRAL OPTIQUE",
+    "type": "OPTIQUE",
+    "commune": "DALOA"
+  },
+  {
+    "nom": "HOPITAL ISLAMIQUE DE DALOA",
+    "type": "CENTRE DE SOINS",
+    "commune": "DALOA"
+  },
+  {
+    "nom": "CLINIQUE CENTRALE DU PROGRES",
+    "type": "CENTRE DE SOINS",
+    "commune": "DALOA"
+  },
+  {
+    "nom": "NOUVELLE PHARMACIE DE DANANE",
     "type": "PHARMACIE",
-    "commune": "IVOIRE CENTRAL OPTIQUE                    32 78 42 55      DALOA"
+    "commune": "DANANE"
   },
   {
     "nom": "CENTRE DE SANTE",
     "type": "PHARMACIE",
-    "commune": "NOUVELLE PHARMACIE DE DANANE             07 48 75 43 17    DANANE"
+    "commune": "DANANE"
   },
   {
     "nom": "MEDICO-SCOLAIRE DE DANANE",
     "type": "PHARMACIE",
-    "commune": "NOUVELLE PHARMACIE DE DANANE             07 48 75 43 17    DANANE"
+    "commune": "DANANE"
+  },
+  {
+    "nom": "PHARMACIE DE LA PAIX",
+    "type": "PHARMACIE",
+    "commune": "DAOUKRO"
+  },
+  {
+    "nom": "PHARMACIE DE DAOUKRO",
+    "type": "PHARMACIE",
+    "commune": "DAOUKRO"
   },
   {
     "nom": "PHARMACIE DE L'AMITIE",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE DE DAOUKRO                     27 31 97 80 60    EN FACE DU MARCHE"
-  },
-  {
-    "nom": "HOPITAUX & CLINIQUES",
-    "type": "PHARMACIE",
-    "commune": "PHARMACIE DE DAOUKRO                     27 31 97 80 60    EN FACE DU MARCHE"
+    "commune": "DAOUKRO"
   },
   {
     "nom": "HOPITAL GENERAL DE DAOUKRO",
+    "type": "CENTRE DE SOINS",
+    "commune": "DAOUKRO"
+  },
+  {
+    "nom": "PHARMACIE SAINT PAUL",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE DE DAOUKRO                     27 31 97 80 60    EN FACE DU MARCHE"
+    "commune": "DIDIEVI"
+  },
+  {
+    "nom": "PHARMACIE SAINTE ESPERANCE",
+    "type": "PHARMACIE",
+    "commune": "DIEGONEFLA"
   },
   {
     "nom": "PHARMACIE YOTIKI",
@@ -1575,58 +2870,123 @@
     "commune": "DIMBOKRO"
   },
   {
-    "nom": "HOPITAL, CLINIQUES",
+    "nom": "PHARMACIE DE DIMBOKRO",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE DE LA GRACE                27 30 62 49 93    DIMBOKRO"
+    "commune": "DIMBOKRO"
+  },
+  {
+    "nom": "PHARMACIE DE LA GRACE",
+    "type": "PHARMACIE",
+    "commune": "DIMBOKRO"
+  },
+  {
+    "nom": "CLINIQUE SAINTE RITA",
+    "type": "CENTRE DE SOINS",
+    "commune": "DIMBOKRO"
   },
   {
     "nom": "HÔPITAL GENERAL DE DIMBOKRO",
+    "type": "CENTRE DE SOINS",
+    "commune": "DIMBOKRO"
+  },
+  {
+    "nom": "PHARMACIE DE FRESCO",
     "type": "PHARMACIE",
-    "commune": "CLINIQUE SAINTE RITA                 27 30 62 50 75    DIMBOKRO"
+    "commune": "FRESCO"
+  },
+  {
+    "nom": "PHARMACIE DU MARCHE",
+    "type": "PHARMACIE",
+    "commune": "DIVO"
   },
   {
     "nom": "PHARMACIE DU DIALOGUE",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE DU MARCHE                  27 32 76 00 75    PRES DU MARCHE"
+    "commune": "DIVO"
   },
   {
     "nom": "PHARMACIE DE L'AMITIE",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE DU MARCHE                  27 32 76 00 75    PRES DU MARCHE"
+    "commune": "DIVO"
+  },
+  {
+    "nom": "PHARMACIE AHOUKOUA",
+    "type": "PHARMACIE",
+    "commune": "DIVO"
+  },
+  {
+    "nom": "PHARMACIE FATIMA",
+    "type": "PHARMACIE",
+    "commune": "DIVO"
   },
   {
     "nom": "PHARMACIE SAINTE MARIE DIVO",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE FATIMA                       27 32 76 33 99    QUARTIER LIBANAIS"
+    "commune": "DIVO"
   },
   {
     "nom": "PHARMACIE DE LA MAIRIE",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE FATIMA                       27 32 76 33 99    QUARTIER LIBANAIS"
+    "commune": "DIVO"
   },
   {
-    "nom": "CLINIQUE & CNTRES MEDICAUX",
-    "type": "PHARMACIE",
-    "commune": "PHARMACIE FATIMA                       27 32 76 33 99    QUARTIER LIBANAIS"
+    "nom": "CENTRE DE SANTE CRS DIVO",
+    "type": "CENTRE DE SOINS",
+    "commune": "DIVO"
+  },
+  {
+    "nom": "CLINIQUE MEDICALE AHISSA",
+    "type": "CENTRE DE SOINS",
+    "commune": "DIVO"
   },
   {
     "nom": "CNPS-CMS DIVO",
-    "type": "PHARMACIE",
-    "commune": "CLINIQUE MEDICALE AHISSA               07 07 90 71 99    KONANKRO"
+    "type": "CENTRE DE SOINS",
+    "commune": "DIVO"
+  },
+  {
+    "nom": "CENTRE MEDICAL DJIBOUA",
+    "type": "CENTRE DE SOINS",
+    "commune": "DIVO"
   },
   {
     "nom": "PHARMACIE DU WATTA-HIRE",
     "type": "PHARMACIE",
-    "commune": "05 54 61 55 55"
+    "commune": "HIRE"
   },
   {
-    "nom": "HOPITAL & CLINIQUE",
+    "nom": "PHARMACIE MODERNE HIRE",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE DE LA GARE DE DUEKOUE        07 09 64 00 66    DUEKOUE"
+    "commune": "HIRE"
   },
   {
-    "nom": "HOPITAL & CLINIQUE",
+    "nom": "PHARMACIE WAHON",
     "type": "PHARMACIE",
+    "commune": "DUEKOUE"
+  },
+  {
+    "nom": "PHARMACIE DE LA GARE DE DUEKOUE",
+    "type": "PHARMACIE",
+    "commune": "DUEKOUE"
+  },
+  {
+    "nom": "HOPITAL GENERAL DE DUEKOUE",
+    "type": "CENTRE DE SOINS",
+    "commune": "DUEKOUE"
+  },
+  {
+    "nom": "CLINIQUE MEDICALE DE DUEKOUE",
+    "type": "CENTRE DE SOINS",
+    "commune": "DUEKOUE"
+  },
+  {
+    "nom": "CLINIQUE STE ANNE MARIE DUEKUE",
+    "type": "CENTRE DE SOINS",
+    "commune": "DUEKOUE"
+  },
+  {
+    "nom": "CLINIQUE SAINTE ANNE MARIE",
+    "type": "CENTRE DE SOINS",
     "commune": "DUEKOUE"
   },
   {
@@ -1635,54 +2995,79 @@
     "commune": "FERKESSEDOUGOU"
   },
   {
+    "nom": "PHARMACIE AHOUANE",
+    "type": "PHARMACIE",
+    "commune": "GAGNOA"
+  },
+  {
+    "nom": "PHARMACIE DE GAGNOA",
+    "type": "PHARMACIE",
+    "commune": "GAGNOA"
+  },
+  {
     "nom": "NOUVELLE PHARMACIE PRINCIPALE",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE DE GAGNOA                        27 32 77 22 92    GAGNOA"
+    "commune": "GAGNOA"
+  },
+  {
+    "nom": "PHARMACIE DU MARCHE DE GAGNOA",
+    "type": "PHARMACIE",
+    "commune": "GAGNOA"
   },
   {
     "nom": "PHARMACIE & LABORATOIRE LAFIA",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE DU MARCHE DE GAGNOA              27 32 77 22 62    FACE BIT"
+    "commune": "GAGNOA"
+  },
+  {
+    "nom": "PHARMACIE MATHE COCOVILLE",
+    "type": "PHARMACIE",
+    "commune": "GAGNOA"
   },
   {
     "nom": "PHARMACIE SAINTE PAULINE",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE MATHE COCOVILLE                  27 32 77 20 83    GAGNOA"
+    "commune": "GAGNOA"
   },
   {
     "nom": "PHARMACIE MARLYNS",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE MATHE COCOVILLE                  27 32 77 20 83    GAGNOA"
+    "commune": "GAGNOA"
   },
   {
     "nom": "PHARMACIE SAINT FRANCOIS D'ASSISE",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE MATHE COCOVILLE                  27 32 77 20 83    GAGNOA"
+    "commune": "GAGNOA"
   },
   {
     "nom": "PHCIE N DAME DE L'IMMACULEE CONCEPTION",
-    "type": "PHARMACIE",
-    "commune": "PHARMACIE MATHE COCOVILLE                  27 32 77 20 83    GAGNOA"
-  },
-  {
-    "nom": "HOPITAL & CLINIQUES",
     "type": "PHARMACIE",
     "commune": "GAGNOA"
   },
   {
     "nom": "CLINIQUE DU FROMAGER",
-    "type": "PHARMACIE",
+    "type": "CENTRE DE SOINS",
     "commune": "GAGNOA"
   },
   {
     "nom": "CLINIQUE MEDICO-CHIRURGICAL \"LE GHERY\"",
-    "type": "PHARMACIE",
+    "type": "CENTRE DE SOINS",
     "commune": "GAGNOA"
   },
   {
-    "nom": "OPHTALMOLOGIE",
+    "nom": "CHR",
     "type": "CENTRE DE SOINS",
-    "commune": "CABINET DENTAIRE MODERNE                  07 07 71 32 33    FACE A BOULANGERIE GARE"
+    "commune": "GAGNOA"
+  },
+  {
+    "nom": "CABINET DENTAIRE MODERNE",
+    "type": "DENTAIRE",
+    "commune": "GAGNOA"
+  },
+  {
+    "nom": "CENTRE MEDICAL CRYSTAL VISION",
+    "type": "OPHTALMOLOGIE",
+    "commune": "GAGNOA"
   },
   {
     "nom": "PHARMACIE WASSIA",
@@ -1690,19 +3075,64 @@
     "commune": "GRAND BASSAM"
   },
   {
+    "nom": "PHARMACIE DU MARCHE DE GRAND BASSAM",
+    "type": "PHARMACIE",
+    "commune": "GRAND BASSAM"
+  },
+  {
     "nom": "PHARMACIE DU LITTORAL",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE DU MARCHE DE GRAND BASSAM      27 21 30 18 13     EN FACE DU MARCHE"
+    "commune": "GRAND BASSAM"
+  },
+  {
+    "nom": "PHARMACIE SAINT AMANS",
+    "type": "PHARMACIE",
+    "commune": "GRAND BASSAM"
+  },
+  {
+    "nom": "PHARMACIE COLOMBE",
+    "type": "PHARMACIE",
+    "commune": "GRAND BASSAM"
+  },
+  {
+    "nom": "OCEAN VISION",
+    "type": "OPTIQUE",
+    "commune": "GRAND BASSAM"
   },
   {
     "nom": "ANOPTIC GROUPE SAS(AGENCE)",
     "type": "OPTIQUE",
-    "commune": "OCEAN VISION                             27 21 30 28 21    BASSAM"
+    "commune": "GRAND BASSAM"
   },
   {
-    "nom": "LABORATOIRE",
+    "nom": "MONOPTICIEN ABLOKOV",
+    "type": "OPTIQUE",
+    "commune": "GRAND BASSAM"
+  },
+  {
+    "nom": "CABINET MEDICAL KOUNOUGBE",
     "type": "CENTRE DE SOINS",
-    "commune": "CABINET DENTAIRE LES ORCHIDEES          21 30 20 12        GRAND BASSAM"
+    "commune": "GRAND BASSAM"
+  },
+  {
+    "nom": "CENTRE MEDICAL SILOE",
+    "type": "CENTRE DE SOINS",
+    "commune": "GRAND BASSAM"
+  },
+  {
+    "nom": "CENTRE MEDICAL DON ORION",
+    "type": "CENTRE DE SOINS",
+    "commune": "GRAND BASSAM"
+  },
+  {
+    "nom": "CABINET DENTAIRE LES ORCHIDEES",
+    "type": "DENTAIRE",
+    "commune": "GRAND BASSAM"
+  },
+  {
+    "nom": "LABORATOIRE COLOMBE",
+    "type": "LABORATOIRE",
+    "commune": "GRAND BASSAM"
   },
   {
     "nom": "PHARMACIE DES 3 Ö",
@@ -1710,164 +3140,334 @@
     "commune": "GRAND LAHOU"
   },
   {
-    "nom": "HOPITAL",
-    "type": "PHARMACIE",
+    "nom": "HOPITAL GENERAL",
+    "type": "CENTRE DE SOINS",
     "commune": "GRAND LAHOU"
   },
   {
-    "nom": "OPTIQUE",
-    "type": "PHARMACIE",
-    "commune": "HOPITAL GENERAL                         34 72 20 33       VOIE PRINCIPALE"
+    "nom": "ANOPTIC GROUPE SAS(AGENCE)",
+    "type": "OPTIQUE",
+    "commune": "GRAND LAHOU"
   },
   {
-    "nom": "ANOPTIC GROUPE SAS(AGENCE)",
+    "nom": "PHARMACIE SEKLE",
     "type": "PHARMACIE",
-    "commune": "HOPITAL GENERAL                         34 72 20 33       VOIE PRINCIPALE"
+    "commune": "GUIBEROUA"
+  },
+  {
+    "nom": "CENTRE DE SANTE URBAIN DE GUIBEROUA",
+    "type": "PHARMACIE",
+    "commune": "GUIBEROUA"
+  },
+  {
+    "nom": "PHARMACIE DE GUIGLO",
+    "type": "PHARMACIE",
+    "commune": "GUIGLO"
   },
   {
     "nom": "PHARMACIE MAIRIE GUIGLO",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE DE GUIGLO                        27 33 70 51 61   NON LOIN DU CHR"
+    "commune": "GUIGLO"
+  },
+  {
+    "nom": "CENTRE MEDICAL STE BERNADEE SARL",
+    "type": "PHARMACIE",
+    "commune": "GUIGLO"
+  },
+  {
+    "nom": "PHARMACIE DE GUITRY",
+    "type": "PHARMACIE",
+    "commune": "GUITRY"
   },
   {
     "nom": "PHARMACIE DIVINE GRACE",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE DE GUITRY                        07 49 35 57 22   GUITRY"
+    "commune": "ISSIA"
+  },
+  {
+    "nom": "PHARMACIE DU COMMERCE",
+    "type": "PHARMACIE",
+    "commune": "ISSIA"
   },
   {
     "nom": "GRDE PHARMACIE HADASSA D’ISSIA",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE DU COMMERCE                      27 32 77 00 45   COMMERCE"
+    "commune": "ISSIA"
   },
   {
-    "nom": "HOPITAUX &CLINIQUES",
+    "nom": "PHARMACIE NOTRE DAME DE LA DELIVRANCE",
     "type": "PHARMACIE",
-    "commune": "NOUVELLE PHARMACIE ESPOIR                  27 32 77 01 76   PRES DE ECOBANK"
+    "commune": "ISSIA"
   },
   {
-    "nom": "HOPITAL & CLINIQUES",
+    "nom": "NOUVELLE PHARMACIE ESPOIR",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE KAKOUMANI                      27 31 66 02 35    KATIOLA"
+    "commune": "ISSIA"
   },
   {
-    "nom": "OPTIQUE",
+    "nom": "ESPACE MEDICAL KAYAF",
+    "type": "CENTRE DE SOINS",
+    "commune": "ISSIA"
+  },
+  {
+    "nom": "PHARMACIE CODO",
     "type": "PHARMACIE",
-    "commune": "CLINIQUE CHIRURGICO MEDICALE             05 65 14 46 07"
+    "commune": "JACQUEVILLE"
+  },
+  {
+    "nom": "NOUVELLE PHARMACIE DE JACQUEVILLE",
+    "type": "PHARMACIE",
+    "commune": "JACQUEVILLE"
+  },
+  {
+    "nom": "PHARMACIE KAKOUMANI",
+    "type": "PHARMACIE",
+    "commune": "KATIOLA"
+  },
+  {
+    "nom": "CLINIQUE CHIRURGICO MEDICALE",
+    "type": "CENTRE DE SOINS",
+    "commune": "KATIOLA"
   },
   {
     "nom": "SUD OPTIC",
+    "type": "OPTIQUE",
+    "commune": "KATIOLA"
+  },
+  {
+    "nom": "PHARMACIE NAOUSSE",
     "type": "PHARMACIE",
-    "commune": "CLINIQUE CHIRURGICO MEDICALE             05 65 14 46 07"
+    "commune": "KONG"
+  },
+  {
+    "nom": "PHARMACIE PRINCIPALE KORHOGO",
+    "type": "PHARMACIE",
+    "commune": "KORHOGO"
+  },
+  {
+    "nom": "PHARMACIE NASSARA",
+    "type": "PHARMACIE",
+    "commune": "KORHOGO"
+  },
+  {
+    "nom": "PHARMACIE SOBA",
+    "type": "PHARMACIE",
+    "commune": "KORHOGO"
+  },
+  {
+    "nom": "PHARMACIE DU PALAIS DE JUSTICE",
+    "type": "PHARMACIE",
+    "commune": "KORHOGO"
+  },
+  {
+    "nom": "PHARMACIE DE LA MOSQUEE",
+    "type": "PHARMACIE",
+    "commune": "KORHOGO"
   },
   {
     "nom": "PHARMACIE MONT KORHOGO",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE DE LA MOSQUEE                  27 36 86 06 40    GRANDE MOSQUEE"
+    "commune": "KORHOGO"
+  },
+  {
+    "nom": "PHARMACIE NOUR KORHOGO",
+    "type": "PHARMACIE",
+    "commune": "KORHOGO"
   },
   {
     "nom": "PHARMACIE DU NORD",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE NOUR KORHOGO                   27 36 86 07 39    FACE AU CHR DE KORHOGO"
+    "commune": "KORHOGO"
   },
   {
-    "nom": "HOPITAUX, CLINIQUES & CENTRES MEDICAUX",
+    "nom": "PHARMACIE DU 14 KORHOGO",
     "type": "PHARMACIE",
+    "commune": "KORHOGO"
+  },
+  {
+    "nom": "CLINIQUE BETHANIE",
+    "type": "CENTRE DE SOINS",
+    "commune": "KORHOGO"
+  },
+  {
+    "nom": "POLYCLINIQUE LA SISANGUE",
+    "type": "CENTRE DE SOINS",
+    "commune": "KORHOGO"
+  },
+  {
+    "nom": "CHR DE KORHOGO",
+    "type": "CENTRE DE SOINS",
+    "commune": "KORHOGO"
+  },
+  {
+    "nom": "PHARMACIE DU MARCHE DE KORHOGO",
+    "type": "CENTRE DE SOINS",
     "commune": "KORHOGO"
   },
   {
     "nom": "NOUVELLE PHARMACIE DU NIENE",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE DU MARCHE DE KORHOGO             07 57 14 38 54    KORHOGO"
+    "commune": "KOUTO"
   },
   {
-    "nom": "CONTACTS",
+    "nom": "PHARMACIE DE LAKOTA",
     "type": "PHARMACIE",
-    "commune": "PHARMACIES                               CONTACT"
+    "commune": "LAKOTA"
+  },
+  {
+    "nom": "NOUVELLE PHARMACIE MARLODIE",
+    "type": "PHARMACIE",
+    "commune": "LAKOTA"
+  },
+  {
+    "nom": "PHARMACIE KENEYA",
+    "type": "PHARMACIE",
+    "commune": "LAKOTA"
+  },
+  {
+    "nom": "CENTRE SANTE URBAIN DE KOUDOULILIE",
+    "type": "PHARMACIE",
+    "commune": "LAKOTA"
   },
   {
     "nom": "PHARMACIE DU COMMERCE",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE KHIANELLY                      27 33 79 36 82    QUARTIER BELLEVILLE/ ROUTE DE FACOBLY"
+    "commune": "MAN"
   },
   {
     "nom": "PHARMACIE MODERNE DE MAN",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE KHIANELLY                      27 33 79 36 82    QUARTIER BELLEVILLE/ ROUTE DE FACOBLY"
+    "commune": "MAN"
   },
   {
     "nom": "PHARMACIE LYMANYA",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE KHIANELLY                      27 33 79 36 82    QUARTIER BELLEVILLE/ ROUTE DE FACOBLY"
+    "commune": "MAN"
   },
   {
     "nom": "PHARMACIE LYCEE CLUB",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE KHIANELLY                      27 33 79 36 82    QUARTIER BELLEVILLE/ ROUTE DE FACOBLY"
+    "commune": "MAN"
   },
   {
-    "nom": "HOPITAL & CLINIQUES",
+    "nom": "PHARMACIE ODELIA",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE DE LA GRDE MOSQUEE MAN         07 07 52 38 79    MAN"
+    "commune": "MAN"
+  },
+  {
+    "nom": "PHARMACIE DE LA GRDE MOSQUEE MAN",
+    "type": "PHARMACIE",
+    "commune": "MAN"
+  },
+  {
+    "nom": "CHR DE MAN",
+    "type": "CENTRE DE SOINS",
+    "commune": "MAN"
+  },
+  {
+    "nom": "CENTRE MEDICAL FIRDAOUSS",
+    "type": "CENTRE DE SOINS",
+    "commune": "MAN"
+  },
+  {
+    "nom": "CENTRE DE SANTE URBAIN DE LIBREVILLE",
+    "type": "CENTRE DE SOINS",
+    "commune": "MAN"
+  },
+  {
+    "nom": "CLINIQUE DENTAIRE ST PIO ET MERE CENDRES",
+    "type": "CENTRE DE SOINS",
+    "commune": "MAN"
+  },
+  {
+    "nom": "ECLA OPTIQUE",
+    "type": "OPTIQUE",
+    "commune": "MAN"
   },
   {
     "nom": "IVOIRE CENTRAL OPTIQUE (AGENCE)",
     "type": "OPTIQUE",
-    "commune": "ECLA OPTIQUE                             07 09 68 20 58    MAN"
+    "commune": "MAN"
+  },
+  {
+    "nom": "NOUVELLE PHARMACIE DES MOSQUEES",
+    "type": "PHARMACIE",
+    "commune": "MANKONO"
   },
   {
     "nom": "PHARMACIE DE M'BATTO",
     "type": "PHARMACIE",
-    "commune": "NOUVELLE PHARMACIE DES MOSQUEES          27 32 74 70 67    MANKONO"
-  },
-  {
-    "nom": "HOPTAUX & CLINIQUES",
-    "type": "PHARMACIE",
-    "commune": "NOUVELLE PHARMACIE DES MOSQUEES          27 32 74 70 67    MANKONO"
+    "commune": "M’BATTO"
   },
   {
     "nom": "HOPITAL GENERAL DE M’BATTO",
-    "type": "PHARMACIE",
-    "commune": "NOUVELLE PHARMACIE DES MOSQUEES          27 32 74 70 67    MANKONO"
+    "type": "CENTRE DE SOINS",
+    "commune": "M’BATTO"
   },
   {
     "nom": "PHARMACIE MODERNE DU N’ZI",
     "type": "PHARMACIE",
-    "commune": "NOUVELLE PHARMACIE DES MOSQUEES          27 32 74 70 67    MANKONO"
+    "commune": "M’BAHIAKRO"
   },
   {
     "nom": "PHCIE N'DOUCI",
     "type": "PHARMACIE",
-    "commune": "NOUVELLE PHARMACIE DES MOSQUEES          27 32 74 70 67    MANKONO"
+    "commune": "N’DOUCI"
   },
   {
     "nom": "HÔPITAL SAINT JEAN BAPTISTE DE BODO",
     "type": "PHARMACIE",
-    "commune": "NOUVELLE PHARMACIE DES MOSQUEES          27 32 74 70 67    MANKONO"
+    "commune": "N’DOUCI"
   },
   {
-    "nom": "HOPITAUX & CLINIQUE",
+    "nom": "PHARMACIE DES FRONTIERES",
     "type": "PHARMACIE",
-    "commune": "GRANDE PHARMACIE DU DINGUELE             27 33 70 37 82     ODIENNE"
+    "commune": "ODIENNE"
+  },
+  {
+    "nom": "PHARMACIE DU ROND POINT ODIENNE",
+    "type": "PHARMACIE",
+    "commune": "ODIENNE"
+  },
+  {
+    "nom": "GRANDE PHARMACIE DU DINGUELE",
+    "type": "PHARMACIE",
+    "commune": "ODIENNE"
+  },
+  {
+    "nom": "CHR ODIENNE",
+    "type": "CENTRE DE SOINS",
+    "commune": "ODIENNE"
+  },
+  {
+    "nom": "PHARMACIE MODERNE DE OUANGOLO",
+    "type": "PHARMACIE",
+    "commune": "OUANGOLO"
   },
   {
     "nom": "PHARMACIE D'OUME",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE MODERNE DE OUANGOLO             27 36 86 66 29    OUANGOLO"
+    "commune": "OUME"
   },
   {
     "nom": "PHARMACIE DE LA TENE",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE MODERNE DE OUANGOLO             27 36 86 66 29    OUANGOLO"
+    "commune": "OUME"
   },
   {
-    "nom": "HOPITAUX & CLINIQUES",
+    "nom": "PHARMACIE CENTRALE OUME",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE CENTRALE OUME                    27 30 68 40 78    COMMERCE"
+    "commune": "OUME"
   },
   {
     "nom": "HOPITAL GENERAL D'OUME",
-    "type": "PHARMACIE",
-    "commune": "PHARMACIE CENTRALE OUME                    27 30 68 40 78    COMMERCE"
+    "type": "CENTRE DE SOINS",
+    "commune": "OUME"
+  },
+  {
+    "nom": "CLINIQUE MEDICALE LES PERLES",
+    "type": "CENTRE DE SOINS",
+    "commune": "OUME"
   },
   {
     "nom": "PHARMACIE LES BEATITUDES",
@@ -1875,69 +3475,89 @@
     "commune": "SAN PEDRO"
   },
   {
+    "nom": "PHARMACIE DU LAC",
+    "type": "PHARMACIE",
+    "commune": "SAN PEDRO"
+  },
+  {
+    "nom": "PHARMACIE ROI DAVID",
+    "type": "PHARMACIE",
+    "commune": "SAN PEDRO"
+  },
+  {
     "nom": "PHARMACIE NITORO",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE ROI DAVID                        07 08 30 86 39    QUARTIER JULES FERRY/ HOTEL MANZAN"
+    "commune": "SAN PEDRO"
+  },
+  {
+    "nom": "PHARMACIE NABENOU",
+    "type": "PHARMACIE",
+    "commune": "SAN PEDRO"
   },
   {
     "nom": "NOUVELLE PHARMACIE DE LA CITE",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE NABENOU                          07 77 74 18 13    CITE MARCHE"
-  },
-  {
-    "nom": "HOPITAL & CLINIQUES",
-    "type": "PHARMACIE",
-    "commune": "PHARMACIE NABENOU                          07 77 74 18 13    CITE MARCHE"
+    "commune": "SAN PEDRO"
   },
   {
     "nom": "CLINIQUE CENTRALE DE SAN PEDRO",
-    "type": "PHARMACIE",
-    "commune": "PHARMACIE NABENOU                          07 77 74 18 13    CITE MARCHE"
+    "type": "CENTRE DE SOINS",
+    "commune": "SAN PEDRO"
   },
   {
     "nom": "CHR DE SAN PEDRO",
-    "type": "PHARMACIE",
-    "commune": "PHARMACIE NABENOU                          07 77 74 18 13    CITE MARCHE"
+    "type": "CENTRE DE SOINS",
+    "commune": "SAN PEDRO"
   },
   {
-    "nom": "CTRES MEDICAUX",
-    "type": "PHARMACIE",
-    "commune": "CLINIQUE MEDICALE NOTRE DAME SARL          27 34 71 35 35    QT CITE NITORO"
+    "nom": "CLINIQUE MEDICALE NOTRE DAME SARL",
+    "type": "CENTRE DE SOINS",
+    "commune": "SAN PEDRO"
   },
   {
     "nom": "ESPACE MEDICAL PASTEUR",
-    "type": "PHARMACIE",
-    "commune": "CLINIQUE MEDICALE NOTRE DAME SARL          27 34 71 35 35    QT CITE NITORO"
+    "type": "CENTRE DE SOINS",
+    "commune": "SAN PEDRO"
   },
   {
     "nom": "CABINET MEDICAL D'OPHTAMOLOGIE IRIS",
-    "type": "PHARMACIE",
-    "commune": "CLINIQUE MEDICALE NOTRE DAME SARL          27 34 71 35 35    QT CITE NITORO"
+    "type": "CENTRE DE SOINS",
+    "commune": "SAN PEDRO"
   },
   {
     "nom": "CTRE KINE MEDICAL (BEGNANCO)",
-    "type": "CENTRE DE SOINS",
-    "commune": "CLINIQUE MEDICALE NOTRE DAME SARL          27 34 71 35 35    QT CITE NITORO"
+    "type": "KINESITHERAPIE",
+    "commune": "SAN PEDRO"
   },
   {
-    "nom": "CABINETS DENTAIRES - KINE",
-    "type": "CENTRE DE SOINS",
-    "commune": "CLINIQUE MEDICALE NOTRE DAME SARL          27 34 71 35 35    QT CITE NITORO"
+    "nom": "CLINIQUE DENTAIRE ROSYL",
+    "type": "DENTAIRE",
+    "commune": "SAN PEDRO"
   },
   {
-    "nom": "LABO-RADIO-SCANNER",
-    "type": "CENTRE DE SOINS",
-    "commune": "CLINIQUE DENTAIRE SATY                  27 34 71 53 80   SAN PEDRO"
+    "nom": "CLINIQUE DENTAIRE SATY",
+    "type": "DENTAIRE",
+    "commune": "SAN PEDRO"
+  },
+  {
+    "nom": "LA ROSETTE SAN PEDRO",
+    "type": "IMAGERIE",
+    "commune": "SAN PEDRO"
   },
   {
     "nom": "ZOOM OPTIQUE",
     "type": "OPTIQUE",
-    "commune": "LA ROSETTE SAN PEDRO                   27 34 71 00 44    QT LAC CARREF GDES ENDEMIES"
+    "commune": "SAN PEDRO"
+  },
+  {
+    "nom": "MODERN OPTIQUE",
+    "type": "OPTIQUE",
+    "commune": "SAN PEDRO"
   },
   {
     "nom": "DESIGN OPTIQUE",
     "type": "OPTIQUE",
-    "commune": "MODERN OPTIQUE                         27 20 22 75 74    SAN PEDRO"
+    "commune": "SAN PEDRO"
   },
   {
     "nom": "PHARMACIE SARA-ANNA",
@@ -1945,8 +3565,8 @@
     "commune": "SASSANDRA"
   },
   {
-    "nom": "HOPITAL & CLINIQUES",
-    "type": "PHARMACIE",
+    "nom": "HOPITAL GENERAL DE SASSANDRA",
+    "type": "CENTRE DE SOINS",
     "commune": "SASSANDRA"
   },
   {
@@ -1955,122 +3575,217 @@
     "commune": "SEGUELA"
   },
   {
+    "nom": "PHARMACIE DU MARCHE",
+    "type": "PHARMACIE",
+    "commune": "SIKENSI"
+  },
+  {
+    "nom": "PHARMACIE PRINCIPALE DE SIKENSI",
+    "type": "PHARMACIE",
+    "commune": "SIKENSI"
+  },
+  {
     "nom": "NOUVELLE PHARMACIE KAVOUDRÔ",
     "type": "PHARMACIE",
     "commune": "SINFRA"
   },
   {
-    "nom": "PHARMACIE SAINTE RITA",
+    "nom": "PHARMACIE PRINCIPALE DE SINFRA",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE DE LA MOSQUEE               07 07 89 95 83    SOUBRE"
+    "commune": "SINFRA"
   },
   {
-    "nom": "PHARMACIE DU CHÂTEAU D'EAU",
+    "nom": "PHARMACIE DE SINFRA",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE DE LA MOSQUEE               07 07 89 95 83    SOUBRE"
+    "commune": "SINFRA"
   },
   {
-    "nom": "PHARMACIE PROVIDENCE SOUBRE",
-    "type": "PHARMACIE",
-    "commune": "PHARMACIE DE LA MOSQUEE               07 07 89 95 83    SOUBRE"
-  },
-  {
-    "nom": "PHARMACIE DE L’IMMACULEE SOUBRE",
-    "type": "PHARMACIE",
-    "commune": "PHARMACIE DE LA MOSQUEE               07 07 89 95 83    SOUBRE"
-  },
-  {
-    "nom": "PHARMACIE DE LA GARE DE SOUBRE",
-    "type": "PHARMACIE",
-    "commune": "PHARMACIE DE LA MOSQUEE               07 07 89 95 83    SOUBRE"
-  },
-  {
-    "nom": "GRANDE PHARMACIE SUD-OUEST",
-    "type": "PHARMACIE",
-    "commune": "PHARMACIE DE LA MAIRIE DE SOUBRE      27 34 72 30 75    SOUBRE"
-  },
-  {
-    "nom": "01 01 56 80 90",
-    "type": "PHARMACIE",
-    "commune": "PHARMACIE DE LA MAIRIE DE SOUBRE      27 34 72 30 75    SOUBRE"
-  },
-  {
-    "nom": "HOPITAL & CLINIQUES",
+    "nom": "PHARMACIE DE LA MOSQUEE",
     "type": "PHARMACIE",
     "commune": "SOUBRE"
   },
   {
-    "nom": "CENTRE MEDICO CHIRURGICAL SAINTETRINITE",
+    "nom": "PHARMACIE SAINTE RITA",
     "type": "PHARMACIE",
-    "commune": "INFIRMERIE DE CORPS DE TROUPES SOUBRE      07 07 18 87 85   SOUBRE"
+    "commune": "SOUBRE"
+  },
+  {
+    "nom": "PHARMACIE DU CHÂTEAU D'EAU",
+    "type": "PHARMACIE",
+    "commune": "SOUBRE"
+  },
+  {
+    "nom": "PHARMACIE PROVIDENCE SOUBRE",
+    "type": "PHARMACIE",
+    "commune": "SOUBRE"
+  },
+  {
+    "nom": "PHARMACIE DE L’IMMACULEE SOUBRE",
+    "type": "PHARMACIE",
+    "commune": "SOUBRE"
+  },
+  {
+    "nom": "PHARMACIE DE LA GARE DE SOUBRE",
+    "type": "PHARMACIE",
+    "commune": "SOUBRE"
+  },
+  {
+    "nom": "PHARMACIE DE LA MAIRIE DE SOUBRE",
+    "type": "PHARMACIE",
+    "commune": "SOUBRE"
+  },
+  {
+    "nom": "GRANDE PHARMACIE SUD-OUEST",
+    "type": "PHARMACIE",
+    "commune": "SOUBRE"
+  },
+  {
+    "nom": "POLYCLINIQUE SAINTE MARIE DE LA NAWA",
+    "type": "CENTRE DE SOINS",
+    "commune": "SOUBRE"
+  },
+  {
+    "nom": "INFIRMERIE DE CORPS DE TROUPES SOUBRE",
+    "type": "CENTRE DE SOINS",
+    "commune": "SOUBRE"
+  },
+  {
+    "nom": "CENTRE MEDICO CHIRURGICAL SAINTE TRINITE",
+    "type": "CENTRE DE SOINS",
+    "commune": "SOUBRE"
+  },
+  {
+    "nom": "CLINIQUE EMERGENCE BIOMEDICAL",
+    "type": "CENTRE DE SOINS",
+    "commune": "SOUBRE"
+  },
+  {
+    "nom": "HOPITAL GENERAL DE SOUBRE",
+    "type": "CENTRE DE SOINS",
+    "commune": "SOUBRE"
   },
   {
     "nom": "CENTRE MEDICAL OASIS \"LE PARISIEN\"",
-    "type": "PHARMACIE",
-    "commune": "HOPITAL GENERAL DE SOUBRE                  27 34 72 20 33   SOUBRE"
+    "type": "CENTRE DE SOINS",
+    "commune": "SOUBRE"
   },
   {
-    "nom": "DR PENIFANA O. OUMOU",
-    "type": "PHARMACIE",
-    "commune": "CABINET DENTAIRE BEAU SOURIRE/            07 09 14 92 94"
-  },
-  {
-    "nom": "OPTICENS",
-    "type": "PHARMACIE",
-    "commune": "CABINET DENTAIRE BEAU SOURIRE/            07 09 14 92 94"
+    "nom": "CABINET DENTAIRE BEAU SOURIRE/ DR PENIFANA O. OUMOU",
+    "type": "CENTRE DE SOINS",
+    "commune": "SOUBRE"
   },
   {
     "nom": "ZOOM OPTIQUE (AGENCE)",
-    "type": "PHARMACIE",
-    "commune": "CABINET DENTAIRE BEAU SOURIRE/            07 09 14 92 94"
+    "type": "OPTIQUE",
+    "commune": "SOUBRE"
   },
   {
     "nom": "PHARMACIE L'EMMANUEL DE TAABO",
     "type": "PHARMACIE",
-    "commune": "CABINET DENTAIRE BEAU SOURIRE/            07 09 14 92 94"
-  },
-  {
-    "nom": "HOPITAUX & CLINIQUES",
-    "type": "PHARMACIE",
-    "commune": "CABINET DENTAIRE BEAU SOURIRE/            07 09 14 92 94"
+    "commune": "TAABO"
   },
   {
     "nom": "HÔPITAL DE TAABO",
-    "type": "PHARMACIE",
-    "commune": "CABINET DENTAIRE BEAU SOURIRE/            07 09 14 92 94"
+    "type": "CENTRE DE SOINS",
+    "commune": "TAABO"
   },
   {
-    "nom": "HOPITAUX",
+    "nom": "NOUVELLE PHARMACIE DE TABOU",
     "type": "PHARMACIE",
-    "commune": "NOUVELLE PHARMACIE DE TABOU                27 59 50 43 09   TABOU"
+    "commune": "TABOU"
+  },
+  {
+    "nom": "HOPITAL GENERAL DE TABOU",
+    "type": "CENTRE DE SOINS",
+    "commune": "TABOU"
+  },
+  {
+    "nom": "CLINIQUE MEDICALE LES OLIVIERS DE TABOU",
+    "type": "CENTRE DE SOINS",
+    "commune": "TABOU"
+  },
+  {
+    "nom": "PHARMACIE DES BRONS",
+    "type": "PHARMACIE",
+    "commune": "TANDA"
+  },
+  {
+    "nom": "HOPITAL GENERAL DE TANDA",
+    "type": "CENTRE DE SOINS",
+    "commune": "TANDA"
+  },
+  {
+    "nom": "PHARMCIE SAINTE MARIE DE TIASSALE",
+    "type": "PHARMACIE",
+    "commune": "TIASSALE"
   },
   {
     "nom": "PHARMCIE VALENTINE-AYA DE TIASSALE",
     "type": "PHARMACIE",
-    "commune": "PHARMCIE SAINTE MARIE DE TIASSALE      01 01 31 31 72    TIASSALE"
+    "commune": "TIASSALE"
+  },
+  {
+    "nom": "PHAMACIE DE TIEBISSOU",
+    "type": "PHARMACIE",
+    "commune": "TIEBISSOU"
+  },
+  {
+    "nom": "HOPITAL GENERAL DE TIEBISSOU",
+    "type": "PHARMACIE",
+    "commune": "TIEBISSOU"
+  },
+  {
+    "nom": "NOUVELLE PHARMACIE DE TOUBA",
+    "type": "PHARMACIE",
+    "commune": "TOUBA"
+  },
+  {
+    "nom": "IDYLL OPTIC",
+    "type": "OPTIQUE",
+    "commune": "TOUBA"
+  },
+  {
+    "nom": "PHARMACIE EL SHADDAI",
+    "type": "PHARMACIE",
+    "commune": "TOULEPLEU"
+  },
+  {
+    "nom": "PHARMACIE NOTRE DAME DE LA SANTE",
+    "type": "PHARMACIE",
+    "commune": "TOUMODI"
   },
   {
     "nom": "PHARMACIE DE TOUMODI",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE NOTRE DAME DE LA SANTE         27 30 62 90 45    TOUMODI"
+    "commune": "TOUMODI"
   },
   {
-    "nom": "HOPITAL & CLINIQUES",
+    "nom": "PHARMACIE MOYA",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE MOYA                           27 07 79 51 15    TOUMODI"
+    "commune": "TOUMODI"
   },
   {
-    "nom": "HOPITAL & CLINIQUES",
-    "type": "PHARMACIE",
-    "commune": "VAVOUA"
+    "nom": "CLINIQUE MEDICALE ESPERANCE DE TOUMODI",
+    "type": "CENTRE DE SOINS",
+    "commune": "TOUMODI"
+  },
+  {
+    "nom": "CENTRE HOSPITALIER REGIONAL",
+    "type": "CENTRE DE SOINS",
+    "commune": "TOUMODI"
   },
   {
     "nom": "HOPITAL GENERAL DE VAVOUA",
-    "type": "PHARMACIE",
+    "type": "CENTRE DE SOINS",
     "commune": "VAVOUA"
   },
   {
     "nom": "NOUVELLE PHARMACIE MODERNE DE VAVOUA",
+    "type": "PHARMACIE",
+    "commune": "VAVOUA"
+  },
+  {
+    "nom": "PHARMACIE KEJAG",
     "type": "PHARMACIE",
     "commune": "VAVOUA"
   },
@@ -2080,88 +3795,173 @@
     "commune": "YAMOUSSOUKRO"
   },
   {
+    "nom": "PHARMACIE SANITAS",
+    "type": "PHARMACIE",
+    "commune": "YAMOUSSOUKRO"
+  },
+  {
     "nom": "PHARMACIE DES 220 LOGEMENTS",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE SANITAS                              27 30 64 08 88     YAMOUSSOUKRO"
+    "commune": "YAMOUSSOUKRO"
   },
   {
     "nom": "PHARMACIE DES LACS",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE SANITAS                              27 30 64 08 88     YAMOUSSOUKRO"
+    "commune": "YAMOUSSOUKRO"
+  },
+  {
+    "nom": "PHARMACIE LES MAGNOLIAS",
+    "type": "PHARMACIE",
+    "commune": "YAMOUSSOUKRO"
+  },
+  {
+    "nom": "PHARMACIE DE YAMOUSSOUKRO",
+    "type": "PHARMACIE",
+    "commune": "YAMOUSSOUKRO"
   },
   {
     "nom": "PHARMACIE MILIWANGAH",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE DE YAMOUSSOUKRO                      27 30 64 04 12     QT ENERGIE EN FACE DU GRD MARCHE"
+    "commune": "YAMOUSSOUKRO"
   },
   {
-    "nom": "HOPITAL & CLINIQUES",
+    "nom": "PHARMACIE AZI",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE AZI                                  27 30 64 26 86     NON LOIN DE LA GENDARMERIE"
+    "commune": "YAMOUSSOUKRO"
   },
   {
-    "nom": "CLINIQUE MÉDICO- CHIRURGICALE GRACE DES LACS",
-    "type": "PHARMACIE",
-    "commune": "CLINIQUE EMMANUEL / 220 LGTS                   27 30 64 56 09    QT ASSABOU RTE IVOSEP"
-  },
-  {
-    "nom": "HÔPTAL CATHOLIQUE SAINT JOSEPH MOSCATI",
-    "type": "PHARMACIE",
-    "commune": "CLINIQUE EMMANUEL / 220 LGTS                   27 30 64 56 09    QT ASSABOU RTE IVOSEP"
-  },
-  {
-    "nom": "CLINIQUE MEDICALE ENERGY",
-    "type": "PHARMACIE",
-    "commune": "CLINIQUE EMMANUEL / 220 LGTS                   27 30 64 56 09    QT ASSABOU RTE IVOSEP"
-  },
-  {
-    "nom": "CABINET MEDICAL D'OPHTALMOLOGIE",
-    "type": "CENTRE DE SOINS",
-    "commune": "27 30 64 00 33"
-  },
-  {
-    "nom": "CENTRE D'OPHTALMOLOGIE DE KAMI",
-    "type": "CENTRE DE SOINS",
-    "commune": "27 30 64 00 33"
-  },
-  {
-    "nom": "CABINET DENTAIRE GARDE REPUBLICAINE",
+    "nom": "CLINIQUE EMMANUEL / 220 LGTS",
     "type": "CENTRE DE SOINS",
     "commune": "YAMOUSSOUKRO"
   },
   {
-    "nom": "CABINET DENTAIRE « LA PITIE »",
+    "nom": "CLINIQUE MÉDICO- CHIRURGICALE GRACE DES LACS",
     "type": "CENTRE DE SOINS",
+    "commune": "YAMOUSSOUKRO"
+  },
+  {
+    "nom": "HÔPTAL CATHOLIQUE SAINT JOSEPH MOSCATI",
+    "type": "CENTRE DE SOINS",
+    "commune": "YAMOUSSOUKRO"
+  },
+  {
+    "nom": "CLINIQUE MEDICALE ENERGY",
+    "type": "CENTRE DE SOINS",
+    "commune": "YAMOUSSOUKRO"
+  },
+  {
+    "nom": "GROUPE MEDICAL SAINT SAUVEUR",
+    "type": "CENTRE DE SOINS",
+    "commune": "YAMOUSSOUKRO"
+  },
+  {
+    "nom": "CHR YAMOUSSOUKRO",
+    "type": "CENTRE DE SOINS",
+    "commune": "YAMOUSSOUKRO"
+  },
+  {
+    "nom": "CABINET MEDICAL D'OPHTALMOLOGIE",
+    "type": "CENTRE DE SOINS",
+    "commune": "YAMOUSSOUKRO"
+  },
+  {
+    "nom": "CENTRE D'OPHTALMOLOGIE DE KAMI",
+    "type": "CENTRE DE SOINS",
+    "commune": "YAMOUSSOUKRO"
+  },
+  {
+    "nom": "CABINET MEDICAL ET CARDIOLOGIQUE",
+    "type": "CENTRE DE SOINS",
+    "commune": "YAMOUSSOUKRO"
+  },
+  {
+    "nom": "CABINET DENTAIRE LA PITIE",
+    "type": "CENTRE DE SOINS",
+    "commune": "YAMOUSSOUKRO"
+  },
+  {
+    "nom": "CABINET DENTAIRE GARDE REPUBLICAINE",
+    "type": "DENTAIRE",
+    "commune": "YAMOUSSOUKRO"
+  },
+  {
+    "nom": "CABINET DENTAIRE « LA PITIE »",
+    "type": "DENTAIRE",
+    "commune": "YAMOUSSOUKRO"
+  },
+  {
+    "nom": "ESPACE OPTIQUE",
+    "type": "OPTIQUE",
     "commune": "YAMOUSSOUKRO"
   },
   {
     "nom": "ART & VISION",
     "type": "OPTIQUE",
-    "commune": "05 05 46 92 07"
+    "commune": "YAMOUSSOUKRO"
   },
   {
-    "nom": "KINE",
+    "nom": "TULIPE OPTIQUE",
     "type": "OPTIQUE",
-    "commune": "CLEAN VISION                              27 30 64 26 85    CTRE COM MOFFAITAI"
+    "commune": "YAMOUSSOUKRO"
+  },
+  {
+    "nom": "CLEAN OPTIC",
+    "type": "OPTIQUE",
+    "commune": "YAMOUSSOUKRO"
+  },
+  {
+    "nom": "ADORS VISION",
+    "type": "OPTIQUE",
+    "commune": "YAMOUSSOUKRO"
+  },
+  {
+    "nom": "AFRICAN PRESTIGE OPTIC",
+    "type": "OPTIQUE",
+    "commune": "YAMOUSSOUKRO"
+  },
+  {
+    "nom": "CLEAN VISION",
+    "type": "OPTIQUE",
+    "commune": "YAMOUSSOUKRO"
   },
   {
     "nom": "CENTRE MIE N GOU/SŒUR SUZANNE",
-    "type": "OPTIQUE",
-    "commune": "CLEAN VISION                              27 30 64 26 85    CTRE COM MOFFAITAI"
+    "type": "KINESITHERAPIE",
+    "commune": "YAMOUSSOUKRO"
   },
   {
     "nom": "LABO D’ANALYSE MEDICALE DU CENTRE",
     "type": "LABORATOIRE",
-    "commune": "CLEAN VISION                              27 30 64 26 85    CTRE COM MOFFAITAI"
+    "commune": "YAMOUSSOUKRO"
   },
   {
     "nom": "LABO D’ANALYSE MEDICALES DES LACS",
     "type": "LABORATOIRE",
-    "commune": "CLEAN VISION                              27 30 64 26 85    CTRE COM MOFFAITAI"
+    "commune": "YAMOUSSOUKRO"
   },
   {
-    "nom": "HOPITAUX & TRE MEDICAUX",
+    "nom": "PHCIE DE ZOUAN HOUNIEN",
     "type": "PHARMACIE",
-    "commune": "PHARMACIE MATHE                       02 02 00 03 01    ZUENOULA"
+    "commune": "ZOUAN HOUNIEN"
+  },
+  {
+    "nom": "PHARMACIE DE ZUENOULA",
+    "type": "PHARMACIE",
+    "commune": "ZUENOULA"
+  },
+  {
+    "nom": "PHARMACIE MATHE",
+    "type": "PHARMACIE",
+    "commune": "ZUENOULA"
+  },
+  {
+    "nom": "HOPITAL GENERAL ZUENOULA",
+    "type": "CENTRE DE SOINS",
+    "commune": "ZUENOULA"
+  },
+  {
+    "nom": "CENTRE MEDICAL EMMANUEL",
+    "type": "CENTRE DE SOINS",
+    "commune": "ZUENOULA"
   }
 ]
