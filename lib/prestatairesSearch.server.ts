@@ -1,6 +1,7 @@
 import fs from "fs";
 import path from "path";
 import { communeMatches, type Prestataire } from "@/lib/prestataires";
+import { buildInstitutionalRecommendationBlock } from "@/lib/pointsFocaux";
 import {
   extractCommuneFromText,
   filterByTypeHint,
@@ -58,11 +59,18 @@ function formatPrestatairesContextBlock(
     );
   }
 
+  const recommendationBlock = buildInstitutionalRecommendationBlock(commune);
+
   return [
     `[PRESTATAIRES DISPONIBLES À ${commune}]`,
     ...lines,
     "[FIN LISTE]",
-    "Consigne : cite uniquement les établissements de cette liste. N'invente aucun nom.",
+    "",
+    "Consignes obligatoires pour l'assistant :",
+    "1. Cite uniquement les établissements de cette liste (nom exact). N'invente aucun nom.",
+    "2. OBLIGATOIRE : Ajoute systématiquement à la fin de ta réponse la recommandation institutionnelle et le point focal ci-dessous, au mot près :",
+    "",
+    recommendationBlock,
   ].join("\n");
 }
 

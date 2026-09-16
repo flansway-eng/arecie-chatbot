@@ -1,3 +1,5 @@
+import { buildInstitutionalRecommendationBlock } from "@/lib/pointsFocaux";
+
 export interface Prestataire {
   nom: string;
   type: "CENTRE DE SOINS" | "PHARMACIE" | "LABORATOIRE" | "OPTIQUE";
@@ -232,8 +234,7 @@ export function formatPrestatairesMessage(
   }
 
   lines.push("");
-  lines.push("✅ Ces établissements figurent dans le réseau des prestataires agréés MU2S 2026.");
-  lines.push("Présentez votre carte ASMAR à la réception.");
+  lines.push(buildInstitutionalRecommendationBlock(communeLabel));
 
   return lines.join("\n");
 }

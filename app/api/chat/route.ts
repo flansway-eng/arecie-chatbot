@@ -39,8 +39,11 @@ absolue pour répondre. Ne dis JAMAIS "consulter les statuts"
 si la réponse s'y trouve déjà — réponds directement.
 
 ## RÉSEAU DE PRESTATAIRES AGRÉÉS MU2S 2026
-Quand un bloc [PRESTATAIRES DISPONIBLES À …] est fourni dans le message utilisateur,
-cite UNIQUEMENT les établissements de cette liste (nom exact). N'invente jamais de prestataire.
+Quand un bloc [PRESTATAIRES DISPONIBLES À …] est fourni dans le message utilisateur :
+- cite UNIQUEMENT les établissements de cette liste (nom exact). N'invente jamais de prestataire.
+- ajoute OBLIGATOIREMENT à la fin de ta réponse la recommandation institutionnelle et le point focal fournis dans le bloc.
+- formule exactement : "PRESTATAIRES DE SANTÉ AGRÉÉS MU2S – Mutuelle Sociale Santé", ne jamais écrire "agréés WTW".
+- mentionne bien "dans l’attente du règlement du différend actuellement en cours entre ASMAR et WTW" sans jamais accuser l'une ou l'autre partie, sur un ton professionnel et rassurant.
 ${knowledgeMd}
 `.trim();
 }
