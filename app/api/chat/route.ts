@@ -1,5 +1,5 @@
 import { NextResponse } from "next/server";
-import Anthropic from "@anthropic-ai/sdk";
+import OpenAI from "openai";
 import fs from "fs";
 import path from "path";
 import { buildPrestataireInjection } from "@/lib/prestatairesSearch.server";
@@ -90,16 +90,20 @@ export async function POST(req: Request) {
       );
     }
 
-    if (!process.env.ANTHROPIC_API_KEY) {
-      console.error("ANTHROPIC_API_KEY is not configured");
+    if (
+      !process.env.QWEN_API_KEY ||
+      !process.env.QWEN_BASE_URL ||
+      !process.env.QWEN_MODEL
+    ) {
       return NextResponse.json(
         { error: "Configuration serveur incomplète. Veuillez réessayer plus tard." },
         { status: 500 }
       );
     }
 
-    const anthropic = new Anthropic({
-      apiKey: process.env.ANTHROPIC_API_KEY,
+    const qwen = new OpenAI({
+      apiKey: process.env.QWEN_API_KEY,
+      baseURL: process.env.QWEN_BASE_URL,
     });
 
     const enrichedMessages = enrichMessagesWithPrestataires(
@@ -111,21 +115,36 @@ export async function POST(req: Request) {
 
     while (attempts <= maxRetries) {
       try {
-        const response = await anthropic.messages.create({
-          model: "claude-sonnet-4-6",
+        const response = await qwen.chat.completions.create({
+          model: process.env.QWEN_MODEL || "qwen3.8-flash",
+          messages: [
+            {
+              role: "system",
+              content: systemPrompt,
+            },
+            ...enrichedMessages,
+          ],
           max_tokens: 1024,
-          system: systemPrompt,
-          messages: enrichedMessages,
         });
 
-        const contentBlock = response.content.find((block) => block.type === "text");
         const text =
-          contentBlock && contentBlock.type === "text" ? contentBlock.text : "";
+          response.choices?.[0]?.message?.content ?? "";
 
         return NextResponse.json({ reply: text });
       } catch (error) {
         attempts++;
-        console.error(`Anthropic API Error (Attempt ${attempts}):`, error);
+        
+        const err = error as { status?: number; message?: string; headers?: Record<string, string>; requestId?: string };
+        const status = err?.status;
+        const message = err?.message;
+        const requestId = err?.headers?.['x-request-id'] || err?.requestId;
+        
+        console.error("Qwen API Error:", {
+          status,
+          message,
+          requestId
+        });
+        
         if (attempts > maxRetries) {
           return NextResponse.json(
             {
